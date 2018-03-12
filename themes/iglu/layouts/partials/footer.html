@@ -216,7 +216,6 @@
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.2.4/jquery.min.js"></script>
 
 <script type="text/javascript" src="js/mini.js"></script>
-<script type="text/javascript" src="js/instagram.js"></script>
 
 <script>
 
@@ -228,14 +227,35 @@
 		limit: 6,
 		resolution: 'standard_resolution',
 		template: '<li class=""><a href="{{.Site.Params.insta_link}}" target="_blank" rel="noopener" class=""><img src="{{.Site.Params.insta_img}}" class="" alt="{{.Site.Params.insta_caption}}"><span class="instagram-meta"><span class="instagram-likes"><i class="icon icon-heart"></i> {{.Site.Params.insta_likes}}</span><span class="instagram-comments"><i class="icon icon-speech-bubble"></i>{{.Site.Params.insta_comments}}</span></span></a></li>'
-    });
+		});
+		
+		var disqus_loaded = false;
+
+			function load_disqus() {
+				disqus_loaded = true;
+				var disqus_config = function () {
+					this.page.url = "{{.Site.BaseURL}}{{ .RelPermalink }}";  // Replace PAGE_URL with your page's canonical URL variable
+					this.page.identifier = "{{ .Title }}"; // Replace PAGE_IDENTIFIER with your page's unique identifier variable
+				};
+				(function () { // DON'T EDIT BELOW THIS LINE
+					var d = document, s = d.createElement('script');
+					s.src = 'https://igluonline.disqus.com/embed.js';
+					s.setAttribute('data-timestamp', +new Date());
+					(d.head || d.body).appendChild(s);
+				})();
+			}
 	
 		window.onscroll = function () {
 
-			if (window.innerHeight > 1000) {
-
+			if (window.pageYOffset > 1000) {
 				feed.run();
 				window.onscroll = null;
+
+				{{if eq .Section "post"}}
+				console.log('disqus')
+
+					if (disqus_loaded == false) { load_disqus() };
+				{{ end }}
 			}
 		}
 
