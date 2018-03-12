@@ -230,8 +230,6 @@
 		template: '<li class=""><a href="{{.Site.Params.insta_link}}" target="_blank" rel="noopener" class=""><img src="{{.Site.Params.insta_img}}" class="" alt="{{.Site.Params.insta_caption}}"><span class="instagram-meta"><span class="instagram-likes"><i class="icon icon-heart"></i> {{.Site.Params.insta_likes}}</span><span class="instagram-comments"><i class="icon icon-speech-bubble"></i>{{.Site.Params.insta_comments}}</span></span></a></li>'
     });
 	
-
-	{{if eq .Section "post"}}
 		window.onscroll = function () {
 
 			if (window.innerHeight > 1000) {
@@ -240,9 +238,6 @@
 				window.onscroll = null;
 			}
 		}
-		{{ else }}
-			 feed.run();
-		{{ end }}
 
 	</script>
 
