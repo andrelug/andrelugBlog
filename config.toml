@@ -1,21 +1,21 @@
-baseurl = "https://www.igluonline.com"
+baseurl = "https://andrelug.com"
 languageCode = "pt-br"
 paginate = 4
 theme = "iglu"
-title = "Iglu - Design, Programação e Trabalho Freelancer"
+title = "André Lug - Digital nômade, lifestyle e trabalho freelancer"
 enableRobotsTXT = true
 defaultContentLanguage = "pt"
 [blackfriday]
 hrefTargetBlank = true
 [params]
 date_format = "0002-01-20T00:00:00+00:00"
-description = "Iglu é um blog para designers, programadores e freelancers com o foco em compartilhar recursos, tutoriais, informações e dicas."
+description = "Blog sobre estilo de vida como nômade digital, trabalho freelancer e empreendedorismo. Cheio de dicas e ideias para quem quer ser livre na vida e no trabalho."
 insta_caption = "{{caption}}"
 insta_comments = "{{comments}}"
 insta_img = "{{image}}"
 insta_likes = "{{likes}}"
 insta_link = "{{link}}"
-name = "Iglu - Design, Programação e Trabalho Freelancer"
+name = "André Lug - Digital nômade, lifestyle e trabalho freelancer"
 [params.featured]
 hide = false
 [params.recentposts]
@@ -28,4 +28,4 @@ author = "author"
 category = "categories"
 tag = "tags"
 [author]
-name = "André Lucas"
+name = "André Lug"
