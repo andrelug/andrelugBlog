@@ -31,7 +31,7 @@ Além disso é esperado de nós saber lidar com o stress, mas poucos de nós tem
 
 O stress não pode ser justificativa para agirmos de forma grosseira, pouco produtiva ou nos colocar como mais importantes do que os outros, então ter o domínio dele é a melhor forma de mantermos o controle e razão.
 
-<a href="https://www.igluonline.com/voce-nao-e-sua-produtividade-diminua-velocidade/" target="_blank"><strong>Aproveite para ler essa visão controversa a respeito da sua produtividade.</strong></a>
+<a href="https://andrelug.com/voce-nao-e-sua-produtividade-diminua-velocidade/" target="_blank"><strong>Aproveite para ler essa visão controversa a respeito da sua produtividade.</strong></a>
 
 ## Reconhecendo o Stress
 
@@ -88,7 +88,7 @@ Esses exercícios são ótimos inclusive para quando você não pode fujir muito
 
 ## Esteja fisicamente preparado(a)
 
-[Já falamos algumas vezes aqui no blog da Iglu sobre o poder do exercício físico tanto para produtividade quanto para várias outras situações][2]. Agora vamos adicionar mais um ponto a ser combatido, o stress.
+[Já falamos algumas vezes aqui no blog sobre o poder do exercício físico tanto para produtividade quanto para várias outras situações][2]. Agora vamos adicionar mais um ponto a ser combatido, o stress.
 
 Procure sempre oportunidades para se exercitar, pois o exercício físico reduz os &#8220;hormônios do stress&#8221; incluindo a adrenalina e cortisol enquanto aumenta sua felicidade com a endorfina. Você não precisa ser um ratinho de academia, mas pelo menos uma boa caminhada ou exercícios em casa todos os dias farão toda a diferença. Sem contar que muitas vezes o momento de se exercitar também acaba se tornando um momento de você com você mesmo, o que já falamos acima que é muito bom para combater o stress.
 

@@ -50,7 +50,7 @@ Um estilo de vida baseado em ter consigo só o essencial e mínimo necessário t
 
 Com menos pensamentos, coisas ou relacionamentos para se apegar, a vida fica mais simples e tranquila. Ao invés de termos todos os dias aquela sensação de que o tempo passa rápido demais, temos uma atenção mais plena e cada momento pode ter um sentido mais interessante e diretamente relacionado com nossos objetivos de vida.
 
-**Dica:** O [minimalismo alinhado à meditação](https://www.igluonline.com/os-efeitos-da-meditacao-na-montanha-russa-da-vida-como-freelancer/) nesse caso pode ampliar ainda mais essa atenção plena e sentimento de tranquilidade.
+**Dica:** O [minimalismo alinhado à meditação](https://andrelug.com/os-efeitos-da-meditacao-na-montanha-russa-da-vida-como-freelancer/) nesse caso pode ampliar ainda mais essa atenção plena e sentimento de tranquilidade.
 
 ### 2- Financeiro
 

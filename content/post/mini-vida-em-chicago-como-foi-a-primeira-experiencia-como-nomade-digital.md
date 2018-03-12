@@ -12,7 +12,7 @@ youtube = ""
 +++
 Em Agosto de 2016 eu e minha namorada - agora esposa - vimos por acaso um anúncio de uma passagem barata para os Estados Unidos e tivemos uma ideia: **E se a gente passar um mês fora trabalhando como nômades digitais?**
 
-Esse foi o início do [projeto mini-vidas e expliquei um pouco sobre ele nesse outro artigo](https://www.igluonline.com/projeto-mini-vidas-trabalho-remoto-como-nomade-digital/).
+Esse foi o início do [projeto mini-vidas e expliquei um pouco sobre ele nesse outro artigo](https://andrelug.com/projeto-mini-vidas-trabalho-remoto-como-nomade-digital/).
 
 Nesse artigo vou contar um pouco sobre como tomamos a decisão de sermos fisicamente livres em nosso jeito de viver e trabalhar. Comento alguns dos dilemas que apareceram, desafios que superamos e o por quê gostamos tanto desse estilo de vida. **Espero que alguns dos aprendizados e informações aqui possam te ajudar a tomar decisões similares**.
 
@@ -28,7 +28,7 @@ Se tem algo que como casal eu e a Amanda combinamos é uma apreciação pela mud
 
 Meu primeiro desafio veio na explicação para os meus sócios. O ano de 2016 foi extremamente cansativo e tenso. Depois da montanha russa de sentimentos de receber investimentos em uma das empresas e brigas judiciais em outra eu precisava de um momento de introspecção. Ao mesmo tempo, sabia que mesmo que as tarefas poderiam ser feitas online, minha contribuição não seria tão intensa quanto presencialmente nos escritórios.
 
-Tive conversas complicadas com alguns dos meus sócios. De um lado **é muito cômodo fugir das dificuldades do empreendedorismo, mas de outro eu comecei a me questionar que tipo de estilo de vida eu queria para mim**. Queria ser sim um empreendedor, mas não um que se mata, não dorme e [prioriza o trabalho acima de tudo](https://www.igluonline.com/voce-nao-e-sua-produtividade-diminua-velocidade/).
+Tive conversas complicadas com alguns dos meus sócios. De um lado **é muito cômodo fugir das dificuldades do empreendedorismo, mas de outro eu comecei a me questionar que tipo de estilo de vida eu queria para mim**. Queria ser sim um empreendedor, mas não um que se mata, não dorme e [prioriza o trabalho acima de tudo](https://andrelug.com/voce-nao-e-sua-produtividade-diminua-velocidade/).
 
 Um aprendizado forte desse momento é sempre pôr os benefícios e consequências numa balança que tende a priorizar o nosso longo prazo e aquilo que é mais importante para nós. No meu caso, sempre busquei dar importância para a saúde e experiências novas. Quando coloquei a viagem em perspectiva com os 30 dias em que eu poderia não performar tão bem nas minhas empresas, valeu a pena. Não abandonei nenhuma responsabilidade, mas também não corri atrás de mais.
 

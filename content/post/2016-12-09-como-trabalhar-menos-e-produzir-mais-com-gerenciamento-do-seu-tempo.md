@@ -31,7 +31,7 @@ Inicialmente eu achei que isso era impossível e dado o volume de trabalho que e
 
 Abaixo vou descrever como foi meu processo e como acho que você também pode conseguir chegar a esse ponto.
 
-<a href="https://www.igluonline.com/8-dicas-para-ser-mais-produtivo/" target="_blank" rel="noopener">Aproveite também para conferir essas dicas rápidas de como ser mais produtivo.</a>
+<a href="https://andrelug.com/8-dicas-para-ser-mais-produtivo/" target="_blank" rel="noopener">Aproveite também para conferir essas dicas rápidas de como ser mais produtivo.</a>
 
 ## Entender para onde vai o tempo
 
@@ -61,9 +61,9 @@ Essa parte é muito bacana pois de um momento para outro você terá um dia com 
 
 A melhor forma de começar a mudar é através de ações simples que te ou bloqueie de &#8220;perder o tempo&#8221; ou te dê outra coisa para fazer no lugar. No meu caso, a primeira coisa que fiz foi tirar o Facebook do celular juntamente com alguns outros joguinhos. Além disso, coloquei meu celular no silencioso, fechei meu cliente de e-mail e me isolei de qualquer pessoa nos momentos de trabalho e concentrei as distrações, como lanches e conversas, juntamente com outros momentos, como almoço ou término do horário de serviço.
 
-**Algo que eu realmente tive dificuldade, e ainda tenho, é de não olhar e-mails nos momentos do trabalho.** Novamente pensando na cultura do trabalho que temos hoje parece que esperamos as respostas imediatamente das pessoas e temos que agir da mesma forma. O ideal é escolher um ou dois momentos do dia para olhar e responder todos os e-mails, mas realmente não é tão simples. [Nesse artigo aqui na Iglu temos algumas dicas sobre essa administração de e-mails e produtividade que podem ajudar.][2]
+**Algo que eu realmente tive dificuldade, e ainda tenho, é de não olhar e-mails nos momentos do trabalho.** Novamente pensando na cultura do trabalho que temos hoje parece que esperamos as respostas imediatamente das pessoas e temos que agir da mesma forma. O ideal é escolher um ou dois momentos do dia para olhar e responder todos os e-mails, mas realmente não é tão simples. [Nesse artigo aqui no blog temos algumas dicas sobre essa administração de e-mails e produtividade que podem ajudar.][2]
 
-<a href="https://www.igluonline.com/12-dicas-de-como-usar-o-gmail-e-ser-mais-produtivo/" target="_blank" rel="noopener">Aproveite para conferir essas dicas de como usar o Gmail e ser mais produtivo.</a>
+<a href="https://andrelug.com/12-dicas-de-como-usar-o-gmail-e-ser-mais-produtivo/" target="_blank" rel="noopener">Aproveite para conferir essas dicas de como usar o Gmail e ser mais produtivo.</a>
 
 Minha sugestão para esse período é realmente colocar sua cabeça no comprometimento das ações e não somente no objetivo final. É muito fácil nos boicotar e voltar para um estado de &#8220;perda crônica de tempo&#8221;.
 
@@ -95,7 +95,7 @@ Está então na hora de preencher os horários vagos com atividades pessoais, so
 
 Tentei colocar aqui nesse artigo os princípios básicos que me levaram ao meu programa de 5 horas de trabalho por dia mas existem muitos detalhes que são interessantes e que vou aos poucos complementando com outros artigos aqui no blog. Então se você ainda não é inscrito em nossa lista de e-mails não deixe de se inscrever aqui do lado!
 
-Agora, se você <a href="https://www.igluonline.com/voce-nao-e-sua-produtividade-diminua-velocidade/" target="_blank" rel="noopener"><strong>quer uma visão um pouco diferente sobre produtividade, recomendo esse artigo.</strong></a>
+Agora, se você <a href="https://andrelug.com/voce-nao-e-sua-produtividade-diminua-velocidade/" target="_blank" rel="noopener"><strong>quer uma visão um pouco diferente sobre produtividade, recomendo esse artigo.</strong></a>
 
 Se você gostou, concordou, discordou ou possui alguma opinião deixe um comentário abaixo e vamos continuar essa conversa.
 

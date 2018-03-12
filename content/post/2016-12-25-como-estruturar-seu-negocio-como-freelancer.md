@@ -104,9 +104,9 @@ Para ser mais sucinto, pense mais ou menos quantos minutos você acredita que co
 
 Aproveite para conferir nossos artigos sobre produtividade:
 
-  * <a href="https://www.igluonline.com/8-dicas-para-ser-mais-produtivo/" target="_blank" rel="noopener">8 Dicas para ser mais produtivo</a>
-  * <a href="https://www.igluonline.com/12-dicas-de-como-usar-o-gmail-e-ser-mais-produtivo/" target="_blank" rel="noopener">12 dicas de como usar o Gmail e ser mais produtivo</a>
-  * <a href="https://www.igluonline.com/voce-nao-e-sua-produtividade-diminua-velocidade/" target="_blank" rel="noopener">Você não é a sua produtividade. Diminua a velocidade</a>
+  * <a href="https://andrelug.com/8-dicas-para-ser-mais-produtivo/" target="_blank" rel="noopener">8 Dicas para ser mais produtivo</a>
+  * <a href="https://andrelug.com/12-dicas-de-como-usar-o-gmail-e-ser-mais-produtivo/" target="_blank" rel="noopener">12 dicas de como usar o Gmail e ser mais produtivo</a>
+  * <a href="https://andrelug.com/voce-nao-e-sua-produtividade-diminua-velocidade/" target="_blank" rel="noopener">Você não é a sua produtividade. Diminua a velocidade</a>
 
 **Quanto mais tempo você conseguir dedicar a esse fim, melhores serão os resultados** à medida que o tempo passa. Sou suspeito para falar, mas 15 minutos todos os dias de concentração nesse ponto já vão fazer muita diferença no alinhamento do seu discurso, atualização de seus materiais e aproximação com seus clientes.
 

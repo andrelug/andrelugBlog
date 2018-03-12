@@ -61,7 +61,7 @@ Se você está acostumado(a) a lidar com suas finanças pessoais, sabe que já n
 
 Querendo ou não nesse momento existe uma diferença enorme na taxa de sucesso entre freelancers que entendem sobre finanças e que não entendem. **Ser freelancer é ter uma empresa e uma empresa má gerenciada financeiramente não vai muito longe.**
 
-A notícia boa é que hoje o conhecimento está a um clique de distância no Google. Consultores financeiros freelas existem aos montes e o que não falta são ferramentas para te ajudar a se organizar melhor. Aqui na Iglu, inclusive, [usamos o Harpoon App](https://www.igluonline.com/organizar-as-financas-para-freelancers-ficou-mais-facil-com-harpoon/).
+A notícia boa é que hoje o conhecimento está a um clique de distância no Google. Consultores financeiros freelas existem aos montes e o que não falta são ferramentas para te ajudar a se organizar melhor. Na minha empresa Iglu, inclusive, [usamos o Harpoon App](https://andrelug.com/organizar-as-financas-para-freelancers-ficou-mais-facil-com-harpoon/).
 
 Minha dica aqui é tirar um dia para estudar os seguintes tópicos:
 

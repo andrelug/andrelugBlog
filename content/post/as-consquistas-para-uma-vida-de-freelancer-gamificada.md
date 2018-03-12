@@ -22,7 +22,7 @@ Quem já tem algum tempo trabalhando como freelancer há de concordar que essa �
 
 A gente acaba sempre achando jeito de melhorar essa parte para que haja segurança tanto da parte do cliente quanto da nossa. O que hoje gosto mais de praticar é receber 50% antes de iniciar o trabalho e 50% após a entrega. Assim pelo menos já garantimos uma parte do valor.
 
-Naturalmente há profissionais que não executam, atrasam ou deixam os clientes na mão, mas esperançosamente cada vez menos "profissionais" assim terão no mercado. Esse tipo de coisa [não ajuda no nosso crescimento como freelancer](https://www.igluonline.com/esta-na-sua-hora-de-trabalhar-como-freelancer/).
+Naturalmente há profissionais que não executam, atrasam ou deixam os clientes na mão, mas esperançosamente cada vez menos "profissionais" assim terão no mercado. Esse tipo de coisa [não ajuda no nosso crescimento como freelancer](https://andrelug.com/esta-na-sua-hora-de-trabalhar-como-freelancer/).
 
 ## 2- Saiu de casa
 
@@ -30,13 +30,13 @@ Naturalmente há profissionais que não executam, atrasam ou deixam os clientes 
 
 Essa conquista, no meu caso, tem até um efeito de vitória para minha família toda - minha esposa em especial ;). Se tem algo que grande parte dos profissionais freelancers acabam fazendo é ficar em casa demais.
 
-Apesar de quase cômico isso, mês passado fui diagnosticado pela segunda vez nos últimos 5 anos com deficiência de Vitamina D! E olha que já tem 6 meses que praticamente só moro em região de praia pelo [projeto Mini-vidas](https://www.igluonline.com/projeto-mini-vidas-trabalho-remoto-como-nomade-digital/). Acaba que se não tenho uma razão muito forte para sair de casa durante o dia eu fico sem sol e dá nisso. Só fazendo um jogo e colocando uma conquista dessa para mudar o hábito.
+Apesar de quase cômico isso, mês passado fui diagnosticado pela segunda vez nos últimos 5 anos com deficiência de Vitamina D! E olha que já tem 6 meses que praticamente só moro em região de praia pelo [projeto Mini-vidas](https://andrelug.com/projeto-mini-vidas-trabalho-remoto-como-nomade-digital/). Acaba que se não tenho uma razão muito forte para sair de casa durante o dia eu fico sem sol e dá nisso. Só fazendo um jogo e colocando uma conquista dessa para mudar o hábito.
 
 ## 3- Lembrou de comer
 
 ![](images/uploads/2018/02/12/conquista_gamificação_lembrei_de_comer_freelancer.jpg)
 
-Entrar no "[flow](http://www.administradores.com.br/artigos/negocios/flow-como-converter-a-felicidade-em-produtividade/76213/)" e [ser muito produtivo](https://www.igluonline.com/como-trabalhar-menos-e-produzir-mais-com-gerenciamento-do-seu-tempo/) é uma delícia! Só que junto vem acompanhado uma total alienação do resto do mundo pelo período de foco total no trabalho. O que significa que o estômago não tem vez e esquecemos de comer.
+Entrar no "[flow](http://www.administradores.com.br/artigos/negocios/flow-como-converter-a-felicidade-em-produtividade/76213/)" e [ser muito produtivo](https://andrelug.com/como-trabalhar-menos-e-produzir-mais-com-gerenciamento-do-seu-tempo/) é uma delícia! Só que junto vem acompanhado uma total alienação do resto do mundo pelo período de foco total no trabalho. O que significa que o estômago não tem vez e esquecemos de comer.
 
 É engraçado pois quando estou toda hora levantando e procurando algo para comer em geral significa que não estou conseguindo focar e realizar o trabalho - ou então é um trabalho muito chato e qualquer desculpa serve para procrastinar.
 
@@ -50,7 +50,7 @@ Olha! Esse é difícil viu. Sei que não estou sozinho nessa e que acaba que a r
 
 A vida sem horário fixo é interessante por diversos motivos e não a trocaria hoje por uma rotina totalmente restrita. Contudo, acabamos sempre extendendo o trabalho pela madrugada pela necessidade. Aí acordamos tarde...e aí fud\*\* pois depois de alguns dias assim já virou rotina.
 
-Fica aqui uma [dica de como melhor gerenciar seu tempo](https://www.igluonline.com/como-trabalhar-menos-e-produzir-mais-com-gerenciamento-do-seu-tempo/).
+Fica aqui uma [dica de como melhor gerenciar seu tempo](https://andrelug.com/como-trabalhar-menos-e-produzir-mais-com-gerenciamento-do-seu-tempo/).
 
 ## 5- Leu e entendeu o contrato todo
 
@@ -88,7 +88,7 @@ Infelizmente essa é uma realidade de muitos freelancers ou profissionais autôn
 
 A solidão é um dos fatores que hoje considero mais complicados para uma vida como freelancer. Mesmo eu sendo casado e minha esposa também trabalhando em casa, sentimos falta de ter contato com outras pessoas diferentes.
 
-Ainda estou buscando formas de trabalhar isso melhor, mas quando descobrir crio um artigo aqui no blog contando :). No momento [essas são minhas maiores dificuldades como freelancer](https://www.igluonline.com/minha-maior-dificuldade-como-freelancer/).
+Ainda estou buscando formas de trabalhar isso melhor, mas quando descobrir crio um artigo aqui no blog contando :). No momento [essas são minhas maiores dificuldades como freelancer](https://andrelug.com/minha-maior-dificuldade-como-freelancer/).
 
 ## 9- Não esqueceu de salvar
 

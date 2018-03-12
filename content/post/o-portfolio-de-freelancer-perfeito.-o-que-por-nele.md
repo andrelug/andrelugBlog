@@ -28,7 +28,7 @@ No caso do portólio de um freelances, tem dois pontos principais que podemos ex
 
 Empresas que exploram sua história conseguem fazer com que sejam mais do que provedores de serviços ou vendedores de produtos. [Se você sabe o por quê ](https://www.ted.com/talks/simon_sinek_how_great_leaders_inspire_action?language=pt-br)da existência de uma empresa, terá a crença de estar batalhando junto para a sua missão; e esse sentimento de pertencimento é muito poderoso. Pense na Apple e na história de como o Steve Jobs revolucionou vários mercados ou mesmo mais recentemente na Space X e como Elon Musk está buscando uma solução para a perpetuação da vida fora da terra. Essas histórias carregam sentidos e missões que transformam clientes em fãs, missionários ou evangelizadores.
 
-Como já comentei anteiormente, [todo freelancer é uma empresa](https://www.igluonline.com/esta-na-sua-hora-de-trabalhar-como-freelancer/). A diferença é que ao invés de contar a história de como criamos uma empresa, contamos nossa história e o por que resolvemos tomar o caminho que escolhemos.
+Como já comentei anteiormente, [todo freelancer é uma empresa](https://andrelug.com/esta-na-sua-hora-de-trabalhar-como-freelancer/). A diferença é que ao invés de contar a história de como criamos uma empresa, contamos nossa história e o por que resolvemos tomar o caminho que escolhemos.
 
 Se você já está inscrito na minha lista de e-mail, provavelmente já recebeu uma série de e-mails em que conto um pouco do por quê resolvi virar freelancer e como acredito que o trabalho deve ser cada vez mais livre, sem burocracias e não estressante. Se ainda não está na lista, basta deixar seu e-mail e nome nos campos ao lado.
 
@@ -80,9 +80,9 @@ Essa é uma dica que tenho seguido já há algum tempo e posso dizer que é **a 
 
 Escrever, criar vídeos ou qualquer outro tipo de conteúdo sobre aquilo que sabemos fazer é um sinal excelente de credibilidade para potenciais clientes. Às vezes os clientes até o conhecerão através dos seus conteúdos.
 
-Compartilhar aquilo que você sabe mostra que você está bastante confiança e é exemplo para outros. No caso da Iglu eu escrevo sobre reflexões e aprendizados com base em projetos passados e também artigos mais gerais sobre algum aspecto técnico do design e programação web.
+Compartilhar aquilo que você sabe mostra que você está bastante confiança e é exemplo para outros. No caso do blog eu escrevo sobre reflexões e aprendizados com base em projetos passados e também artigos mais gerais sobre algum aspecto técnico do design e programação web.
 
-Esses conteúdos me legitimam para qualquer visitante interessado em contratar meus serviços e o [formulário de contato do site](https://www.igluonline.com/contato) é preenchido com frequência por interessados.
+Esses conteúdos me legitimam para qualquer visitante interessado em contratar meus serviços e o [formulário de contato do site](https://andrelug.com/contato) é preenchido com frequência por interessados.
 
 ## Chamada e facilidade para ação
 

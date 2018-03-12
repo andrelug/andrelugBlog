@@ -78,7 +78,7 @@ Acabei deixando o site no ar por esses últimos anos como portfólio e quase que
 
 ## Aprendizados
 
-Quero enfatizar bastante **APRENDIZADOS **aqui. No final das contas tudo é um processo e [não há arrependimentos, apenas aprendizados](https://www.igluonline.com/como-lidar-com-o-arrependimento/). Tudo que vou listar eu carrego comigo hoje e espero que ajude você também.
+Quero enfatizar bastante **APRENDIZADOS **aqui. No final das contas tudo é um processo e [não há arrependimentos, apenas aprendizados](https://andrelug.com/como-lidar-com-o-arrependimento/). Tudo que vou listar eu carrego comigo hoje e espero que ajude você também.
 
 Vamos lá:
 
@@ -122,9 +122,9 @@ A partir do momento que deixamos de ligar tanto para isso também deixamos de li
 
 O Gueime tinha centenas de notícias, artigos e análises de games publicados. Tudo isso já era? Mais ou menos.
 
-Apesar do site não estar mais online eu pretendo trazer alguns dos artigos mais populares aqui para o site da Iglu em uma nova categoria dedicada aos Games.
+Apesar do site não estar mais online eu pretendo trazer alguns dos artigos mais populares aqui para o site em uma nova categoria dedicada aos Games.
 
-Não faz sentido jogar notícias velhas aqui ou mesmo algumas análises de jogos velhos. Mas temos vários artigos atemporais, muito bem escritos que virão com o tempo se juntar a novos aqui já na Iglu.
+Não faz sentido jogar notícias velhas aqui ou mesmo algumas análises de jogos velhos. Mas temos vários artigos atemporais, muito bem escritos que virão com o tempo se juntar a novos aqui.
 
 A área de games é uma diversão e espero que gostem! E para o Gueime, só posso dizer:
 

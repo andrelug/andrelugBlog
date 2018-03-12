@@ -37,11 +37,11 @@ Tudo bem, tem pessoas que é realmente são muito ocupadas. **Mas ninguém preci
 
 Com uma rápida pesquisa no Google você terá acesso a uma infinidade de artigos promovendo hábitos e hacks para sermos mais produtivos. **É como se existisse um ideal de produtividade que todos nós podemos alcançar se seguirmos determinado caminho ao longo do dia**. Se amanhã você não conseguir produzir 200% a mais do que hoje, provavelmente está trabalhando abaixo da sua capacidade.
 
-Eu mesmo estou sempre em busca de métodos diferentes de organizar meu dia para poder produzir mais. Aqui no blog da Iglu você vai achar artigos que dão dicas exatamente de como ser mais produtivo:
+Eu mesmo estou sempre em busca de métodos diferentes de organizar meu dia para poder produzir mais. Aqui no blog você vai achar artigos que dão dicas exatamente de como ser mais produtivo:
 
-  * <a href="https://www.igluonline.com/12-dicas-de-como-usar-o-gmail-e-ser-mais-produtivo/" target="_blank">12 Dicas de como usar o Gmail e ser mais produtivo</a>
-  * <a href="https://www.igluonline.com/8-dicas-para-ser-mais-produtivo/" target="_blank">8 Dicas para ser mais produtivo</a>
-  * <a href="https://www.igluonline.com/como-trabalhar-menos-e-produzir-mais-com-gerenciamento-do-seu-tempo/" target="_blank">Como trabalhar menos e produzir mais com o gerenciamento do seu tempo</a>
+  * <a href="https://andrelug.com/12-dicas-de-como-usar-o-gmail-e-ser-mais-produtivo/" target="_blank">12 Dicas de como usar o Gmail e ser mais produtivo</a>
+  * <a href="https://andrelug.com/8-dicas-para-ser-mais-produtivo/" target="_blank">8 Dicas para ser mais produtivo</a>
+  * <a href="https://andrelug.com/como-trabalhar-menos-e-produzir-mais-com-gerenciamento-do-seu-tempo/" target="_blank">Como trabalhar menos e produzir mais com o gerenciamento do seu tempo</a>
 
 Produzir, produzir, produzir. Quanto mais, melhor? Acho que a gente ta viciado demais nesse ideal de que temos que ser cada vez mais produtivos. Não me entenda mal, <a href="https://www.amazon.com.br/gp/product/B01DCNJ1CY/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&tag=iglonl-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B01DCNJ1CY&linkId=af08dbcc8f352ca917179012000110ff" target="_blank">eu adoro o tópico e busco sempre formas de melhorar minha estrutura para que consiga ser mais produtivo</a>. Mas isso é um buraco sem fundo.
 

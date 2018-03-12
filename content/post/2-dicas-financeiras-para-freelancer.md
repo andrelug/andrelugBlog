@@ -104,4 +104,4 @@ E nós acreditamos que quem trabalha com o que ama, como é o caso de muitos fre
 
 Não deixe suas conquistas serem derrubadas por questões financeiras – você vale mais que elas!
 
-E conte com a Iglu e com o [Método Liberdade Financeira](http://www.metodoliberdadefinanceira.com.br) para lhe apoiar nessa jornada!
+E conte com a <a href="https://www.igluonline.com">Iglu</a> e com o [Método Liberdade Financeira](http://www.metodoliberdadefinanceira.com.br) para lhe apoiar nessa jornada!

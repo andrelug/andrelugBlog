@@ -27,7 +27,7 @@ Pensando nesse dia variado, o caminho tradicional de ter um software para contar
 
 Quando você integra os vários aspectos envolvidos na criação de um projeto, o trabalho passa a ser menos burocrático e mais focado no que importa. Todos nós gastamos mais tempo do que deveríamos em questões que poderiam ser automatizadas se nossos sistemas conversassem mais.
 
-Ao invés de ficar igual um malabarista com vários softwares e serviços, poderíamos ter todas as informações em um só painel. Não só isso <a href="https://www.igluonline.com/como-trabalhar-menos-e-produzir-mais-com-gerenciamento-do-seu-tempo/" target="_blank" rel="noopener">ajuda na economia de tempo como também na observação da performance geral dos projetos e do negócio</a>.
+Ao invés de ficar igual um malabarista com vários softwares e serviços, poderíamos ter todas as informações em um só painel. Não só isso <a href="https://andrelug.com/como-trabalhar-menos-e-produzir-mais-com-gerenciamento-do-seu-tempo/" target="_blank" rel="noopener">ajuda na economia de tempo como também na observação da performance geral dos projetos e do negócio</a>.
 
 No início podemos até já estar acostumados com um fluxo de trabalho, mas mudar para algo mais simples em geral fará com que novas perspectivas sobre o trabalho apareçam. De repente você consegue otimizar aqui e ali uma vez que tem uma noção mais clara de onde está gastando mais tempo ou esforços.
 
@@ -105,7 +105,7 @@ Busque softwares que façam esse tipo de coisa para você e que já tenham todas
 
 * Informações de contato
 
-<a href="https://www.igluonline.com/organizar-as-financas-para-freelancers-ficou-mais-facil-com-harpoon/" target="_blank" rel="noopener">[Atualmente eu uso o Harpoon App para esse tipo de coisa, então confira o artigo que fiz sobre ele aqui no blog da Iglu</a>.
+<a href="https://andrelug.com/organizar-as-financas-para-freelancers-ficou-mais-facil-com-harpoon/" target="_blank" rel="noopener">[Atualmente eu uso o Harpoon App para esse tipo de coisa, então confira o artigo que fiz sobre ele aqui no blog</a>.
 
 ## 6- Amigável no mobile
 

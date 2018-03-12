@@ -27,7 +27,7 @@ Vou contar um pouco mais sobre nossa jornada até o momento.
 
 Em 2011 eu tomei uma decisão. Não queria trabalhar para ninguém mas sim ter meu próprio negócio. Mesmo que sem saber muito bem para onde ir, eu tinha em mim uma relação muito forte com a vontade de criar meu caminho em vez de seguir o de outra pessoa.
 
-Abri empresas, trabalhei em diversos projetos, falhei diversas vezes, tive muitos aprendizados e, naturalmente, tive que [desenvolver a habilidade de trabalhar em casa](https://www.igluonline.com/7-dicas-de-gerenciamento-de-projetos-para-freelancers/). Uso a palavra 'habilidade' pois envolve organização, força de vontade, muito planejamento e foco para conseguir construir algo.
+Abri empresas, trabalhei em diversos projetos, falhei diversas vezes, tive muitos aprendizados e, naturalmente, tive que [desenvolver a habilidade de trabalhar em casa](https://andrelug.com/7-dicas-de-gerenciamento-de-projetos-para-freelancers/). Uso a palavra 'habilidade' pois envolve organização, força de vontade, muito planejamento e foco para conseguir construir algo.
 
 Trabalhar online significa ser dono completamente do seu tempo. Sua produtividade depende apenas de você e distrações disponíveis é o que não falta.
 
@@ -61,9 +61,9 @@ Na busca por um lugar no Brasil tínhamos alguns pré requisitos:
 
 Unindo tudo isso achamos o lugar perfeito em Florianópolis - SC.
 
-Não trabalhamos mais na Benvenuto, mas agora a Amanda trabalha com a Iglu e eu tive a mega oportunidade de me juntar ao time da [High Stakes](http://highstakes.co) - que também segue o modelo de trabalho remoto.
+Não trabalhamos mais na Benvenuto, mas agora a Amanda trabalha com a <a href="https://www.igluonline.com">Iglu</a> e eu tive a mega oportunidade de me juntar ao time da [High Stakes](http://highstakes.co) - que também segue o modelo de trabalho remoto.
 
-Essa é nossa primeira mini vida de fato, então estamos ainda descobrindo bastante coisa e vou documentar aqui no site da Iglu os atalhos, dicas e até mesmo as dificuldades, erros e aprendizados.
+Essa é nossa primeira mini vida de fato, então estamos ainda descobrindo bastante coisa e vou documentar aqui no site os atalhos, dicas e até mesmo as dificuldades, erros e aprendizados.
 
 ## Qual é meu estilo nômade?
 
@@ -87,7 +87,7 @@ Eu ainda não sei definir ou pôr um nome para o jeito que estou lidando com ess
 
 ## O que vem por aí?
 
-Aqui no blog da Iglu cada vez mais vamos ter informações, guias, aprendizados e até momentos dessa jornada. E não podemos esquecer de toda nossa metodologia (em constante desenvolvimento e evolução) de transformar a vida para uma vida nômade.
+Aqui no blog cada vez mais vamos ter informações, guias, aprendizados e até momentos dessa jornada. E não podemos esquecer de toda nossa metodologia (em constante desenvolvimento e evolução) de transformar a vida para uma vida nômade.
 
 Se você gostou comente abaixo e aproveite para curtir nossa [página no Facebook ](https://facebook.com/igluonline)para não perder nenhum post :)
 

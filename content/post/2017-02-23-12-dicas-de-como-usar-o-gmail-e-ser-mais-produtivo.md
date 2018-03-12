@@ -35,9 +35,9 @@ O Gmail é provavelmente o cliente de e-mail mais utilizado no mundo hoje, mas g
 
 Aproveite para conferir nossos outros artigos sobre produtividade:
 
-  * <a href="https://www.igluonline.com/8-dicas-para-ser-mais-produtivo/" target="_blank">8 Dicas para ser mais produtivo</a>
-  * <a href="https://www.igluonline.com/como-trabalhar-menos-e-produzir-mais-com-gerenciamento-do-seu-tempo/" target="_blank">Como trabalhar menos e produzir mais com gerenciamento do seu tempo</a>
-  * <a href="https://www.igluonline.com/voce-nao-e-sua-produtividade-diminua-velocidade/" target="_blank">Você não é a sua produtividade. Diminua a velocidade</a>
+  * <a href="https://andrelug.com/8-dicas-para-ser-mais-produtivo/" target="_blank">8 Dicas para ser mais produtivo</a>
+  * <a href="https://andrelug.com/como-trabalhar-menos-e-produzir-mais-com-gerenciamento-do-seu-tempo/" target="_blank">Como trabalhar menos e produzir mais com gerenciamento do seu tempo</a>
+  * <a href="https://andrelug.com/voce-nao-e-sua-produtividade-diminua-velocidade/" target="_blank">Você não é a sua produtividade. Diminua a velocidade</a>
 
 ## 1- Marcadores
 

@@ -10,7 +10,7 @@ url = "/os-efeitos-da-meditacao-na-montanha-russa-da-vida-como-freelancer/"
 youtube = ""
 
 +++
-Ser freelancer ou profissional autônomo é uma [opção sensacional para quem deseja ter liberdade e também crescer profissionalmente](https://www.igluonline.com/esta-na-sua-hora-de-trabalhar-como-freelancer/). No entanto, ser freela é ser empreendedor; e ser empreendedor significa viver em uma montanha-russa de emoções.
+Ser freelancer ou profissional autônomo é uma [opção sensacional para quem deseja ter liberdade e também crescer profissionalmente](https://andrelug.com/esta-na-sua-hora-de-trabalhar-como-freelancer/). No entanto, ser freela é ser empreendedor; e ser empreendedor significa viver em uma montanha-russa de emoções.
 
 Nesse artigo vou falar um pouco sobre como a vida como _eupreendedor_ pode ser estressante e como a meditação me ajudou a ter mais foco, tranquilidade e suavizar os sentimentos ruins quando temos que domar furacões para fazer nossos negócios serem bem sucedidos.
 
@@ -50,7 +50,7 @@ Fazer da meditação um hábito não é simples e confesso que até hoje tenho m
 
 **O poder da meditação está em gerar clareza.** Quanto mais conseguimos nos concentrar e ter calma para avaliar uma situação, melhores decisões tomaremos.
 
-Ser freelancer muitas vezes significa lidar com todas as áreas do nosso negócio e vida pessoal, muitas vezes no mesmo local físico com o trabalho remoto. Esse [tipo de vida](https://www.igluonline.com/as-consquistas-para-uma-vida-de-freelancer-gamificada/) carrega uma série de oportunidades para que o estresse e tensões apareçam.
+Ser freelancer muitas vezes significa lidar com todas as áreas do nosso negócio e vida pessoal, muitas vezes no mesmo local físico com o trabalho remoto. Esse [tipo de vida](https://andrelug.com/as-consquistas-para-uma-vida-de-freelancer-gamificada/) carrega uma série de oportunidades para que o estresse e tensões apareçam.
 
 Nesse momento em geral recorremos dois tipos de ações:
 
@@ -66,7 +66,7 @@ Descobrimos que preocupar só prejudica a execução das tarefas.
 
 É interessante, pois muitas vezes confundiram minha calma em meio a problemas sérios com descaso. Ao invés de seguir a onda das outras pessoas e me deixar levar pela necessidade de me mostrar preocupado e ansioso, é melhor continuar tranquilo e focar na ação e no aqui e agora.
 
-O mais legal é que fazendo as coisas com calma e uma [boa estratégia de produtividade](https://www.igluonline.com/como-trabalhar-menos-e-produzir-mais-com-gerenciamento-do-seu-tempo/) sobrará tempo para fazer outras coisas divertidas e mais leves. E isso vai contribuir ainda mais para que a ansiedade e o estresse não tome conta da vida.
+O mais legal é que fazendo as coisas com calma e uma [boa estratégia de produtividade](https://andrelug.com/como-trabalhar-menos-e-produzir-mais-com-gerenciamento-do-seu-tempo/) sobrará tempo para fazer outras coisas divertidas e mais leves. E isso vai contribuir ainda mais para que a ansiedade e o estresse não tome conta da vida.
 
 ## Sugestão
 

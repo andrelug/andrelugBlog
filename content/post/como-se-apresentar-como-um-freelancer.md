@@ -24,7 +24,7 @@ Contudo, estamos aqui apra questionar essa situação em busca de uma solução 
 
 ## A grande sacada de como se apresentar como um freelancer
 
-[**Foque no valor que você gera ao invés do título que você se dá.**](https://www.igluonline.com/esta-na-sua-hora-de-trabalhar-como-freelancer/)
+[**Foque no valor que você gera ao invés do título que você se dá.**](https://andrelug.com/esta-na-sua-hora-de-trabalhar-como-freelancer/)
 
 Alguns exemplos interessantes:
 
