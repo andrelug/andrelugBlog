@@ -1,11 +1,11 @@
 {
-  "short_name": "Iglu",
-  "name": "Iglu Online",
+  "short_name": "Andrelug",
+  "name": "André Lug",
   "icons": [
     {
-      "src":"images/logo.png",
+      "src":"images/square_andrelug.jpg",
       "sizes": "240x240",
-      "type": "image/png"
+      "type": "image/jpg"
     }
   ],
   "start_url": "/?utm_source=homescreen",

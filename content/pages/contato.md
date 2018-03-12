@@ -10,10 +10,9 @@ type: page
 
 ---
 <div class="row"><div class=" col-md-4">
-<h3>A Iglu</h3>
+<h3>Contato</h3>
 </div><div class=" col-md-8">
-<p>Ficamos felizes com seu interesse em nos contactar. Aqui na Iglu fazemos Websites e criamos conteúdos bacanas. Se quiser dar uma olhada no que já fizemos, temos uma <a href="http://websites.igluonline.com" target="_blank" rel="noopener">página somente para a área de websites.</a></p>
-<p>Preencha o formulário abaixo para nos enviar um e-mail. Respondemos bem rapidamente.</p>
+<p>Olá! Que bacana que você quer entrar em contato comigo. Basta preencher o formulário abaixo e já já te respondo!</p>
 </div></div>
 <hr>
 <div class="row"><div class=" col-md-4">
@@ -22,6 +21,9 @@ type: page
 <div role="form" lang="en-US" dir="ltr">
 <div class="screen-reader-response"></div>
 <form action="obrigado-pelo-contato" netlify name="Contato Iglu" netlify-honeypot="bot-field">
+<p style="display:none;">
+    <label>Don’t fill this out if you're human: <input name="bot-field"></label>
+  </p>
 <input type="hidden" name="_next" value="http://www.igluonline.com" />
 <input type="hidden" name="_subject" value="E-mail Blog" />
 <div style="display: none;">

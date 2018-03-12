@@ -1,6 +1,6 @@
 <footer class="site-footer">
 
-<!--
+
 	<div class="footer-instagram">
             <div class="widget null-instagram-feed">
 				<ul class="instagram-pics instagram-size-small" id="instafeed">
@@ -9,18 +9,17 @@
 
 		</div>
 	</div>
--->
                 <div class="footer-section">
           <div class="container">
             <div class="footer-subscribe">
               <div class="subscribe-container">
 				<div class="bmc-wrap">
 					<h2>Inscreva</h2>
-	                <p class="subscribe-message">Receba os melhoresconteúdos sobre Design, Programação e Freelancer no seu e-mail.</p>
+	                <p class="subscribe-message">Receba conteúdos exclusivos no seu e-mail sobre como ser um(a) profissional livre e, quem sabe, nômade digital.</p>
 
 					<!-- Begin MailChimp Signup Form -->
 					<div id="mc_embed_signup">
-						<form action="https://igluonline.us17.list-manage.com/subscribe/post?u=74b0a864000d2ca1ea77a898a&amp;id=1db0170ebd&SOURCE=Blog+Footer" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate bmc-form mailchimp-subscription" target="_blank" novalidate>
+						<form action="https://igluonline.us17.list-manage.com/subscribe/post?u=74b0a864000d2ca1ea77a898a&amp;id=1db0170ebd&SOURCE=Andrelug+Footer" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate bmc-form mailchimp-subscription" target="_blank" novalidate>
 						    <div id="mc_embed_signup_scroll">
 							<div class="input-group">
 								<input type="email" value="" name="EMAIL" class="email form-control" id="mce-EMAIL" placeholder="E-mail" required style="display: flex;flex-direction: column;justify-content: center;position: relative;z-index: 2;flex: 1 1 auto;width: 1%;margin-bottom: 0;">
@@ -47,11 +46,11 @@
             <div class="footer-widgets">
               <div class="footer-sidebars">
                                   <div class="footer-sidebar">
-                    <div class="widget authentic_widget_about-2 authentic_widget_about"><img width="440" height="290" src="images/logo_iglu_branco.png" class="attachment-thumbnail size-thumbnail" alt="Shopping with Style"><h5 class="title-widget">Iglu</h5>    <p class="widget-about-lead">Blog de Design e Programação</p>
+                    <div class="widget authentic_widget_about-2 authentic_widget_about"><img width="440" height="290" src="images/andrelug_white_md.png" class="attachment-thumbnail size-thumbnail" alt="Shopping with Style"><h5 class="title-widget">André Lug</h5>    <p class="widget-about-lead">Blog sobre estilo de vida como nômade digital, trabalho freelancer e empreendedorismo. Cheio de dicas e ideias para quem
+										quer ser livre na vida e no trabalho.</p>
 
           <div class="widget-about-content">
-        <p>Adoro escrever sobre Design, Programação e vida como Freelancer. Se você tem interesse nessas áreas irá encontrar textos e vídeos para te ajudar nessa jornada.</p>
-<p>De vez em quando gosto também de escrever sobre produtividade e algumas outras reflexões sobre a vida. Divirta-se!.</p>
+        <p>Adoro escrever sobre tudo que tem a ver com ser um bom profissional, uma boa pessoa e viver uma vida de liberdade e propósito.</p>
       </div>
 
 
@@ -167,7 +166,7 @@
             <div class="footer-info">
 
                               <a class="footer-logo">
-                  Copyright © 2018 Iglu - Nome por Plex :)
+                  Copyright © 2018 André Lug
                 </a>
 
                               <nav class="nav navbar-footer navbar-lonely">
@@ -217,65 +216,35 @@
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.2.4/jquery.min.js"></script>
 
 <script type="text/javascript" src="js/mini.js"></script>
+<script type="text/javascript" src="js/instagram.js"></script>
 
 <script>
-/*
-	function loadAPI() {
-		var js = document.createElement('script');
-		js.src = '//connect.facebook.net/en_US/sdk.js#xfbml=1&version=v2.9&appId=253873004991221';
-		document.body.appendChild(js);
-	}
 
 	var feed = new Instafeed({
         get: 'user',
-		accessToken: '11215896.1677ed0.cf6c38ef9be749e99e4fd0615375dc8a',
-        clientId: '91a39dcacd4f41ecbcd0f9755febd719',
+		accessToken: '11215896.0a593a8.e55ebd9ba4ad48a1b5f712e7b42049fc',
+        clientId: '0a593a8f16e549a38e8192ba6968e373',
 		userId: '11215896',
 		limit: 6,
 		resolution: 'standard_resolution',
 		template: '<li class=""><a href="{{.Site.Params.insta_link}}" target="_blank" rel="noopener" class=""><img src="{{.Site.Params.insta_img}}" class="" alt="{{.Site.Params.insta_caption}}"><span class="instagram-meta"><span class="instagram-likes"><i class="icon icon-heart"></i> {{.Site.Params.insta_likes}}</span><span class="instagram-comments"><i class="icon icon-speech-bubble"></i>{{.Site.Params.insta_comments}}</span></span></a></li>'
     });
-	*/
+	
 
 	{{if eq .Section "post"}}
 		window.onscroll = function () {
 
-			var rect = document.getElementById('faceLikes').getBoundingClientRect();
-			if (rect.top < window.innerHeight) {
+			if (window.innerHeight > 1000) {
 
-			//	loadAPI();
-			//	feed.run();
+				feed.run();
 				window.onscroll = null;
 			}
 		}
 		{{ else }}
-			// feed.run();
+			 feed.run();
 		{{ end }}
-/* Service worker
-		if ('serviceWorker' in navigator) {
-	    console.log("Will the service worker register?");
-	    navigator.serviceWorker.register('service-worker.js')
-	      .then(function(reg){
-	        console.log("Yes, it did.");
-	      }).catch(function(err) {
-	        console.log("No it didn't. This happened: ", err)
-	      });
-	  }*/
 
-		navigator.serviceWorker.getRegistrations().then(function (registrations) {
-				for (let registration of registrations) {
-					registration.unregister()
-				}
-			})
-
-    if (window.location.search.indexOf('ref=gueime') > -1) {
-        $('body').prepend('<div style="text-align:center;background-color:#3498db;"><a href="/gueime-foi-uma-longa-e-maravilhosa-jornada-mas-esta-na-hora-do-proximo-nivel/" style="display:block;padding:20px;color:white"><img src="images/gueime-white.png" style="margin-right:10px;max-height:60xpx;" />Olá gamer! Agradecemos o interesse no site do Gueime. Clique para saber o por quê de você ter caído aqui no site da Iglu :)</a></div>')
-    }
 	</script>
-
-	<!-- Start of HubSpot Embed Code -->
-  <script type="text/javascript" id="hs-script-loader" async defer src="//js.hs-scripts.com/4040078.js"></script>
-<!-- End of HubSpot Embed Code -->
 
 </body>
 </html>
