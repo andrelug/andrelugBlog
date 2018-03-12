@@ -1,0 +1,12 @@
+name = "Iglu Online"
+license = "Creative Commons Attribution 3.0 Unported"
+licenselink = "//github.com/andrelug/igluhugo/blob/master/LICENSE.md"
+description = "Tutoriais e artigos sobre Design, Photoshop, Programação e trabalho Freelancer ou autônomo."
+homepage = "https://www.igluonline.com"
+tags = ["design", "programação", "web development", "freelancer", "blog", "iglu"]
+features = ["", ""]
+min_version = 0.16
+
+[author]
+  name = "André Lucas"
+  homepage = "//github.com/andrelug"
