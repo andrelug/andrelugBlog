@@ -15,8 +15,8 @@ post_views_count:
 instant_articles_submission_id:
   - 1901320123444589
 categories:
-  - Lifestyle
-  - Trabalho
+  - Freelancer
+  - Produtividade
 tags:
   - destaque
   - otimização

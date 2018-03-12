@@ -17,7 +17,8 @@ instant_articles_force_submit:
 instant_articles_submission_id:
   - 1234604426608109
 categories:
-  - Novidades
+  - Lifestyle
+  - Games
 tags:
   - android
   - aplicativos

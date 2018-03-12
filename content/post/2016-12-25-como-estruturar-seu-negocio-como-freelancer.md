@@ -16,7 +16,7 @@ instant_articles_submission_id:
   - 1938665793031027
 youtube: https://www.youtube.com/embed/yDuvh1oAyZc
 categories:
-  - Lifestyle
+  - Freelancer
 tags:
   - destaque
   - dicas

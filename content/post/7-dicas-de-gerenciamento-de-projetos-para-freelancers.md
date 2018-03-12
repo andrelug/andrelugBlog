@@ -1,6 +1,6 @@
 +++
 author = "André Lucas"
-categories = ["Lifestyle", "Trabalho"]
+categories = ["Freelancer", "Produtividade"]
 date = "2017-05-09T18:25:35+00:00"
 hugo_image = "images/uploads/2017/05/09/pexels-photo-58709.jpeg"
 tags = ["gerenciamento de projeto", "produtividade", "freelancer"]

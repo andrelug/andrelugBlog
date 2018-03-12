@@ -1,6 +1,6 @@
 +++
 author = "André Lucas"
-categories = ["Games"]
+categories = ["Lifestyle", "Games"]
 date = "2017-09-22T17:44:58+00:00"
 hugo_image = "images/uploads/2017/09/22/andrelughuehuel.jpg"
 tags = ["bullying", "cultura"]

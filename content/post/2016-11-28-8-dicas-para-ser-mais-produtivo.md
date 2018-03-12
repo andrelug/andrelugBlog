@@ -17,8 +17,8 @@ onesignal_meta_box_present:
 instant_articles_submission_id:
   - 1725889457438077
 categories:
-  - Lifestyle
-  - Trabalho
+  - Freelancer
+  - Produtividade
 tags:
   - destaque
   - dias

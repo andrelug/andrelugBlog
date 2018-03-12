@@ -1,6 +1,6 @@
 +++
 author = "André Lucas"
-categories = ["Games"]
+categories = ["Lifestyle", "Games"]
 date = "2017-09-19T14:13:11-03:00"
 hugo_image = "images/uploads/2017/09/19/andrelugBioShock-Infinite-End.jpg"
 tags = ["Ação", "FPS", "Final do bioshock infinite", "teorias", "2K Games", "Irrational Games", "Bioshock Infinite"]

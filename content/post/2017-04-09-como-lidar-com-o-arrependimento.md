@@ -16,6 +16,7 @@ post_views_count:
   - 229
 youtube: https://www.youtube.com/embed/acw-8e5rkv0
 categories:
+  - Lifestyle
   - Reflexões
 tags:
   - arrependimento

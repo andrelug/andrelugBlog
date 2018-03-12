@@ -1,6 +1,6 @@
 +++
 author = "André Lucas"
-categories = ["Games"]
+categories = ["Lifestyle", "Games"]
 date = "2017-09-22T17:32:40+00:00"
 hugo_image = "images/uploads/2017/09/22/andrelug2013-04-08_00002-790x444.jpg"
 tags = ["DLC"]

@@ -1,10 +1,10 @@
 +++
 author = "Pri Nunes"
-categories = ["Trabalho"]
+categories = ["Freelancer", "Financeiro"]
 date = "2017-12-05T16:11:57+00:00"
 disqus = true
 hugo_image = "images/uploads/2017/12/05/dicas_financeiras_freelancer.jpg"
-tags = ["Freelancer", "Financeiro", "Finanças"]
+tags = ["Financeiro", "Dicas"]
 title = "2 Dicas Financeiras para Freelancers"
 url = "/2-dicas-financeiras-para-freelancer/"
 youtube = ""

@@ -15,7 +15,8 @@ post_views_count:
 instant_articles_submission_id:
   - 201860736982326
 categories:
-  - Lifestyle
+  - Freelancer
+  - Marketing
 tags:
   - afiliados
   - curso online

@@ -1,6 +1,6 @@
 +++
 author = "André Lucas"
-categories = ["Games"]
+categories = ["Lifestyle", "Games"]
 date = "2017-09-22T17:23:14+00:00"
 hugo_image = "images/uploads/2017/09/22/andrelugM_Mature_ESRB.jpg"
 tags = ["Violência", "Adulto", "Jogos"]

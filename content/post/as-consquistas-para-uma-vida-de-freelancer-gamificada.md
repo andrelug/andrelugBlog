@@ -1,6 +1,6 @@
 +++
 author = "André Lucas"
-categories = ["Trabalho", "Games"]
+categories = ["Freelancer", "Marketing"]
 date = "2018-02-12T00:10:15+00:00"
 disqus = true
 hugo_image = "images/uploads/2018/02/12/conquistas_para_freelancers_achievements.jpg"

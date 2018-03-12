@@ -1,6 +1,6 @@
 +++
 author = "André Lucas"
-categories = ["Games"]
+categories = ["Lifestyle", "Games"]
 date = "2017-09-22T17:39:36+00:00"
 hugo_image = "images/uploads/2017/09/22/andrelug282542_Papel-de-Parede-Connor-Assassins-Creed-3_1600x900.jpg"
 tags = ["Franquias"]

@@ -1,6 +1,6 @@
 +++
 author = "Juliana Saldanha"
-categories = ["Trabalho"]
+categories = ["Freelancer", "Marketing"]
 date = "2018-02-07T18:03:05+00:00"
 disqus = true
 hugo_image = "images/uploads/2018/02/08/giphy.gif"

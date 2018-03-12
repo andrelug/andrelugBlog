@@ -15,7 +15,8 @@ post_views_count:
 instant_articles_submission_id:
   - 205408629949661
 categories:
-  - Produtividade
+  - Freelancer
+  - Financeiro
 tags:
   - análise
   - destaque

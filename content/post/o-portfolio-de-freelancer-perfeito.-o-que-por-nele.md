@@ -1,6 +1,6 @@
 +++
 author = "André Lucas"
-categories = ["Trabalho", "Freelancer"]
+categories = ["Freelancer", "Marketing"]
 date = "2018-02-25T18:24:05-03:00"
 disqus = true
 hugo_image = "images/uploads/2018/02/25/pexels-photo-436784.jpeg"

@@ -1,6 +1,6 @@
 +++
 author = "André Lucas"
-categories = ["Lifestyle", "Trabalho"]
+categories = ["Freelancer"]
 date = "2017-11-04T03:33:37+00:00"
 hugo_image = "images/uploads/2017/11/04/trabalhar_como_freelancer.jpg"
 tags = ["Freelancer", "Trabalho remoto", "Autônomo"]

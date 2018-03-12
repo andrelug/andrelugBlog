@@ -1,6 +1,6 @@
 +++
 author = "André Lucas"
-categories = ["Games"]
+categories = ["Lifestyle", "Games"]
 date = "2017-09-22T17:19:56+00:00"
 hugo_image = "images/uploads/2017/09/22/andreluglego_worlds_screen_3.jpg"
 tags = ["Minecraft", "LEGO", "Lego World", "Sandbox"]

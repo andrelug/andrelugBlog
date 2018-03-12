@@ -1,6 +1,6 @@
 +++
 author = "André Lucas"
-categories = ["reflexões"]
+categories = ["Lifestyle", "Reflexões"]
 date = "2017-09-15T20:54:10+00:00"
 hugo_image = "images/uploads/2017/09/16/1-6Ibmtsx3aF85Ayjj_0qsBg.png"
 tags = ["obsolescência programada", "OEP Electrics", "Thrive", "Documentário"]

@@ -15,7 +15,7 @@ instant_articles_submission_id:
 post_views_count:
   - 450
 categories:
-  - Lifestyle
+  - Freelancer
   - Produtividade
 tags:
   - destaque

@@ -1,6 +1,6 @@
 +++
 author = "André Lucas"
-categories = ["Trabalho", "Reflexões"]
+categories = ["Freelancer"]
 date = "2018-01-24T13:52:55+00:00"
 disqus = false
 hugo_image = "images/uploads/2018/01/24/maior-dificuldade-como-freelancer.jpg"

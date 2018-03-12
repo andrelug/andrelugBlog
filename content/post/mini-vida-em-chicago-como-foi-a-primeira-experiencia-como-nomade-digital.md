@@ -1,6 +1,6 @@
 +++
 author = "André Lucas"
-categories = ["Lifestyle", "Mini-vidas"]
+categories = ["Lifestyle", "Nômade Digital"]
 date = "2018-03-01T20:23:17-03:00"
 disqus = true
 hugo_image = "images/uploads/2018/03/01/viagem_chicago_nomade_digital.jpeg"

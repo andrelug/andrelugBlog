@@ -16,7 +16,7 @@ instant_articles_submission_id:
   - 1769919839986882
 categories:
   - Lifestyle
-  - Trabalho
+  - Reflexões
 tags:
   - lifestyle
   - stress

@@ -15,9 +15,8 @@ instant_articles_submission_id:
 post_views_count:
   - 880
 categories:
-  - Lifestyle
-  - Produtividade
-  - Sem categoria
+  - Freelancer
+  - Produtividades
 tags:
   - alias gmail
   - como usar o gmail
