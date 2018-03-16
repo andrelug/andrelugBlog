@@ -84,7 +84,7 @@
 
   <div class="header">
     <div class="container">
-      <div class="header-content">
+      <div class="header-content" style="height: auto;">
 
         <div class="header-left">
           <button class="navbar-toggle hidden-md-up" type="button" data-toggle="collapse" data-target="#navbar-primary">
@@ -97,10 +97,14 @@
 		  </a>
                   </div>
 
-        <div class="header-center">
+        <div class="header-center text-center">
                     <a href="/" class="header-logo" ga-on="click" ga-event-category="Link" ga-event-action="click" ga-event-label="Logo">
-            <img src="images/andrelug_md.png" alt="André Lug">
+            <img src="images/andrelug_md.png" alt="André Lug"> 
+             {{ if eq (relURL .URL) ("/" | safeHTML) }}
+                <h1 style="font-size:20px;">Digital nômade, lifestyle e trabalho freelancer</h1>
+             {{ end }}
           </a>
+          
                   </div>
 
         <div class="header-right">
