@@ -1,7 +1,9 @@
 +++
 author = "André Lucas"
 categories = ["Lifestyle", "Games"]
-date = "2017-09-22T17:26:38+00:00"
+date = "2018-02-08T11:34:42+00:00"
+disqus = false
+draft = true
 hugo_image = "images/uploads/2017/09/22/andrelugpirata_games.jpg"
 tags = ["Pirataria"]
 title = "Pirataria no mercado brasileiro"
@@ -9,8 +11,6 @@ url = "/pirataria-no-mercado-brasileiro/"
 youtube = ""
 
 +++
-
-
 Fala, galerinha Gueimer de plantão! Depois de ler muitas opiniões em diversos lugares, reparei que poucos assuntos dentro do universo dos jogos virtuais é tão polêmico quanto este: Pirataria. Sim, caro amigo leitor, estou aqui para falar sobre ela. É difícil redigir um texto imparcial, mas vamos lá.
 
 Não é de hoje que o mundo dos jogos enfrenta uma das batalhas mais difíceis, a pirataria. Considerada uma praga por alguns Gueimers e uma “oportunidade" para outros, o mercado de jogos ilegais está presente de maneira forte e atuante em nosso cotidiano. Todos nós estamos cansados de saber que é crime, mas mesmo assim muitos jogadores continuam a executar tal prática... Quais seriam os motivos?
