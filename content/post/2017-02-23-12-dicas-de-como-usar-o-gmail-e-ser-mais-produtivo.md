@@ -1,34 +1,33 @@
 ---
 title: 12 dicas de como usar o Gmail e ser mais produtivo
 author: André Lucas
-type: post
-date: 2017-02-23T21:13:55+00:00
-url: /12-dicas-de-como-usar-o-gmail-e-ser-mais-produtivo/
+date: 2018-03-26 12:26:27 +0000
+url: "/12-dicas-de-como-usar-o-gmail-e-ser-mais-produtivo/"
 featured_image: uploads/2017/02/iglu_gmail_produtivo-1
 featured_image_extension: jpg
 mvp_post_template:
-  - def
+- def
 mvp_featured_image:
-  - show
+- show
 instant_articles_submission_id:
-  - 1514544691911185
+- 1514544691911185
 post_views_count:
-  - 880
+- 880
 categories:
-  - Freelancer
-  - Produtividades
+- Freelancer
+- Produtividades
 tags:
-  - alias gmail
-  - como usar o gmail
-  - destaque
-  - dicas de como usar o gmail
-  - dicas para gmail
-  - filtros gmail
-  - gmail
-  - melhor usar o gmail
-  - otimizar gmail
-  - produtividade email
-  - ser mais produtivo no gmail
+- alias gmail
+- como usar o gmail
+- destaque
+- dicas de como usar o gmail
+- dicas para gmail
+- filtros gmail
+- gmail
+- melhor usar o gmail
+- otimizar gmail
+- produtividade email
+- ser mais produtivo no gmail
 
 ---
 O Gmail é provavelmente o cliente de e-mail mais utilizado no mundo hoje, mas grande parte dos seus recursos legais estão escondidos. Nesse artigo vou apresentar as 12 melhores dicas e hacks para o Gmail que vão fazer o seu uso do software ser bem mais produtivo.
