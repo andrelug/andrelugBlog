@@ -1,7 +1,8 @@
 +++
 author = "André Lucas"
 categories = ["Lifestyle", "Games"]
-date = "2017-09-19T14:13:11-03:00"
+date = "2018-02-12T11:33:07+00:00"
+disqus = false
 hugo_image = "images/uploads/2017/09/19/andrelugBioShock-Infinite-End.jpg"
 tags = ["Ação", "FPS", "Final do bioshock infinite", "teorias", "2K Games", "Irrational Games", "Bioshock Infinite"]
 title = "O Final De BioShock Infinite"
@@ -9,8 +10,6 @@ url = "/o-final-de-bioshock-infinite/"
 youtube = ""
 
 +++
-
-
 Antes de começar tenho que dizer que a partir do próximo parágrafo, informações sobre o final do jogo BioShock Infinite serão ditas sem nenhuma consideração ao usuário que não quer SPOILER. Vou falar abertamente sobre o que eu achei do jogo, expor algumas teorias e tentar fazer algum sentido dessa obra brilhante de Ken Lavine. Se você ainda não jogou, veja [minha análise ](http://localhost:3000/review/bioshock-infinite/)do jogo e não perca mais tempo. Se já terminou o jogo, seja bem vindo e vamos tentar entender juntos esse game.
 
 **ATUALIZAÇÃO**:
