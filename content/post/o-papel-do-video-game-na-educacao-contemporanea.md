@@ -3,6 +3,7 @@ author = "André Lucas"
 categories = ["Lifestyle", "Games"]
 date = "2018-02-15T11:33:17+00:00"
 disqus = false
+draft = true
 hugo_image = "images/uploads/2017/09/22/andrelugjogos-educativos-cred-fotolia.jpg"
 tags = ["Educação"]
 title = "O papel do Video Game na Educação Contemporânea"
