@@ -1,7 +1,7 @@
 +++
 author = "Pri Nunes"
 categories = ["Freelancer", "Financeiro"]
-date = "2017-12-05T16:11:57+00:00"
+date = "2018-03-26T12:26:44+00:00"
 disqus = true
 hugo_image = "images/uploads/2017/12/05/dicas_financeiras_freelancer.jpg"
 tags = ["Financeiro", "Dicas"]
