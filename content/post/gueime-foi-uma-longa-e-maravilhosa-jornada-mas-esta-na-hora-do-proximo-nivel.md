@@ -1,7 +1,8 @@
 +++
 author = "André Lucas"
 categories = ["Lifestyle", "Reflexões", "Games"]
-date = "2017-09-15T23:01:21-03:00"
+date = "2018-02-26T12:31:44+00:00"
+disqus = false
 hugo_image = "images/uploads/2017/09/16/Gueime-1.jpg"
 tags = ["Gueime", "games", "video games", "startup", "jogos digitais"]
 title = "GG Gueime - Foi uma longa e maravilhosa jornada, mas está na hora do próximo nível"
@@ -9,8 +10,6 @@ url = "/gueime-foi-uma-longa-e-maravilhosa-jornada-mas-esta-na-hora-do-proximo-n
 youtube = ""
 
 +++
-
-
 Em 2012 eu e mais 5 amigos criamos um site de games chamado Gueime. Assim contávamos a nossa história:
 
 <pre style="white-space: normal;">Em uma conversa de nerds, surgiu a ideia de fazer um site de jogos. A ideia era criar um portal brasileiro que trouxesse informações confiáveis e atualizadas, análises precisas e uma comunidade envolvente e igualmente apaixonada pelos jogos como nós. Daí surgiu o Gueime.<br><br>
