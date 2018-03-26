@@ -3,6 +3,7 @@ author = "André Lucas"
 categories = ["Lifestyle", "Games"]
 date = "2018-03-26T12:26:15+00:00"
 disqus = true
+draft = true
 hugo_image = "images/uploads/2017/09/19/andrelugark-1.jpg"
 tags = ["ARK: Survival Evolved", "mundo aberto", "ação", "aventura", "Studio Wildcard", "Instinct Games", "sobrevivência", "tutorial", "open world", "dinossauros", "começando"]
 title = "11 Dicas para Começar a Jogar ARK: Survival Evolved"
