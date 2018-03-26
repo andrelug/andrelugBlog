@@ -3,6 +3,7 @@ author = "André Lucas"
 categories = ["Lifestyle", "Games"]
 date = "2018-02-22T12:32:26+00:00"
 disqus = false
+draft = true
 hugo_image = "images/uploads/2017/09/22/andrelugstar_citizen.jpg"
 tags = ["Star Citizen", "Ação", "FPS"]
 title = "Minha experiência com Star Citizen 2.5"
