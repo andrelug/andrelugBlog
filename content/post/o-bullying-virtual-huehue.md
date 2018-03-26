@@ -1,7 +1,8 @@
 +++
 author = "André Lucas"
 categories = ["Lifestyle", "Games"]
-date = "2017-09-22T17:44:58+00:00"
+date = "2018-02-13T11:32:55+00:00"
+disqus = false
 hugo_image = "images/uploads/2017/09/22/andrelughuehuel.jpg"
 tags = ["bullying", "cultura"]
 title = "O Bullying Virtual \"Huehue\""
@@ -9,8 +10,6 @@ url = "/o-bullying-virtual-huehue/"
 youtube = ""
 
 +++
-
-
 Bullying é um termo usado para descrever atos de violência física ou psicológica, intencionais e repetidos, praticados por um indivíduo ou grupo de indivíduos causando dor e angústia, sendo executadas dentro de uma relação desigual de poder. É um termo cada vez mais utilizado, principalmente no âmbito escolar. Mas, em muitos casos, ele não se limita a este ambiente. Pode acontecer em casa, na família, no trabalho, entre colegas e/ou patrão; e também, no mundo dos jogos.
 
 Resolvi escrever este artigo após vários relatos e experiência própria com a cultura conhecida como “huehue", orgulhosamente ostentada por vários brasileiros. Antigamente era comum que jogos fossem lançados com campanhas voltadas apenas para um único jogador. Muitos jogos ainda hoje são lançados assim, mas de uns anos pra cá, a tendência de se adicionar um modo para vários jogadores vem atraindo cada vez mais o público. Quase todo jogo vem com este modo, ainda que em muitos casos o resultado possa não ser o melhor esperado. Uma das causas disso? Os jogadores vêm querendo cada vez mais interação com outros jogadores, possível graças á qualidade e velocidade da internet de uma maneira geral. Afinal de contas, quem sonharia jogar com 24 pessoas simultaneamente há umas duas gerações de consoles?
