@@ -1,31 +1,32 @@
 ---
-title: A LEGO lançou uma rede social para crianças que ainda não podem ter Facebook. A LEGO Life
+title: A LEGO lançou uma rede social para crianças que ainda não podem ter Facebook.
+  A LEGO Life
 author: André Lucas
-type: post
-date: 2017-02-08T02:31:31+00:00
-url: /lego-lancou-uma-rede-social-para-criancas-que-ainda-nao-podem-ter-facebook-lego-life/
+date: 2017-02-08 02:31:31 +0000
+url: "/lego-lancou-uma-rede-social-para-criancas-que-ainda-nao-podem-ter-facebook-lego-life/"
 featured_image: uploads/2017/02/lego_life
 featured_image_extension: jpg
 mvp_post_template:
-  - def
+- def
 mvp_featured_image:
-  - show
+- show
 post_views_count:
-  - 691
+- 691
 instant_articles_force_submit:
-  - 1
+- 1
 instant_articles_submission_id:
-  - 1234604426608109
+- 1234604426608109
 categories:
-  - Lifestyle
-  - Games
+- Lifestyle
+- Games
 tags:
-  - android
-  - aplicativos
-  - destaque
-  - ios
-  - lego
-  - lego life
+- android
+- aplicativos
+- destaque
+- ios
+- lego
+- lego life
+draft: true
 
 ---
 **ManagerAgileLegs**! Esse foi o nome que escolhi no gerador randômico de nomes de usuário no aplicativo do <a href="https://www.lego.com/en-us/life" target="_blank">LEGO Life</a>, a nova rede social criada pela LEGO. Tudo nesse serviço foi criado para fazer crianças rirem e se divertirem&#8230;e e as fazerem ficar longes de tudo que é perigoso e horrendo na internet hoje. Tudo isso com ainda um grande incentivo para que as crianças saiam das telas digitais e partam para a criação no mundo real com tijolinhos de LEGO de verdade.

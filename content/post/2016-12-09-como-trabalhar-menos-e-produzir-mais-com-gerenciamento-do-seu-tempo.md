@@ -1,28 +1,27 @@
 ---
 title: Como trabalhar menos e produzir mais com gerenciamento do seu tempo
 author: André Lucas
-type: post
-date: 2016-12-09T04:39:44+00:00
-url: /como-trabalhar-menos-e-produzir-mais-com-gerenciamento-do-seu-tempo/
+date: 2018-03-16 12:30:44 +0000
+url: "/como-trabalhar-menos-e-produzir-mais-com-gerenciamento-do-seu-tempo/"
 featured_image: uploads/2016/12/pexels-photo-53918
 featured_image_extension: jpeg
 mvp_post_template:
-  - def
+- def
 mvp_featured_image:
-  - show
+- show
 post_views_count:
-  - 367
+- 367
 instant_articles_submission_id:
-  - 1901320123444589
+- 1901320123444589
 categories:
-  - Freelancer
-  - Produtividade
+- Freelancer
+- Produtividade
 tags:
-  - destaque
-  - otimização
-  - produtividade
-  - tempo
-  - trabalho
+- destaque
+- otimização
+- produtividade
+- tempo
+- trabalho
 
 ---
 Nossa cultura percebe aquelas pessoas que trabalham muito como dignas de reconhecimento e orgulho enquanto quem está mais tranquilo é preguiçoso, sem ambição e perdido no mundo. Contudo, já algum tempo que tenho acompanhado alguns empreendedores que vão na contra-mão dessa ideia e propositalmente concentram seu trabalho em algumas poucas horas por dia.

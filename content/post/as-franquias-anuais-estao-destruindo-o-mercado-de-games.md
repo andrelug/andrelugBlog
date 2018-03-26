@@ -1,7 +1,9 @@
 +++
 author = "André Lucas"
 categories = ["Lifestyle", "Games"]
-date = "2017-09-22T17:39:36+00:00"
+date = "2018-02-28T12:28:28+00:00"
+disqus = false
+draft = true
 hugo_image = "images/uploads/2017/09/22/andrelug282542_Papel-de-Parede-Connor-Assassins-Creed-3_1600x900.jpg"
 tags = ["Franquias"]
 title = "As Franquias Anuais estão Destruindo o Mercado de Games?"
@@ -9,8 +11,6 @@ url = "/as-franquias-anuais-estao-destruindo-o-mercado-de-games/"
 youtube = ""
 
 +++
-
-
 Call of Duty. Battlefield. Assassin's Creed, FIFA, Pro Evolution Soccer.
 
 É difícil sequer começar a listar o número de franquias anuais das grandes empresas. É um modelo de negócio que enche os bolsos e dá muito certo, não? Então, por que se preocupar?

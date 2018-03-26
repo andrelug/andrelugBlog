@@ -1,7 +1,8 @@
 +++
 author = "André Lucas"
 categories = ["Freelancer", "Produtividade"]
-date = "2017-05-09T18:25:35+00:00"
+date = "2018-03-24T12:27:18+00:00"
+disqus = false
 hugo_image = "images/uploads/2017/05/09/pexels-photo-58709.jpeg"
 tags = ["gerenciamento de projeto", "produtividade", "freelancer"]
 title = "7 Dicas de gerenciamento de projetos para freelancers"
@@ -9,8 +10,6 @@ url = "/7-dicas-de-gerenciamento-de-projetos-para-freelancers/"
 youtube = ""
 
 +++
-
-
 Profissionais autônomos, freelancers e até mesmo agências criativas possuem centenas de softwares e serviços à disposição para o gerenciamento de projetos. Contudo, nem toda solução leva em conta a integração com outras e logo estamos gastando tempo indo e vindo pelas várias plataformas.
 
 Além disso, se você tem um software para gerenciar o tempo, outro para as tarefas, outro para arquivos, outro para conversas e por aí vai, fica muito complicado gerenciar e compreender o progresso dos projetos. <span style="font-size: 1rem;">Trabalhando com um time, então, é até mais complicado compreender em que cada pessoa está trabalhando.</span>

@@ -1,7 +1,9 @@
 +++
 author = "André Lucas"
 categories = ["Lifestyle", "Games"]
-date = "2017-09-22T17:19:56+00:00"
+date = "2018-02-25T12:32:13+00:00"
+disqus = false
+draft = true
 hugo_image = "images/uploads/2017/09/22/andreluglego_worlds_screen_3.jpg"
 tags = ["Minecraft", "LEGO", "Lego World", "Sandbox"]
 title = "LEGO Worlds - O Minecraft da LEGO?"
@@ -9,8 +11,6 @@ url = "/lego-worlds-o-minecraft-da-lego/"
 youtube = ""
 
 +++
-
-
 Hoje foi lançado pela LEGO o jogo 
 **LEGO Worlds** para PC <a href="http://store.steampowered.com/app/332310/" target="_blank">através da plataforma Steam</a>. Ainda em acesso antecipado, o jogo é uma simulação de um mundo feito de blocos de LEGO e tem como objetivo a exploração e construção.
 

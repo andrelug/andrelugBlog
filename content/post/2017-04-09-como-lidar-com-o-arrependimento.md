@@ -1,30 +1,29 @@
 ---
 title: Como lidar com o arrependimento
 author: André Lucas
-type: post
-date: 2017-04-09T21:15:07+00:00
-url: /como-lidar-com-o-arrependimento/
+date: 2018-03-19 12:29:56 +0000
+url: "/como-lidar-com-o-arrependimento/"
 featured_image: uploads/2017/04/vlog40
 featured_image_extension: jpg
 mvp_post_template:
-  - def
+- def
 mvp_featured_image:
-  - hide
+- hide
 instant_articles_submission_id:
-  - 1702377243395258
+- 1702377243395258
 post_views_count:
-  - 229
+- 229
 youtube: https://www.youtube.com/embed/acw-8e5rkv0
 categories:
-  - Lifestyle
-  - Reflexões
+- Lifestyle
+- Reflexões
 tags:
-  - arrependimento
-  - coaching
-  - como lidar
-  - efeito borboleta
-  - melhora pessoal
-  - psicologia
+- arrependimento
+- coaching
+- como lidar
+- efeito borboleta
+- melhora pessoal
+- psicologia
 format: video
 
 ---

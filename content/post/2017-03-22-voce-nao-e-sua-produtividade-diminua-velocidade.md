@@ -1,30 +1,29 @@
 ---
 title: Você não é a sua produtividade. Diminua a velocidade
 author: André Lucas
-type: post
-date: 2017-03-22T20:33:21+00:00
-url: /voce-nao-e-sua-produtividade-diminua-velocidade/
+date: 2018-03-05 12:35:43 +0000
+url: "/voce-nao-e-sua-produtividade-diminua-velocidade/"
 featured_image: uploads/2017/03/pexels-photo-127627
 featured_image_extension: jpeg
 mvp_post_template:
-  - def
+- def
 mvp_featured_image:
-  - show
+- show
 instant_articles_submission_id:
-  - 1454546937911921
+- 1454546937911921
 post_views_count:
-  - 450
+- 450
 categories:
-  - Freelancer
-  - Produtividade
+- Freelancer
+- Produtividade
 tags:
-  - destaque
-  - estres
-  - melhorar produtividade
-  - produtividade
-  - stress
-  - trabalho
-  - velocidade
+- destaque
+- estres
+- melhorar produtividade
+- produtividade
+- stress
+- trabalho
+- velocidade
 
 ---
 Parte da cultura empreendedora que temos hoje supervaloriza quem coloca o trabalho na frente de todo o resto da vida. Se você não trabalhar o tempo todo e dedicar sua vida ao seu sonho provavelmente não será bem sucedido.

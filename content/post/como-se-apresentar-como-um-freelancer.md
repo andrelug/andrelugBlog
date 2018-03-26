@@ -1,7 +1,7 @@
 +++
 author = "André Lucas"
 categories = ["Freelancer", "Marketing"]
-date = "2018-02-03T18:24:46+00:00"
+date = "2018-03-18T12:30:12+00:00"
 disqus = true
 hugo_image = "images/uploads/2018/02/03/pexels-photo-401684.jpeg"
 tags = ["Freelancer", "Autônomo"]

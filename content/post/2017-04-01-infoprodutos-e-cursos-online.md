@@ -1,39 +1,39 @@
 ---
-title: Infoprodutos e Cursos Online – Tudo que você precisa saber para comprar ou vender
+title: Infoprodutos e Cursos Online – Tudo que você precisa saber para comprar ou
+  vender
 author: André Lucas
-type: post
-date: 2017-04-01T23:10:49+00:00
-url: /infoprodutos-e-cursos-online/
+date: 2018-03-25 12:32:01 +0000
+url: "/infoprodutos-e-cursos-online/"
 featured_image: uploads/2017/04/produtos_digitais
 featured_image_extension: jpg
 mvp_post_template:
-  - def
+- def
 mvp_featured_image:
-  - hide
+- hide
 post_views_count:
-  - 481
+- 481
 instant_articles_submission_id:
-  - 201860736982326
+- 201860736982326
 categories:
-  - Freelancer
-  - Marketing
+- Freelancer
+- Marketing
 tags:
-  - afiliados
-  - curso online
-  - cursos online
-  - destaque
-  - estratégias de marketing
-  - estratégias para venda de produtos digitais
-  - fórmula de lançamento
-  - infoproduto
-  - infoprodutos
-  - marketing de conteúdo
-  - marketing de infoprodutos
-  - produto digital
-  - produtos digitais
-  - tripwire
-  - venda de cursos online
-  - venda de infoprodutos
+- afiliados
+- curso online
+- cursos online
+- destaque
+- estratégias de marketing
+- estratégias para venda de produtos digitais
+- fórmula de lançamento
+- infoproduto
+- infoprodutos
+- marketing de conteúdo
+- marketing de infoprodutos
+- produto digital
+- produtos digitais
+- tripwire
+- venda de cursos online
+- venda de infoprodutos
 
 ---
 A cada dia novos cursos online e infoprodutos são lançados prometendo sucesso, revoluções e conhecimentos secretos de um determinado assunto. Se você passa um tempo razoável na internet já deve ter identificado como que esses produtos são vendidos.
