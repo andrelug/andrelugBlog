@@ -1,7 +1,7 @@
 +++
 author = "Juliana Saldanha"
 categories = ["Freelancer", "Marketing"]
-date = "2018-02-07T18:03:05+00:00"
+date = "2018-03-25T12:27:00+00:00"
 disqus = true
 hugo_image = "images/uploads/2018/02/08/giphy.gif"
 tags = ["Freelancer", "Personal Branding", "Marca pessoal"]
