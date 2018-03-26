@@ -3,6 +3,7 @@ author = "André Lucas"
 categories = ["Lifestyle", "Games"]
 date = "2018-02-25T12:32:13+00:00"
 disqus = false
+draft = true
 hugo_image = "images/uploads/2017/09/22/andreluglego_worlds_screen_3.jpg"
 tags = ["Minecraft", "LEGO", "Lego World", "Sandbox"]
 title = "LEGO Worlds - O Minecraft da LEGO?"
