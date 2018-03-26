@@ -1,7 +1,8 @@
 +++
 author = "André Lucas"
 categories = ["Lifestyle", "Games"]
-date = "2017-09-22T17:13:09+00:00"
+date = "2018-02-22T12:32:26+00:00"
+disqus = false
 hugo_image = "images/uploads/2017/09/22/andrelugstar_citizen.jpg"
 tags = ["Star Citizen", "Ação", "FPS"]
 title = "Minha experiência com Star Citizen 2.5"
@@ -9,8 +10,6 @@ url = "/minha-experiencia-com-star-citizen-2-5/"
 youtube = ""
 
 +++
-
-
 Star Citizen, o jogo que foi financiando pelo programa de crowdfunding Kickstarter, já está disponível aos seus compradores iniciais há um tempo, mas só agora resolvi dar uma chance. Ele está na versão Alpha 2.5 e de alguma forma já apresenta elementos impressionantes. Vale mencionar que mesmo nesse estágio o jogo possui mais de 1 milhão de jogadores.
 
 A proposta do jogo não é simples. Um simulador de aeronaves espaciais, um FPS (First Person Shooter), mundo persistente, melhores gráficos possíveis, minigames, economia galáctica e por aí vai. Realmente é muito para um jogo só, mas será que eles estão no caminho certo? É isso que fui atrás nesses últimos dias.
