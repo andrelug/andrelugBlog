@@ -1,7 +1,8 @@
 +++
 author = "André Lucas"
 categories = ["Freelancer"]
-date = "2017-11-04T03:33:37+00:00"
+date = "2018-03-14T12:31:31+00:00"
+disqus = false
 hugo_image = "images/uploads/2017/11/04/trabalhar_como_freelancer.jpg"
 tags = ["Freelancer", "Trabalho remoto", "Autônomo"]
 title = "Está na sua hora de trabalhar como freelancer?"
