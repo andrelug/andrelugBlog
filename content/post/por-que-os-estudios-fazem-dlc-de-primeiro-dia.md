@@ -1,7 +1,8 @@
 +++
 author = "André Lucas"
 categories = ["Lifestyle", "Games"]
-date = "2017-09-22T17:32:40+00:00"
+date = "2018-02-07T11:34:54+00:00"
+disqus = false
 hugo_image = "images/uploads/2017/09/22/andrelug2013-04-08_00002-790x444.jpg"
 tags = ["DLC"]
 title = "Por que os estúdios fazem DLC de primeiro dia?"
@@ -9,8 +10,6 @@ url = "/por-que-os-estudios-fazem-dlc-de-primeiro-dia/"
 youtube = ""
 
 +++
-
-
 Se você é um jogador que esteve esperando algum jogo ansiosamente nos últimos anos, provavelmente já se deparou com a decepção de comprar o game por um preço enorme e ao rodá-lo ter uma mensagem que há conteúdo para download disponível. O primeiro pensamento que vem à cabeça normalmente são um misto de palavras não agradáveis com o pensamento se esse DLC (como é chamado) tem algo importante para a história do jogo. No final das contas muitos simplesmente ignoram esses conteúdo, mas uma grande parcela das pessoas compra de qualquer maneira pensando na experiência desse jogo que tanto queria.
 
 Vamos a um esclarecimento antes de começar esse texto: DLCs (Downloadable Content) são conteúdos normalmente pagos disponibilizados pelos produtores dos jogos para aumentar ou melhorar algum tipo de recurso presente. Seja novas fases, mapas ou, no pior caso, partes da história, os DLCs chegaram como uma evolução dos pacotes de expansão já que agora são distribuídos digitalmente e acabam sendo ótimas alternativas para os estúdios poderem melhorar seus produtos após o lançamento (além das atualizações de correção de Bugs que são gratuitas).
