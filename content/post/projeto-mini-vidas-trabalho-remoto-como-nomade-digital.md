@@ -1,7 +1,8 @@
 +++
 author = "André Lucas"
 categories = ["Lifestyle", "Nômade Digital"]
-date = "2017-09-17T04:51:53+00:00"
+date = "2018-03-07T12:35:15+00:00"
+disqus = false
 hugo_image = "images/uploads/2017/09/17/nomades_digitais_mini-vidas.jpg"
 tags = ["Mini vidass", "Nômades digitais", "Nômade digital", "Trabalho remoto", "Freelancer"]
 title = "Projeto Mini vidas - Trabalho remoto como nômade digital"
@@ -9,8 +10,6 @@ url = "/projeto-mini-vidas-trabalho-remoto-como-nomade-digital/"
 youtube = ""
 
 +++
-
-
 Você já ouviu falar no termo **Nômade Digital**? É um conceito que está bem na moda, e ser um  significa aderir a um lifestyle *on the road* aproveitando, de alguma forma, da liberdade que a internet te proporciona.
 
 Tem nômades digitais minimalistas, hippies, luxuosos, que buscam algo ou que simplesmente não querem ficar no mesmo lugar por muito tempo. Não existe bem uma regra. **O que importa é a liberdade!**
