@@ -1,28 +1,27 @@
 ---
 title: Como estruturar seu negócio como freelancer?
 author: André Lucas
-type: post
-date: 2016-12-25T17:38:01+00:00
-url: /como-estruturar-seu-negocio-como-freelancer/
+date: 2018-03-20 12:29:23 +0000
+url: "/como-estruturar-seu-negocio-como-freelancer/"
 featured_image: uploads/2016/12/coffee-cup-mug-apple
 featured_image_extension: jpg
 mvp_post_template:
-  - def
+- def
 mvp_featured_image:
-  - hide
+- hide
 post_views_count:
-  - 883
+- 883
 instant_articles_submission_id:
-  - 1938665793031027
+- 1938665793031027
 youtube: https://www.youtube.com/embed/yDuvh1oAyZc
 categories:
-  - Freelancer
+- Freelancer
 tags:
-  - destaque
-  - dicas
-  - freelancer
-  - negócio
-  - profissional
+- destaque
+- dicas
+- freelancer
+- negócio
+- profissional
 format: video
 
 ---
