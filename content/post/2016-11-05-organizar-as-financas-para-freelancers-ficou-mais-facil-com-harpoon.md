@@ -1,27 +1,26 @@
 ---
 title: Organizar as finanças para Freelancers ficou mais fácil com Harpoon
 author: André Lucas
-type: post
-date: 2016-11-05T17:46:03+00:00
-url: /organizar-as-financas-para-freelancers-ficou-mais-facil-com-harpoon/
+date: 2018-03-10 12:33:56 +0000
+url: "/organizar-as-financas-para-freelancers-ficou-mais-facil-com-harpoon/"
 featured_image: uploads/2016/11/feature-showcase-schedule
 featured_image_extension: png
 mvp_post_template:
-  - def
+- def
 mvp_featured_image:
-  - show
+- show
 post_views_count:
-  - 632
+- 632
 instant_articles_submission_id:
-  - 205408629949661
+- 205408629949661
 categories:
-  - Freelancer
-  - Financeiro
+- Freelancer
+- Financeiro
 tags:
-  - análise
-  - destaque
-  - harpoon
-  - review
+- análise
+- destaque
+- harpoon
+- review
 
 ---
 Já há alguns anos eu crio, faço manutenção e modifico sites para diversos clientes como Freelancer, mas esse artigo vai ajudar qualquer tipo de profissional autônomo que esteja procurando uma forma mais efetiva de organizar suas finanças.
