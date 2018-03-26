@@ -1,7 +1,8 @@
 +++
 author = "André Lucas"
 categories = ["Lifestyle", "Reflexões"]
-date = "2017-09-15T20:54:10+00:00"
+date = "2018-03-11T12:33:41+00:00"
+disqus = false
 hugo_image = "images/uploads/2017/09/16/1-6Ibmtsx3aF85Ayjj_0qsBg.png"
 tags = ["obsolescência programada", "OEP Electrics", "Thrive", "Documentário"]
 title = "Obsolescência programada"
@@ -9,8 +10,6 @@ url = "/obsolescencia-programada/"
 youtube = ""
 
 +++
-
-
 <div class="section-content">
 <div class="section-inner sectionLayout--insetColumn">
 <p>Se você tem mais de 30 anos, deve se lembrar que antigamente produtos não estragavam tão facilmente. Além disso, se você acompanha o desenvolvimento tecnológico, provavelmente percebeu que não estamos evoluindo na velocidade esperada e novos produtos são apenas versões levemente melhores do que anteriores. Independentemente das condições acima se aplicarem à sua realidade, a <a href="http://pt.wikipedia.org/wiki/Obsolesc%C3%AAncia_programada">Obsolescência Programada</a> e o Maior Aproveitamento dos produtos que consumimos é uma realidade que vivemos e nesse artigo vamos entender um pouco mais sobre o porquê devemos nos ocupar (nunca PREocupar) com isso.</p>
