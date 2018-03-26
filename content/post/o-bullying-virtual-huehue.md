@@ -3,6 +3,7 @@ author = "André Lucas"
 categories = ["Lifestyle", "Games"]
 date = "2018-02-13T11:32:55+00:00"
 disqus = false
+draft = true
 hugo_image = "images/uploads/2017/09/22/andrelughuehuel.jpg"
 tags = ["bullying", "cultura"]
 title = "O Bullying Virtual \"Huehue\""
