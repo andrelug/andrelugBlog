@@ -1,7 +1,8 @@
 +++
 author = "André Lucas"
 categories = ["Lifestyle", "Games"]
-date = "2017-09-22T17:29:09+00:00"
+date = "2018-03-01T12:27:53+00:00"
+disqus = false
 hugo_image = "images/uploads/2017/09/22/andrelug1405918-mountain_2.jpg"
 tags = ["Indie"]
 title = "A Diferença entre Indie e AAA"
@@ -9,8 +10,6 @@ url = "/a-diferenca-entre-indie-e-aaa/"
 youtube = ""
 
 +++
-
-
 Vivemos em um mundo exigente. As situações do cotidiano exigem cada vez mais de nós, seja nos estudos ou no campo profissional e vivemos em um limite das nossas capacidades. Vamos nos desgastando e estressando aos poucos e maneiras de aliviar estes problemas começam a se tornar uma necessidade. Nos encontramos no país do futebol, onde a massiva maioria tem no esporte sua forma de descontração, mas outros têm seu momento pessoal de descanso na música ou no cinema. E outros, assim como nós, nos games.
 
 Tão grande quanto as outras formas de entretenimento, a indústria dos games alcança números enormes em sua movimentação financeira, que chega aos bilhões de dólares todo ano. Milhares de pessoas são empregadas ao redor do mundo, diretamente (em sua criação) ou indiretamente (em sua produção ou distribuição) e, a cada ano, o número de jogos produzidos aumenta, acompanhado pelo aumento do jogadores interessados nesta forma de entretenimento.
