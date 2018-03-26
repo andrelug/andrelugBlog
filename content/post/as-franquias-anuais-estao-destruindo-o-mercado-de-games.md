@@ -3,6 +3,7 @@ author = "André Lucas"
 categories = ["Lifestyle", "Games"]
 date = "2018-02-28T12:28:28+00:00"
 disqus = false
+draft = true
 hugo_image = "images/uploads/2017/09/22/andrelug282542_Papel-de-Parede-Connor-Assassins-Creed-3_1600x900.jpg"
 tags = ["Franquias"]
 title = "As Franquias Anuais estão Destruindo o Mercado de Games?"
