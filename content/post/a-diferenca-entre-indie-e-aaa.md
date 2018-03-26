@@ -3,6 +3,7 @@ author = "André Lucas"
 categories = ["Lifestyle", "Games"]
 date = "2018-03-01T12:27:53+00:00"
 disqus = false
+draft = true
 hugo_image = "images/uploads/2017/09/22/andrelug1405918-mountain_2.jpg"
 tags = ["Indie"]
 title = "A Diferença entre Indie e AAA"
