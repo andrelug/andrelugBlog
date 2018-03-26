@@ -1,7 +1,8 @@
 +++
 author = "André Lucas"
 categories = ["Lifestyle", "Games"]
-date = "2017-09-22T17:23:14+00:00"
+date = "2018-02-13T11:35:31+00:00"
+disqus = false
 hugo_image = "images/uploads/2017/09/22/andrelugM_Mature_ESRB.jpg"
 tags = ["Violência", "Adulto", "Jogos"]
 title = "Violência no mundo digital vs mundo real"
@@ -9,8 +10,6 @@ url = "/violencia-no-mundo-digital-vs-mundo-real/"
 youtube = ""
 
 +++
-
-
 Nas últimas semanas, o governo Obama nos Estados Unidos vem se pronunciando a respeito da violência nos videogames e como esta pode impactar comportamentos de crianças, adolescentes e jovens adultos. Dentre reuniões com líderes de corporações ligadas aos games e presidente da associação de rifles dos Estados Unidos, aprovação de projetos para pesquisa na área de milhões de dólares e muitas notícias, o tópico está tomando uma dimensão que ao mesmo tempo preocupa produtores de jogos e alivia alguns pais.
 
 A questão é que muitos jovens estão cometendo atos criminais sérios e estão tendo comportamentos que põe a vida, deles e de outras pessoas, em risco. Digo, desde já, que não acho que o problema está nos jogos, mas há alguns pontos que merecem ser observados em relação a como os jogos tem um papel importante na formação ideológica de pequenas pessoas.
