@@ -1,26 +1,25 @@
 ---
 title: Como sobreviver ao stress da correria moderna
 author: André Lucas
-type: post
-date: 2016-12-30T19:57:03+00:00
-url: /como-sobreviver-ao-stress-da-correria-moderna/
+date: 2018-03-17 12:30:27 +0000
+url: "/como-sobreviver-ao-stress-da-correria-moderna/"
 featured_image: uploads/2016/12/pexels-photo-60778
 featured_image_extension: jpg
 mvp_post_template:
-  - def
+- def
 mvp_featured_image:
-  - show
+- show
 post_views_count:
-  - 390
+- 390
 instant_articles_submission_id:
-  - 1769919839986882
+- 1769919839986882
 categories:
-  - Lifestyle
-  - Reflexões
+- Lifestyle
+- Reflexões
 tags:
-  - lifestyle
-  - stress
-  - trabalho
+- lifestyle
+- stress
+- trabalho
 
 ---
 A vida profissional e até mesmo pessoal hoje exige de nós uma velocidade e prontidão incríveis. E-mails e mensagens devem ser respondidas imediatamente, trabalhos sempre são para ontem e os horários de trabalho acabam misturando com os momentos pessoais e de lazer.
