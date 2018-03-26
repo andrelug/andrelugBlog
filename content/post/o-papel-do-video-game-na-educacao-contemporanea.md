@@ -1,7 +1,8 @@
 +++
 author = "André Lucas"
 categories = ["Lifestyle", "Games"]
-date = "2017-09-22T17:42:44+00:00"
+date = "2018-02-15T11:33:17+00:00"
+disqus = false
 hugo_image = "images/uploads/2017/09/22/andrelugjogos-educativos-cred-fotolia.jpg"
 tags = ["Educação"]
 title = "O papel do Video Game na Educação Contemporânea"
@@ -9,8 +10,6 @@ url = "/o-papel-do-video-game-na-educacao-contemporanea/"
 youtube = ""
 
 +++
-
-
 Desde que os jogos eletrônicos surgiram, eles foram os heróis das crianças (hoje adultos) e o terror dos pais. A maior parte das pessoas se questionavam com relação à alienação que a criança “sofria" se imergindo num mundo fictício. Pais e professores se preocupavam ignorando qualquer outro efeito positivo que o videogame pudesse ter sobre a criança ou adolescente. Mas parece que hoje a força das circunstancias leva o ente educador enxergar outras facetas do antigo “vilão".
 
 Num mundo onde as pessoas são cada vez mais bombardeadas por informação (útil ou não) da hora que acordam à hora de dormir, é cada vez mais difícil prender a atenção do indivíduo. Imagine, agora, a de uma criança ou adolescente onde tudo em sua vida ainda é novidade. A molde atual de educação e formação cognitiva torna-se cada vez mais obsoleto frente a um mundo em que o objeto não julgado interessante em cinco segundos já é classificado como “chato" e descartado do foco de atenção do indivíduo.
