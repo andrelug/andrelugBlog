@@ -1,11 +1,12 @@
 ---
 pages:
+- pages/contato.md
 - pages/obrigado-por-se-cadastrar.md
 - pages/minha-lista-impossivel.md
 - pages/lista-de-leitura.md
 - pages/sobre.md
-- pages/contato.md
 hide_body: false
+is_partial: false
 fields:
 - name: title
   label: Title

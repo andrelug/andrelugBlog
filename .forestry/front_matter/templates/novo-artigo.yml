@@ -1,8 +1,8 @@
 ---
 pages:
-- post/11-dicas-para-comecar-a-jogar-ark-survival-evolved.md
-- post/a-diferenca-entre-indie-e-aaa.md
 - post/minha-experiencia-com-star-citizen-2-5.md
+- post/a-diferenca-entre-indie-e-aaa.md
+- post/11-dicas-para-comecar-a-jogar-ark-survival-evolved.md
 - post/o-final-de-bioshock-infinite.md
 - post/violencia-no-mundo-digital-vs-mundo-real.md
 - post/o-papel-do-video-game-na-educacao-contemporanea.md
@@ -25,6 +25,7 @@ pages:
 - post/como-se-apresentar-como-um-freelancer.md
 - post/dicas-para-se-tornar-um-programador-freelancer.md
 hide_body: false
+is_partial: false
 fields:
 - name: title
   label: Title

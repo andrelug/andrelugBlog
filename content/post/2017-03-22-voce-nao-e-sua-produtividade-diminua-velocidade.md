@@ -30,7 +30,7 @@ Parte da cultura empreendedora que temos hoje supervaloriza quem coloca o trabal
 
 Você provavelmente ou conhece alguém assim ou se identifica com o que eu falei. Quantas vezes você já disse que não tem tempo para cuidar de você mesmo? Ou então conhece alguém que dorme menos de 5 horas por noite porque tem muita coisa pra fazer? Pois é, eu conheço é muita gente nesse esquema. Eu mesmo já repeti esse mantra da vida ocupada durante muito tempo.
 
-Tudo bem, tem pessoas que é realmente são muito ocupadas. **Mas ninguém precisa trabalhar 16h por dia para &#8216;ser produtivo&#8217;**. O senso de urgência que a vida moderna passa é estranho e quase ninguém sabe lidar com a necessidade de tudo estar pronto para ontem. Nesse artigo vou destrinchar um pouco sobre como foi minha experiência repetindo o <span style="text-decoration: underline;">mantra do empreendedor ocupado</span> e explicar porque eu acho que temos que diminuir nossa velocidade.
+Tudo bem, tem pessoas que é realmente são muito ocupadas. **Mas ninguém precisa trabalhar 16h por dia para ‘ser produtivo’**. O senso de urgência que a vida moderna passa é estranho e quase ninguém sabe lidar com a necessidade de tudo estar pronto para ontem. Nesse artigo vou destrinchar um pouco sobre como foi minha experiência repetindo o <span style="text-decoration: underline;">mantra do empreendedor ocupado</span> e explicar porque eu acho que temos que diminuir nossa velocidade.
 
 ## O mito da produtividade
 
@@ -38,29 +38,27 @@ Com uma rápida pesquisa no Google você terá acesso a uma infinidade de artigo
 
 Eu mesmo estou sempre em busca de métodos diferentes de organizar meu dia para poder produzir mais. Aqui no blog você vai achar artigos que dão dicas exatamente de como ser mais produtivo:
 
-  * <a href="https://andrelug.com/12-dicas-de-como-usar-o-gmail-e-ser-mais-produtivo/" target="_blank">12 Dicas de como usar o Gmail e ser mais produtivo</a>
-  * <a href="https://andrelug.com/8-dicas-para-ser-mais-produtivo/" target="_blank">8 Dicas para ser mais produtivo</a>
-  * <a href="https://andrelug.com/como-trabalhar-menos-e-produzir-mais-com-gerenciamento-do-seu-tempo/" target="_blank">Como trabalhar menos e produzir mais com o gerenciamento do seu tempo</a>
+* <a href="https://andrelug.com/12-dicas-de-como-usar-o-gmail-e-ser-mais-produtivo/" target="_blank">12 Dicas de como usar o Gmail e ser mais produtivo</a>
+* <a href="https://andrelug.com/8-dicas-para-ser-mais-produtivo/" target="_blank">8 Dicas para ser mais produtivo</a>
+* <a href="https://andrelug.com/como-trabalhar-menos-e-produzir-mais-com-gerenciamento-do-seu-tempo/" target="_blank">Como trabalhar menos e produzir mais com o gerenciamento do seu tempo</a>
 
-Produzir, produzir, produzir. Quanto mais, melhor? Acho que a gente ta viciado demais nesse ideal de que temos que ser cada vez mais produtivos. Não me entenda mal, <a href="https://www.amazon.com.br/gp/product/B01DCNJ1CY/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&tag=iglonl-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B01DCNJ1CY&linkId=af08dbcc8f352ca917179012000110ff" target="_blank">eu adoro o tópico e busco sempre formas de melhorar minha estrutura para que consiga ser mais produtivo</a>. Mas isso é um buraco sem fundo.
+Produzir, produzir, produzir. Quanto mais, melhor? Acho que a gente ta viciado demais nesse ideal de que temos que ser cada vez mais produtivos. Não me entenda mal, <a href="https://amzn.to/2KVK1Qg" target="_blank">eu adoro o tópico e busco sempre formas de melhorar minha estrutura para que consiga ser mais produtivo</a>. Mas isso é um buraco sem fundo.
 
-É deprimente e desmoralizante pois o tempo inteiro tem uma nova forma de lidar com a produtividade e no final, se prestarmos bastante atenção, estamos no mesmo lugar ou pior. O problema é que colocamos a responsabilidade em nós mesmos. Não somos produtivos porque não tentamos o suficiente, aí para compensar [advinha] trabalhamos várias horas extras.
+É deprimente e desmoralizante pois o tempo inteiro tem uma nova forma de lidar com a produtividade e no final, se prestarmos bastante atenção, estamos no mesmo lugar ou pior. O problema é que colocamos a responsabilidade em nós mesmos. Não somos produtivos porque não tentamos o suficiente, aí para compensar \[advinha\] trabalhamos várias horas extras.
 
 <img class="size-full wp-image-646 aligncenter" src="/images/uploads/2017/03/pexels-photo-52608.jpeg" alt="" width="1280" height="855" srcset="/images/uploads/2017/03/pexels-photo-52608.jpeg 1280w, /images/uploads/2017/03/pexels-photo-52608-300x200.jpeg 300w, /images/uploads/2017/03/pexels-photo-52608-768x513.jpeg 768w, /images/uploads/2017/03/pexels-photo-52608-1024x684.jpeg 1024w" sizes="(max-width: 1280px) 100vw, 1280px" />
 
 ## Hábitos que não acabam mais
 
-Deixe o telefone de lado, junte tarefas repetidas, anote suas tarefas, crie listas de prioridade, se demorar menos de 5 minutos faça imediatamente, delegue tarefas, crie rituais matinais, faça reuniões breves em pé, tome mais café, faça exercícios, etc, etc&#8230;
+Deixe o telefone de lado, junte tarefas repetidas, anote suas tarefas, crie listas de prioridade, se demorar menos de 5 minutos faça imediatamente, delegue tarefas, crie rituais matinais, faça reuniões breves em pé, tome mais café, faça exercícios, etc, etc…
 
 <img class="size-full wp-image-643 aligncenter" src="/images/uploads/2017/03/habitos_produtividade.jpg" alt="" width="621" height="512" srcset="/images/uploads/2017/03/habitos_produtividade.jpg 621w, /images/uploads/2017/03/habitos_produtividade-300x247.jpg 300w" sizes="(max-width: 621px) 100vw, 621px" />
 
-Todo mundo hoje é expert em produtividade. Eu não falo isso sendo irônico. Se você trabalha e faz algo que funciona para você, você &#8211; pela definição de expert na internet hoje em dia &#8211; é um especialista no assunto. Como já mostrei, aqui mesmo no blog eu falo muito sobre isso. <a href="https://www.amazon.com.br/gp/product/B00A3D10JE/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&tag=iglonl-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B00A3D10JE&linkId=457e6ab24f33042301b85fa0be09e90a" target="_blank">E do que que todo expert em produtividade fala? Hábitos!</a>
+Todo mundo hoje é expert em produtividade. Eu não falo isso sendo irônico. Se você trabalha e faz algo que funciona para você, você – pela definição de expert na internet hoje em dia – é um especialista no assunto. Como já mostrei, aqui mesmo no blog eu falo muito sobre isso. <a href="https://amzn.to/2IeFiYa" target="_blank">E do que que todo expert em produtividade fala? Hábitos!</a>
 
 **Corte 10 hábitos ruins da sua vida e adicione 10 novos hábitos hiper produtivos que aí sim você vai conseguir ser um profissional digno de nossa geração**. E se não conseguir é porque não possui força de vontade e controle emocional, isto é, você falhou.
 
 Tem algo estranho nessa situação toda, não é?
-
-##
 
 ## Uma mudança de paradigma
 
@@ -70,7 +68,7 @@ Tentei de tudo para ser mais produtivo, mas mesmo assim me sentia a pior das pes
 
 Eu demorei para perceber que tinha algo errado. Meus sócios e alguns amigos viviam no mesmo mundo que eu. Se não tem stress e sacrifícios, não tem resultado. O problema começou quando mesmo eu dedicando horas e mais horas não conseguia mais produzir como antes. **Seguindo ou não seguindo os hábitos de pessoas produtivas, simplesmente meus resultados estavam abaixo do que eu considerava o mínimo. E isso me frustrou muito**.
 
-Custei para aceitar que teria que mudar, mas foi [lendo livros e artigos como esse que estou escrevendo agora que me dei permissão para mudar][1]. Abandonei aquilo que não me fazia bem e busquei alternativas mais interessantes para minha vida.
+Custei para aceitar que teria que mudar, mas foi [lendo livros e artigos como esse que estou escrevendo agora que me dei permissão para mudar](https://amzn.to/2IbOfRP). Abandonei aquilo que não me fazia bem e busquei alternativas mais interessantes para minha vida.
 
 Vou listar aqui algumas das lições que aprendi.
 
@@ -116,7 +114,7 @@ Colocar no pedestal quem tem ideias auto destrutivos não ajuda a comunidade de 
 
 Ao contrário de colocar um novo produto no mercado, os relacionamentos não são criados com mais produtividade e esforço. O relacionamento com familiares e amigos só existem por uma junção de fatores e conjunturas que podem ser que nunca voltem a acontecer. Se você esquecer dos relacionamentos, pode ser que eles nunca voltem a ser como antes.
 
-Eu posso dizer por experiência própria que perdi amigos por falta de interesse de minha parte. As pessoas tem um certo limite para a quantidade de vezes que irão te procurar. Quanto mais afastado e focado no trabalho, menos tempo terá para o cultivo das amizades &#8211; e essas podem ser que desapareçam.
+Eu posso dizer por experiência própria que perdi amigos por falta de interesse de minha parte. As pessoas tem um certo limite para a quantidade de vezes que irão te procurar. Quanto mais afastado e focado no trabalho, menos tempo terá para o cultivo das amizades – e essas podem ser que desapareçam.
 
 ### Felicidade
 
@@ -142,7 +140,7 @@ Quando você conseguir produzir mais, aproveite para descansar, correr, comer me
 
 ## Ser seu próprio chefe
 
-Tem um cara chamado <a class="link link--primary u-accentColor--hoverTextNormal is-touched" dir="auto" title="Go to the profile of Jon Westenberg" href="https://medium.com/@jonwestenberg" rel="author cc:attributionUrl" data-user-id="5ce28105ffbc">Jon Westenberg</a> que <a href="https://medium.com/hi-my-name-is-jon/your-are-more-than-your-productivity-slow-the-fuck-down-172d140bed7#.ou05bt8ns" target="_blank">escreveu algo que me identifiquei muito</a>. **&#8220;A pior parte de ser empreendedor (ou Freelancer) é ser seu próprio chefe&#8221;**. Isso porque você é o pior chefe que existe. Ou você não se incentiva e motiva o suficiente para realizar bons trabalhos em tempo hábil ou você se força demais até bem depois do limite. Ser seu próprio chefe significa lidar com o chefe mais abusivo possível &#8211; uma pessoa que não tem limite algum e vai te colocar para trabalhar 100% do tempo de todos os dias da semana, sem férias ou descansos.
+Tem um cara chamado <a class="link link--primary u-accentColor--hoverTextNormal is-touched" dir="auto" title="Go to the profile of Jon Westenberg" href="https://medium.com/@jonwestenberg" rel="author cc:attributionUrl" data-user-id="5ce28105ffbc">Jon Westenberg</a> que <a href="https://medium.com/hi-my-name-is-jon/your-are-more-than-your-productivity-slow-the-fuck-down-172d140bed7#.ou05bt8ns" target="_blank">escreveu algo que me identifiquei muito</a>. **“A pior parte de ser empreendedor (ou Freelancer) é ser seu próprio chefe”**. Isso porque você é o pior chefe que existe. Ou você não se incentiva e motiva o suficiente para realizar bons trabalhos em tempo hábil ou você se força demais até bem depois do limite. Ser seu próprio chefe significa lidar com o chefe mais abusivo possível – uma pessoa que não tem limite algum e vai te colocar para trabalhar 100% do tempo de todos os dias da semana, sem férias ou descansos.
 
 Esse chefe escroto vai achar que você é fraco por não conseguir manter o ritmo de produtividade só porque dormiu 3 horas a semana toda. Vai te achar ignorante porque não pensou em alternativas criativas depois de meses sem fazer exercício. Vai te culpar por que não bateu as metas mesmo depois de sacrificar seus relacionamentos em prol do trabalho.
 
@@ -150,7 +148,7 @@ Esse chefe escroto vai achar que você é fraco por não conseguir manter o ritm
 
 ## A vida vai esperar
 
-No final das contas passando por cima da cultura da produtividade você verá que a vida vai te esperar. As pressões existem em qualquer trabalho &#8211; seja você como o chefe ou outra pessoa. Isso não é problema. Agora você é que decide até onde deverá ir. Se existem leis trabalhistas para limitar as horas trabalhadas é para impedir que chefes escrotos como mencionados acima existam. Mas quando você é seu próprio chefe tem que fazer um esforço extra para lembrar disso.
+No final das contas passando por cima da cultura da produtividade você verá que a vida vai te esperar. As pressões existem em qualquer trabalho – seja você como o chefe ou outra pessoa. Isso não é problema. Agora você é que decide até onde deverá ir. Se existem leis trabalhistas para limitar as horas trabalhadas é para impedir que chefes escrotos como mencionados acima existam. Mas quando você é seu próprio chefe tem que fazer um esforço extra para lembrar disso.
 
 Se o seu negócio não crescer 20% ao ano e só 10%, vai fazer alguma diferença real? Não. A vida é uma balança e colocar os benefícios dos 10% extra em comparação com mais felicidade, saúde e paz é um exercício que poucos fazem. **Hoje para mim a balança tente mais ao lado do bem estar e fico muito feliz de ter posto tudo na balança**.
 
@@ -158,12 +156,10 @@ Naturalmente todos nós temos momentos em que temos que fazer esforços extras. 
 
 A balança muitas vezes é entre o bem estar e a ganância e não entre o bem estar e o simples sucesso do negócio ou empresa. Ter a balança em vista sempre é importante para poder distinguir esses momentos.
 
-&nbsp;
+ 
 
 Espero que tenha gostado do artigo! O que você acha a respeito desse assunto? Está em uma fase na vida em que prioriza o trabalho mais do que tudo? Deixa abaixo um comentário e vamos continuar a conversa por lá.
 
-&nbsp;
+ 
 
 Divirta-se!
-
- [1]: http://amzn.to/2mRfbuY
