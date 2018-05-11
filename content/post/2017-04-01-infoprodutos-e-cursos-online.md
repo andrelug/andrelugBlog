@@ -16,7 +16,7 @@ instant_articles_submission_id:
 - 201860736982326
 categories:
 - Freelancer
-- Marketing
+- Marketing Digital
 tags:
 - afiliados
 - curso online
