@@ -22,7 +22,7 @@ tags:
 - produtividade
 - tempo
 - trabalho
-youtube: https://www.youtube.com/watch?v=vnib2S2IwDk
+youtube: https://www.youtube.com/embed/vnib2S2IwDk
 disqus: false
 hugo_image: ''
 
