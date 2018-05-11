@@ -1,7 +1,7 @@
 +++
 author = "André Lucas"
 categories = ["Lifestyle", "Reflexões", "Games"]
-date = "2018-02-26T12:31:44+00:00"
+date = "2018-02-26T12:31:44Z"
 disqus = false
 hugo_image = "images/uploads/2017/09/16/Gueime-1.jpg"
 tags = ["Gueime", "games", "video games", "startup", "jogos digitais"]
@@ -77,13 +77,13 @@ Acabei deixando o site no ar por esses últimos anos como portfólio e quase que
 
 ## Aprendizados
 
-Quero enfatizar bastante **APRENDIZADOS **aqui. No final das contas tudo é um processo e [não há arrependimentos, apenas aprendizados](https://andrelug.com/como-lidar-com-o-arrependimento/). Tudo que vou listar eu carrego comigo hoje e espero que ajude você também.
+Quero enfatizar bastante \*\*APRENDIZADOS \*\*aqui. No final das contas tudo é um processo e [não há arrependimentos, apenas aprendizados](https://andrelug.com/como-lidar-com-o-arrependimento/). Tudo que vou listar eu carrego comigo hoje e espero que ajude você também.
 
 Vamos lá:
 
 ### Servidores são importantes
 
-Parece meio óbvio, mas um servidor bom e bem configurado pode determinar o sucesso de seu negócio. O que é mais precioso na vida de uma Startup é o tal do *Momentum*. É quando você está embalado e nada pode parar seu crescimento. Perdemos nosso momentum no Gueime por causa da decisão deu mesmo configurar o servidor.
+Parece meio óbvio, mas um servidor bom e bem configurado pode determinar o sucesso de seu negócio. O que é mais precioso na vida de uma Startup é o tal do _Momentum_. É quando você está embalado e nada pode parar seu crescimento. Perdemos nosso momentum no Gueime por causa da decisão deu mesmo configurar o servidor.
 
 Ao longo da minha carreira presenciei e ouvi histórias similares em diversos segmentos. Minha recomendação aqui é: Ou escolha um serviço que você não precise se preocupar ou contrate alguém que saiba muito bem o que está fazendo com relação aos servidores ou hospedagem do seu site.
 
@@ -99,7 +99,7 @@ Vou ter que ir no clichê aqui e falar o que é dito em todo lugar. A única coi
 
 ### Fazer um site é mais fácil do que parece
 
-Muitas vezes quando me perguntam por que eu virei programador eu digo que foi por necessidade. Porque eu queria ver meus projetos irem pra frente. [E o caminho para se fazer um site hoje nunca foi tão fácil e rápido.](https://www.igluonline.com/nunca-foi-tao-facil-aprender-programacao-quanto-2017/)
+Muitas vezes quando me perguntam por que eu virei programador eu digo que foi por necessidade. Porque eu queria ver meus projetos irem pra frente. [E o caminho para se fazer um site hoje nunca foi tão fácil e rápido.](https://www.igluonline.com/nunca-foi-tao-facil-aprender-programacao-quanto-2018/)
 
 Se em algum momento essa for uma barreira, se aventure no mundo da programação ou mesmo de alguma plataforma robusta com o WordPress e será um ótimo caminho para tirar as ideias do papel.
 
