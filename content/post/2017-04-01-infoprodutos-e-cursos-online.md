@@ -38,7 +38,7 @@ tags:
 ---
 A cada dia novos cursos online e infoprodutos são lançados prometendo sucesso, revoluções e conhecimentos secretos de um determinado assunto. Se você passa um tempo razoável na internet já deve ter identificado como que esses produtos são vendidos.
 
-As vezes são através da famosa sequência de três vídeos concebida pelo <a href="http://jeffwalker.com/" target="_blank">Jeff Walker</a>. Outros preferem os moldes do <a href="http://neilpatel.com.br/" target="_blank">Neil Patel</a> ou <a href="http://www.digitalmarketer.com/" target="_blank">Ryan Deiss</a> com um &#8220;tripwire&#8221;, pedindo para você pagar 1 real para ter acesso a uma porcentagem do conteúdo e depois ter que pagar mais para ver tudo. Alguns até de forma mais direta com um vídeo explicativo que busca apresentar o cursos ou infoprodutos.
+As vezes são através da famosa sequência de três vídeos concebida pelo <a href="http://jeffwalker.com/" target="_blank">Jeff Walker</a>. Outros preferem os moldes do <a href="http://neilpatel.com.br/" target="_blank">Neil Patel</a> ou <a href="http://www.digitalmarketer.com/" target="_blank">Ryan Deiss</a> com um “tripwire”, pedindo para você pagar 1 real para ter acesso a uma porcentagem do conteúdo e depois ter que pagar mais para ver tudo. Alguns até de forma mais direta com um vídeo explicativo que busca apresentar o cursos ou infoprodutos.
 
 No fundo cada estratégia tem seus métodos de cativar o potencial cliente para que os valores do curso façam sentido na transformação que podem gerar. Mas saiba algo: **quanto mais elaborado o processo de venda, mais caro será e não necessariamente terá mais conteúdo ou qualidade**.
 
@@ -52,8 +52,8 @@ Para ajudar a entender os cursos online vou aqui os dividir em dois blocos, dois
 
 ### Blocos
 
-  1. Cursos técnicos
-  2. Cursos metodológicos
+1. Cursos técnicos
+2. Cursos metodológicos
 
 Os cursos técnicos são aqueles que em geral passam um conhecimento de uma habilidade específica, como programação, photoshop, gerenciamento de projetos, entre outros. Já os cursos metodológicos apresentam uma forma de você lidar com seu próprio desenvolvimento.
 
@@ -63,8 +63,8 @@ Algumas vezes os dois tipos se cruzam, misturam ou intercalam. O próprio curso 
 
 ### Tipos
 
-  1. Criados profissionalmente
-  2. Criados amadoramente
+1. Criados profissionalmente
+2. Criados amadoramente
 
 No primeiro caso empresas, instituições de ensino ou mesmo indivíduos criam os conteúdos do curso online com excelente qualidade de produção. São contratados professores, possuem uma equipe técnica e fazem, em geral, um investimento maior para sua divulgação.
 
@@ -74,15 +74,15 @@ A diferença é mais ou menos entre você fazer seu próprio sandwich em casa ou
 
 ### Valores
 
-  1. Cursos Pagos
-  2. Cursos Gratuitos
+1. Cursos Pagos
+2. Cursos Gratuitos
 
 Essa divisão é um um tanto quanto óbvia, mas hoje na internet você vai encontrar uma quantidade enorme de cursos tanto pagos quanto gratuitos. Vale ressaltar que aqui podem haver qualquer tipo de combinação das duas divisões anteriores. Um curso técnico profissional pode ser gratuito e um outro metodológico amador pago.
 
 ### Qualidades
 
-  1. Cursos Bons
-  2. Cursos Ruins
+1. Cursos Bons
+2. Cursos Ruins
 
 A ordem que apresentei as divisões foi proposital pois, independentemente do curso ser pago ou não, profissional ou não e técnico ou não, ele ainda assim pode ser bom ou ruim. Nenhum dos pontos acima são garantias de qualidade, mas sim características para entender melhor como esse mundo funciona online hoje.
 
@@ -94,11 +94,11 @@ Cada linha colorida é um curso diferente. Se for para dar um exemplo, o azul se
 
 ## A vantagens dos cursos online
 
-**&#8220;A internet é cheia de conteúdo em vídeos no Youtube, posts de blog e fóruns. Por que então eu deveria fazer um cursos online? Ainda mais pagar por um já que tudo isso é de graça.&#8221;**
+**“A internet é cheia de conteúdo em vídeos no Youtube, posts de blog e fóruns. Por que então eu deveria fazer um cursos online? Ainda mais pagar por um já que tudo isso é de graça.”**
 
 Essa é uma pergunta que eu sempre me fiz. Hoje pra mim a resposta é muito clara:
 
-Em geral os cursos, sejam eles pagos ou online, te apresentam o atalho ao caminho das pedras. Se você quiser aprender sobre marketing digital pode passar um mês inteiro lendo artigos ou vendo vídeos de pelo menos uns mil &#8220;experts&#8221; diferentes. Agora filtrar tudo que leu e assistiu é um trabalho imenso. Muitas vezes aparecerão ideias conflitantes sobre um assunto, mentiras ou mesmo informações desatualizadas.
+Em geral os cursos, sejam eles pagos ou online, te apresentam o atalho ao caminho das pedras. Se você quiser aprender sobre marketing digital pode passar um mês inteiro lendo artigos ou vendo vídeos de pelo menos uns mil “experts” diferentes. Agora filtrar tudo que leu e assistiu é um trabalho imenso. Muitas vezes aparecerão ideias conflitantes sobre um assunto, mentiras ou mesmo informações desatualizadas.
 
 Ao optar por um curso você está confiando o processo de teste e descoberta do que é realmente conteúdo de qualidade a alguém que, supostamente, passou pelo caminho das pedras.
 
@@ -112,7 +112,7 @@ Hoje eu já não tenho todo o tempo necessário para dedicar nessa interminável
 
 Vamos aqui para a primeira lição a respeito do marketing de cursos online. **Não existe conhecimento secreto**.
 
-Vez ou outra eu vejo anúncios de cursos que prometem a chave para o sucesso. Algo que só o &#8220;guru tal&#8221; consegue te passar porque ele transcendeu essa nossa vida mundana e teve contato com os deuses da web.
+Vez ou outra eu vejo anúncios de cursos que prometem a chave para o sucesso. Algo que só o “guru tal” consegue te passar porque ele transcendeu essa nossa vida mundana e teve contato com os deuses da web.
 
 Tudo mentira.
 
@@ -138,13 +138,13 @@ Preço de criação do celular: R$ 1000,00
 
 Preço de venda da celular: R$ 2000,00
 
-&nbsp;
+ 
 
 Venda de 10 celulares: R$ 20 000,00
 
 Lucro: **R$ 10 000,00**
 
-&nbsp;
+ 
 
 Venda de 100 celulares: R$ 200 000,00
 
@@ -158,13 +158,13 @@ Preço de criação de um infoproduto: R$ 1000,00
 
 Preço de venda do infoproduto: R$ 500,00
 
-&nbsp;
+ 
 
 Venda de 10 cursos: R$ 5000,00
 
 Lucro: **R$ 4000,00**
 
-&nbsp;
+ 
 
 Venda de 100 cursos: R$ 100 000,00
 
@@ -182,11 +182,11 @@ Agora que já expliquei um pouco sobre infoprodutos e cursos online, vou falar s
 
 Existem inúmeras estratégias e muitas vezes elas se misturam para a formação de novas formas de cativar clientes. **Perceba que não estou em momento algum falando em enganação do cliente**. Apesar de que algumas pessoas utilizam esses métodos para enganar usuários online, vou partir do pressuposto que a qualidade dos cursos e produtos online é boa.
 
-O objetivo dessas técnicas é fazer as pessoas abaixarem a guarda. Muitas vezes a expressão &#8220;**quebrar objeções**&#8221; é utilizada para isso. Todos nós temos objeções, preconceitos e dúvidas, então técnicas são utilizadas para nos confortar ao tomar a decisão de adquirir um infoproduto.
+O objetivo dessas técnicas é fazer as pessoas abaixarem a guarda. Muitas vezes a expressão “**quebrar objeções**” é utilizada para isso. Todos nós temos objeções, preconceitos e dúvidas, então técnicas são utilizadas para nos confortar ao tomar a decisão de adquirir um infoproduto.
 
 ### Venda direta
 
-Se você acessar sites como <a href="https://click.linksynergy.com/fs-bin/click?id=ZGcF5BzwZ*g&offerid=323058.3031&type=3&subid=0" target="_blank">Udemy</a>, <a href="https://themeforest.net/?ref=andrelug" target="_blank">Treehouse</a> ou <a href="https://lynda.com" target="_blank">Lynda</a>, verá que existe uma relação muito clara entre o processo de compra e o produto. Você paga um valor já especificado e tem acesso a um conteúdo que muitas vezes também já está especificado. São X aulas com Y e Z conteúdos. Outros sites como <a href="https://www.amazon.com/Audible-Free-Trial-Digital-Membership/dp/B00NB86OYE/?ref_=assoc_tag_ph_1485906643682&_encoding=UTF8&camp=1789&creative=9325&linkCode=pf4&tag=igluonline-20&linkId=023e86e48041f22dc00ad621f05ea110" target="_blank">Audible</a> ou <a href="https://themeforest.net/?ref=andrelug" target="_blank">Themeforest</a> funcionam da mesma maneira. Existe um valor para um infoproduto &#8211; nos casos mencionados audiobooks e templates respectivamente &#8211; que você adquire e essa relação está clara desde o início.
+Se você acessar sites como <a href="https://click.linksynergy.com/fs-bin/click?id=ZGcF5BzwZ\*g&offerid=323058.3031&type=3&subid=0" target="_blank">Udemy</a>, <a href="http://treehouse.7eer.net/c/364685/228915/3944" target="_blank">Treehouse</a> ou <a href="https://lynda.com" target="_blank">Lynda</a>, verá que existe uma relação muito clara entre o processo de compra e o produto. Você paga um valor já especificado e tem acesso a um conteúdo que muitas vezes também já está especificado. São X aulas com Y e Z conteúdos. Outros sites como <a href="https://www.amazon.com/Audible-Free-Trial-Digital-Membership/dp/B00NB86OYE/?ref_=assoc_tag_ph_1485906643682&_encoding=UTF8&camp=1789&creative=9325&linkCode=pf4&tag=igluonline-20&linkId=023e86e48041f22dc00ad621f05ea110" target="_blank">Audible</a> ou <a href="https://themeforest.net/?ref=andrelug" target="_blank">Themeforest</a> funcionam da mesma maneira. Existe um valor para um infoproduto – nos casos mencionados audiobooks e templates respectivamente – que você adquire e essa relação está clara desde o início.
 
 Esse tipo de venda não é muito complexa. Estratégias que possam te fazer comprar nesses casos envolvem a disponibilização de partes do conteúdo gratuitamente, e-mails com promoções ou campanhas de marketing para o descobrimento dessas ofertas.
 
@@ -194,7 +194,7 @@ Esse tipo de venda não é muito complexa. Estratégias que possam te fazer comp
 
 A <a href="http://infoprodutoja.com.br/como-usar-o-famoso-tripwire-em-suas-vendas/" target="_blank">ideia do tripwire</a> é fazer com que você gaste uma pequena quantidade de dinheiro, por exemplo R$ 1,00, na aquisição de um infoproduto ou da versão simplificada um outro curso. A lógica por trás desse método é: **uma vez que você já estabeleceu uma relação de confiança com o produtor do conteúdo ou produto, fica mais fácil fazer uma segunda compra mais cara**.
 
-Antes de chegar para o cliente pedindo R$ 2000,00 por um curso online, você pede para ele comprar por R$ 1,00 um e-book que é super rico e de ótima qualidade. A primeira experiência tratá um sentimento de que você pagou muito menos do que recebeu. Esse sentimento é poderoso pois ao receber a oferta posterior de R$ 2000,00 você pensa que o curso oferecido terá um valor imensamente maior &#8211; da mesma maneria que a barganha inicial.
+Antes de chegar para o cliente pedindo R$ 2000,00 por um curso online, você pede para ele comprar por R$ 1,00 um e-book que é super rico e de ótima qualidade. A primeira experiência tratá um sentimento de que você pagou muito menos do que recebeu. Esse sentimento é poderoso pois ao receber a oferta posterior de R$ 2000,00 você pensa que o curso oferecido terá um valor imensamente maior – da mesma maneria que a barganha inicial.
 
 Naturalmente, quem produz conteúdo e faz a venda através desse método possui muita confiança no produto final. Ele tem que ser um infoproduto de altíssima qualidade para que o cliente não se sinta enganado e peça o dinheiro de volta.
 
@@ -202,9 +202,9 @@ Naturalmente, quem produz conteúdo e faz a venda através desse método possui 
 
 A <a href="http://productlaunchformula.com/" target="_blank">fórmula de lançamento</a> é um dos métodos mais utilizados hoje para a venda de cursos online feitos por indivíduos ou pequenas empresas. A ideia desse método é cativar ao longo de mais ou menos uma semana os potenciais clientes através de vídeos com conteúdos de altíssima relevância ao mesmo tempo que se quebra objeções.
 
-Tradicionalmente são três vídeos de conteúdo e quebra de objeções, um webnário, um vídeo de venda e um bocado de e-mails. Se ainda não fez a referência, começa a observar as diversas &#8220;Semanas do Inglês, Japonês, Empreendedorismo, High Stakes, YouTube, etc&#8221;.
+Tradicionalmente são três vídeos de conteúdo e quebra de objeções, um webnário, um vídeo de venda e um bocado de e-mails. Se ainda não fez a referência, começa a observar as diversas “Semanas do Inglês, Japonês, Empreendedorismo, High Stakes, YouTube, etc”.
 
-Em geral os vídeos de conteúdo são desenvolvidos cuidadosamente para que o público se identifique com algo que queiram mudar em suas vidas. O apelo é bem mais emocional e o tempo inteiro joga-se a responsabilidade pela felicidade das pessoas a elas mesmas. &#8220;Você tem o poder de mudar sua vida&#8221;. &#8220;Você tem a capacidade de abrir seu negócio&#8221;. &#8220;Você é o dono do seu destino&#8221;. &#8220;Olha como eu fiz, você também pode fazer&#8221;.
+Em geral os vídeos de conteúdo são desenvolvidos cuidadosamente para que o público se identifique com algo que queiram mudar em suas vidas. O apelo é bem mais emocional e o tempo inteiro joga-se a responsabilidade pela felicidade das pessoas a elas mesmas. “Você tem o poder de mudar sua vida”. “Você tem a capacidade de abrir seu negócio”. “Você é o dono do seu destino”. “Olha como eu fiz, você também pode fazer”.
 
 O criador do conteúdo normalmente é o exemplo bem sucedido da metodologia e do conhecimento ensinado. A promessa é que quem faz o curso consegue também transformar a sua vida. **Quase todos nós temos alguma coisa em nossas vidas que queremos mudar e é em cima desse desejo que os vídeos e conteúdos são criados**. Possuem o objetivo de empoderar a pessoa para que ela não só consiga mudar a sua vida, mas também gastar o alto valor do curso para agir nessa transformação.
 
@@ -222,17 +222,17 @@ Além das amplas estratégias de venda de infoprodutos, existem também algumas 
 
 Quantas vezes você já entrou em um site e tinha uma mensagem assim:
 
-&#8220;Essa promoção apenas durará 12h&#8221;.
+“Essa promoção apenas durará 12h”.
 
 ou então
 
-&#8220;Apenas mais 15 vagas&#8221;.
+“Apenas mais 15 vagas”.
 
-**A escassez é uma tática de venda utilizada para criar um senso de urgência no potencial cliente**. Isso não só contribui para aquelas &#8220;compras de impulso&#8221; como também ajuda na decisão de pessoas ainda em cima do muro.
+**A escassez é uma tática de venda utilizada para criar um senso de urgência no potencial cliente**. Isso não só contribui para aquelas “compras de impulso” como também ajuda na decisão de pessoas ainda em cima do muro.
 
 Quando estamos online, a velocidade das coisas faz com que seja quase impossível manter um foco. Se você ver uma oferta normal e depois entrar no Facebook, provavelmente esquecerá da oferta e não comprará o produto. Mas se o produto tiver com uma promoção ou disponibilidade que rapidamente pode se acabar, a <a href="https://econsultancy.com/blog/64333-what-is-scarcity-marketing-and-should-you-use-it/" target="_blank">urgência contribuirá para que a ação seja tomada antes do foco mudar</a> para outros lugares.
 
-**Dica para quem compra: **Vários sites que lidam com escassez não são escassos de verdade. É só você abrir uma aba anônima ou mesmo recarregar a página que os contadores de tempo recomeçam.
+\*\*Dica para quem compra: \*\*Vários sites que lidam com escassez não são escassos de verdade. É só você abrir uma aba anônima ou mesmo recarregar a página que os contadores de tempo recomeçam.
 
 **Dica para quem vende:** Não use escassez se não realmente manter sua palavra.
 
@@ -243,11 +243,11 @@ Particularmente eu acho hilária a noção de bônus na maior parte das ofertas 
 O efeito que isso tem é similar ao do tripwire, mencionado no ponto anterior desse artigo. Cria-se uma noção de que você ganha muito mais pelo preço ofertado. Recentemente vi um produto que custava US$2 000,00. Na página de vendas tinha mais de R$ 15 000,00 em bônus. Então a ideia é que os clientes pagarão por uma fração do conteúdo oferecido.
 
 <div id="attachment_705" style="width: 735px" class="wp-caption aligncenter">
-  <a href="https://courses.chalenejohnson.com/p/2017-open?affiliate_token=9GvJoAzIpTKENH0g" target="_blank"><img class="wp-image-705 size-full" src="/images/uploads/2017/04/venda_produtos_digitais.jpg" alt="Marketing Impact Academy" width="725" height="254" srcset="/images/uploads/2017/04/venda_produtos_digitais.jpg 725w, /images/uploads/2017/04/venda_produtos_digitais-300x105.jpg 300w" sizes="(max-width: 725px) 100vw, 725px" /></a>
+<a href="https://courses.chalenejohnson.com/p/2017-open?affiliate_token=9GvJoAzIpTKENH0g" target="_blank"><img class="wp-image-705 size-full" src="/images/uploads/2017/04/venda_produtos_digitais.jpg" alt="Marketing Impact Academy" width="725" height="254" srcset="/images/uploads/2017/04/venda_produtos_digitais.jpg 725w, /images/uploads/2017/04/venda_produtos_digitais-300x105.jpg 300w" sizes="(max-width: 725px) 100vw, 725px" /></a>
 
-  <p class="wp-caption-text">
-    Marketing Impact Academy
-  </p>
+<p class="wp-caption-text">
+Marketing Impact Academy
+</p>
 </div>
 
 Essa tática é bem interessante, mas se olhar atentamente os bônus muitas vezes são cursos antigos, webnários que um dia foram públicos ou até mesmo pedaços de conteúdo que deveriam fazer parte da oferta principal. Ou seja, bônus ruins. Além disso pode-se precificar de qualquer jeito um bônus. Pode-se colocar a gravação de uma entrevista na TV por R$ 5 000,00 e é isso aí.
@@ -299,14 +299,14 @@ Se você está pensando em produzir um infoproduto, essa tática é boa mas some
 Grande parte dos vídeos no processo da fórmula de lançamento contém depoimentos de pessoas que ou já fizeram o curso ou foram impactadas pelo criador do curso e sua metodologia. Depoimentos em vídeo ou mesmo texto são uma evolução da tradicional avaliação com 5 estrelinhas. Elas servem para passar mais confiança para quem está querendo adquirir o produto.
 
 <div id="attachment_706" style="width: 847px" class="wp-caption aligncenter">
-  <img class="wp-image-706" src="/images/uploads/2017/04/depoimentos_cursos_online.jpg" alt="Fórmula de Lançamento - Érico Rocha" width="837" height="319" srcset="/images/uploads/2017/04/depoimentos_cursos_online.jpg 1139w, /images/uploads/2017/04/depoimentos_cursos_online-300x114.jpg 300w, /images/uploads/2017/04/depoimentos_cursos_online-768x293.jpg 768w, /images/uploads/2017/04/depoimentos_cursos_online-1024x390.jpg 1024w" sizes="(max-width: 837px) 100vw, 837px" />
+<img class="wp-image-706" src="/images/uploads/2017/04/depoimentos_cursos_online.jpg" alt="Fórmula de Lançamento - Érico Rocha" width="837" height="319" srcset="/images/uploads/2017/04/depoimentos_cursos_online.jpg 1139w, /images/uploads/2017/04/depoimentos_cursos_online-300x114.jpg 300w, /images/uploads/2017/04/depoimentos_cursos_online-768x293.jpg 768w, /images/uploads/2017/04/depoimentos_cursos_online-1024x390.jpg 1024w" sizes="(max-width: 837px) 100vw, 837px" />
 
-  <p class="wp-caption-text">
-    Fórmula de Lançamento &#8211; Érico Rocha
-  </p>
+<p class="wp-caption-text">
+Fórmula de Lançamento – Érico Rocha
+</p>
 </div>
 
-Independentemente de como é o produto ou qual é a estratégia usada, depoimentos e a chamada &#8220;prova social&#8221; são recursos que são amplamente utilizados e realmente muito bons.
+Independentemente de como é o produto ou qual é a estratégia usada, depoimentos e a chamada “prova social” são recursos que são amplamente utilizados e realmente muito bons.
 
 ### Números
 
@@ -315,11 +315,11 @@ A página de vendas de muitos cursos é repleta de números para impressionar qu
 Da mesma forma que a prova social, muitos usuários não querem comprar algo ou fazer parte de uma turma de alunos sem que haja mais pessoas para dar segurança. Ter números assim faz com que usuários se sintam mais tranquilos ao se comprometer com a compra por não estarem sozinhos.
 
 <div id="attachment_707" style="width: 697px" class="wp-caption aligncenter">
-  <a href="http://www.hsacademy.com.br/hsweek/action/" target="_blank"><img class="wp-image-707" src="/images/uploads/2017/04/Screenshot_3.jpg" alt="High Stakes Academy" width="687" height="226" srcset="/images/uploads/2017/04/Screenshot_3.jpg 797w, /images/uploads/2017/04/Screenshot_3-300x99.jpg 300w, /images/uploads/2017/04/Screenshot_3-768x252.jpg 768w" sizes="(max-width: 687px) 100vw, 687px" /></a>
+<a href="http://www.hsacademy.com.br/hsweek/action/" target="_blank"><img class="wp-image-707" src="/images/uploads/2017/04/Screenshot_3.jpg" alt="High Stakes Academy" width="687" height="226" srcset="/images/uploads/2017/04/Screenshot_3.jpg 797w, /images/uploads/2017/04/Screenshot_3-300x99.jpg 300w, /images/uploads/2017/04/Screenshot_3-768x252.jpg 768w" sizes="(max-width: 687px) 100vw, 687px" /></a>
 
-  <p class="wp-caption-text">
-    High Stakes Academy
-  </p>
+<p class="wp-caption-text">
+High Stakes Academy
+</p>
 </div>
 
 Um jeito muito bacana de utilizar isso é colocar comentários do Facebook na página de vendas. Como é difícil de enganar nesse formato, realmente os novos potenciais clientes ficam mais tranquilos em prestar atenção e considerar a compra.
@@ -334,7 +334,7 @@ Esse método já existe muito antes da internet, mas com o poder dos Cookies nos
 
 Empresas como a <a href="https://www.hotmart.com.br/" target="_blank">Hotmart</a> trabalham com infoprodutos e nesse gerenciamento de afiliados. Se alguém tem uma audiência ou pessoas que a seguem, potencialmente pode recomendar um determinado produto e ganhar em cima da recomendação.
 
-Acho que não há problema em dizer que grande parte dos infoprodutos hoje podem ter afiliados. Da compra de <a href="http://amzn.to/2mZxUJr" target="_blank">e-books na Amazon</a> e cursos online na <a href="https://click.linksynergy.com/fs-bin/click?id=ZGcF5BzwZ*g&offerid=323058.3031&type=3&subid=0" target="_blank">Udemy</a> a templates no <a href="https://themeforest.net/?ref=andrelug" target="_blank">Themeforest</a>. Inclusive se você clicar nesses links acima verá que são todos de afiliados. No caso eu sou o recomendador e receberei uma porcentagem do valor da compra de alguém que utilizar meus links.
+Acho que não há problema em dizer que grande parte dos infoprodutos hoje podem ter afiliados. Da compra de <a href="http://amzn.to/2mZxUJr" target="_blank">e-books na Amazon</a> e cursos online na <a href="https://click.linksynergy.com/fs-bin/click?id=ZGcF5BzwZ\*g&offerid=323058.3031&type=3&subid=0" target="_blank">Udemy</a> a templates no <a href="https://themeforest.net/?ref=andrelug" target="_blank">Themeforest</a>. Inclusive se você clicar nesses links acima verá que são todos de afiliados. No caso eu sou o recomendador e receberei uma porcentagem do valor da compra de alguém que utilizar meus links.
 
 Para o produtor de conteúdo, o poder da afiliação está no ganho sem esforço de venda. Basicamente é uma terceirização do marketing em troca de uma porcentagem do lucro.
 
@@ -346,16 +346,16 @@ Passei por vários aspectos de como produtores de conteúdo fazem para vender se
 
 Quando digo que não vale a pena ser comprado é porque claramente a estrutura montada foi feita para enganar o potencial cliente. Alguns indicadores da enganação são:
 
-  * Produtos ou metodologias **milagrosos**
-  * Conhecimentos secretos
-  * Bônus falsos
-  * Ausência de presença pública em redes sociais
+* Produtos ou metodologias **milagrosos**
+* Conhecimentos secretos
+* Bônus falsos
+* Ausência de presença pública em redes sociais
 
 ### 2- Conhecimento do que está acontecendo
 
 Algo que acredito muito é que se um produto é bom ele tem que me convencer pela razão. Parte da estrutura de marketing é montada para que o usuário fique deslumbrado, emocionado, ansioso ou com senso de urgência. Não tem problema nenhum nisso. Eu mesmo fico super empolgado até hoje com alguns infoprodutos. O que não pode é uma tomada de decisão com base apenas nessa emoção forte.
 
-**O sentimento é muito similar àqueles encontros de empresas de marketing multinível**. Você é &#8216;raptado&#8217; para ir numa reunião. Chega lá e é deslumbrado com histórias de sucesso, música e emoção. Apresentam uma oferta para você e já querem que você tome a decisão ali na hora pois quanto mais espera pior fica a oportunidade. Pessoas, especialmente com baixa auto estima ou problemas na vida vão ceder à oferta mesmo que não possam arcar com ela.
+**O sentimento é muito similar àqueles encontros de empresas de marketing multinível**. Você é ‘raptado’ para ir numa reunião. Chega lá e é deslumbrado com histórias de sucesso, música e emoção. Apresentam uma oferta para você e já querem que você tome a decisão ali na hora pois quanto mais espera pior fica a oportunidade. Pessoas, especialmente com baixa auto estima ou problemas na vida vão ceder à oferta mesmo que não possam arcar com ela.
 
 Eu não gosto disso. Ainda mais que a maior parte de infoprodutos que se dão o trabalho de armar uma estratégia grande cobram valores até na casa de R$ 2000,00 para seus cursos. Para muitas pessoas não pode ser uma decisão baseada somente em emoção e urgência.
 
@@ -375,11 +375,11 @@ Eu sugiro buscar por produtores que tenham já blogs, canais no YouTube e/ou red
 
 Além de tudo mencionado para produtos técnicos, **é muito importante ter sido emocionalmente cativado mesmo sabendo das estratégias usadas**. Digo isso porque o processo de transformar a vida através das metodologias pregadas em muitos desses cursos envolve a completa dedicação ao ensinamento proposto.
 
-Eu já fiz diversos cursos desses e digo que grande parte dos conteúdos não são realmente inovadores. Mas esse não é o ponto mesmo. Não há segredo em filosofias de viver a vida mais plenamente ou buscar a &#8220;arte&#8221;, &#8220;elemento&#8221;, &#8220;propósito&#8221;, etc. Os hacks, dicas, técnicas e estratégias são muito parecidos entre todos esses cursos, mas a emoção e a dedicação ao produtor de conteúdo e à sua comunidade que realmente fará a transformação ocorrer em você.
+Eu já fiz diversos cursos desses e digo que grande parte dos conteúdos não são realmente inovadores. Mas esse não é o ponto mesmo. Não há segredo em filosofias de viver a vida mais plenamente ou buscar a “arte”, “elemento”, “propósito”, etc. Os hacks, dicas, técnicas e estratégias são muito parecidos entre todos esses cursos, mas a emoção e a dedicação ao produtor de conteúdo e à sua comunidade que realmente fará a transformação ocorrer em você.
 
-Cursos assim são muito caros, mas o valor está nessa capacidade de colocar as pessoas em um estado emocional de empolgação para construir algo com propósito e dedicação. Em geral a maior parte das pessoas estão patinando (&#8216;drifting&#8217;) na vida. Então cursos que visam transformar a vida por meio de uma nova habilidade, empreendedorismo ou auto ajuda precisam de uma certa dedicação plena ao aprendizado.
+Cursos assim são muito caros, mas o valor está nessa capacidade de colocar as pessoas em um estado emocional de empolgação para construir algo com propósito e dedicação. Em geral a maior parte das pessoas estão patinando (‘drifting’) na vida. Então cursos que visam transformar a vida por meio de uma nova habilidade, empreendedorismo ou auto ajuda precisam de uma certa dedicação plena ao aprendizado.
 
-Se o produtor de conteúdo, mentor ou guro que está dando o curso não for uma pessoa que você legitime e considere sensacional, provavelmente não conseguirá tirar bom proveito e melhorar sua vida. **Existem várias pessoas sensacionais que realmente estão ajudando milhares de pessoas com seus ensinamentos**. Mas ao mesmo tempo tem uns que só pelo &#8216;jeitão&#8217; percebemos o oportunismo.
+Se o produtor de conteúdo, mentor ou guro que está dando o curso não for uma pessoa que você legitime e considere sensacional, provavelmente não conseguirá tirar bom proveito e melhorar sua vida. **Existem várias pessoas sensacionais que realmente estão ajudando milhares de pessoas com seus ensinamentos**. Mas ao mesmo tempo tem uns que só pelo ‘jeitão’ percebemos o oportunismo.
 
 Infelizmente não tem como dizer objetivamente como selecionar qual é bom. Mas ficar com o olho aberto para os indícios de pilantragem que coloquei nesse artigo pode ajudar.
 
@@ -395,6 +395,6 @@ Espero que esse artigo possa ter aberto sua cabeça para algumas nuâncias envol
 
 Se você gostou desse artigo considere compartilhá-lo com seus amigos para que cada vez mais pessoas tomem melhores decisões na compra de um infoproduto ou curso online.
 
-&nbsp;
+ 
 
 Divirta-se!
