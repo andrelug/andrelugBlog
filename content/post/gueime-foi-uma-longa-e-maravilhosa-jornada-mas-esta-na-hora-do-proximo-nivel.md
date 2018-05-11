@@ -99,7 +99,7 @@ Vou ter que ir no clichê aqui e falar o que é dito em todo lugar. A única coi
 
 ### Fazer um site é mais fácil do que parece
 
-Muitas vezes quando me perguntam por que eu virei programador eu digo que foi por necessidade. Porque eu queria ver meus projetos irem pra frente. [E o caminho para se fazer um site hoje nunca foi tão fácil e rápido.](https://www.igluonline.com/nunca-foi-tao-facil-aprender-programacao-quanto-2018/)
+Muitas vezes quando me perguntam por que eu virei programador eu digo que foi por necessidade. Porque eu queria ver meus projetos irem pra frente. [E o caminho para se fazer um site hoje nunca foi tão fácil e rápido.](https://www.igluonline.com/nunca-foi-tao-facil-aprender-programacao-quanto-2017/)
 
 Se em algum momento essa for uma barreira, se aventure no mundo da programação ou mesmo de alguma plataforma robusta com o WordPress e será um ótimo caminho para tirar as ideias do papel.
 
