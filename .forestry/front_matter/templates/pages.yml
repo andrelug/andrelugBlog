@@ -1,8 +1,8 @@
 ---
 pages:
+- pages/minha-lista-impossivel.md
 - pages/contato.md
 - pages/obrigado-por-se-cadastrar.md
-- pages/minha-lista-impossivel.md
 - pages/lista-de-leitura.md
 - pages/sobre.md
 hide_body: false
