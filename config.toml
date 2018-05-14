@@ -5,6 +5,7 @@ theme = "iglu"
 title = "André Lug - Digital nômade, lifestyle e trabalho freelancer"
 enableRobotsTXT = true
 defaultContentLanguage = "pt"
+rssLimit = 100
 [blackfriday]
 hrefTargetBlank = true
 [params]
