@@ -269,23 +269,6 @@ $(this).attr('href') + '?ref=andrelug'); } else if ( $(this).attr('href') && ($(
 $(this).attr('href') + '&ref=andrelug'); } }); });
 
 	</script>
- {{ if .Param "pageStyle"}}
-<script>
-	$( document ).ready(function() {
-			$.getJSON( "https://remoteok.io/api", function( data ) {
-			var items = [];
-			$.each( data, function( key, val ) {
-					items.push( "<li id='" + key + "'>" + val + "</li>" );
-			});
-			
-			$( "<ul/>", {
-					"class": "my-new-list",
-					html: items.join( "" )
-			}).appendTo( "#jobs" );
-			});
-	});
-</script>
- {{ end }}
 
 </body>
 </html>
