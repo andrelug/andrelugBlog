@@ -1,6 +1,6 @@
 ---
 author: André Lucas
-date: 2017-04-17 03:29:35 +0000
+date: 2017-04-17 03:29:35 -03:00
 hugo_image: images/uploads/2017/09/17/pexels-photo-459265.jpeg
 tags:
 - lista de leitura

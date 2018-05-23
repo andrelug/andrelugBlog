@@ -1,6 +1,6 @@
 ---
 author: André Lucas
-date: 2018-05-11 22:38:38 +0000
+date: 2018-05-11 22:38:38 -03:00
 hugo_image: images/uploads/2017/09/17/pexels-photo-221210.jpeg
 tags:
 - Lista impossível
