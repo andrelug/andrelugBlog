@@ -1,7 +1,7 @@
 +++
 author = "André Lucas"
 categories = ["Freelancer"]
-date = "2018-03-05T03:00:01+00:00"
+date = "2018-03-05T03:00:01-03:00"
 disqus = true
 hugo_image = "images/uploads/2018/03/05/pexels-photo-268092.jpeg"
 tags = ["Meditação", "Estresse", "Freelancer"]

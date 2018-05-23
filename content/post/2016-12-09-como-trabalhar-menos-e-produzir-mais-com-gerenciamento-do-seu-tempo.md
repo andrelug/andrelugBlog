@@ -1,7 +1,7 @@
 ---
 title: Como trabalhar menos e produzir mais com gerenciamento do seu tempo
 author: André Lucas
-date: 2018-03-16 12:30:44 +0000
+date: 2018-03-16 12:30:44 -03:00
 url: "/como-trabalhar-menos-e-produzir-mais-com-gerenciamento-do-seu-tempo/"
 featured_image: uploads/2016/12/pexels-photo-53918
 featured_image_extension: jpeg

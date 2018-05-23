@@ -1,7 +1,7 @@
 +++
 author = "André Lucas"
 categories = ["Freelancer"]
-date = "2018-03-13T12:32:44+00:00"
+date = "2018-03-13T12:32:44-03:00"
 disqus = false
 hugo_image = "images/uploads/2018/01/24/maior-dificuldade-como-freelancer.jpg"
 tags = ["Freelancer"]

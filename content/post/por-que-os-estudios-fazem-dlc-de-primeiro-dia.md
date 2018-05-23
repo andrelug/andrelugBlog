@@ -1,7 +1,7 @@
 +++
 author = "André Lucas"
 categories = ["Lifestyle", "Games"]
-date = "2018-02-07T11:34:54+00:00"
+date = "2018-02-07T11:34:54-03:00"
 disqus = false
 draft = true
 hugo_image = "images/uploads/2017/09/22/andrelug2013-04-08_00002-790x444.jpg"

@@ -1,7 +1,7 @@
 +++
 author = "André Lucas"
 categories = ["Lifestyle", "Minimalismo"]
-date = "2018-03-07T19:46:24+00:00"
+date = "2018-03-07T19:46:24-03:00"
 disqus = true
 hugo_image = "images/uploads/2018/03/08/minimalismo_desafios_beneficios.jpg"
 tags = ["minimalista", "nômade digital"]

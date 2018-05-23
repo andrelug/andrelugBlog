@@ -1,7 +1,7 @@
 ---
 title: Organizar as finanças para Freelancers ficou mais fácil com Harpoon
 author: André Lucas
-date: 2018-03-10 12:33:56 +0000
+date: 2018-03-10 12:33:56 -03:00
 url: "/organizar-as-financas-para-freelancers-ficou-mais-facil-com-harpoon/"
 featured_image: uploads/2016/11/feature-showcase-schedule
 featured_image_extension: png

@@ -1,7 +1,7 @@
 +++
 author = "André Lucas"
 categories = ["Lifestyle", "Nômade Digital"]
-date = "2018-03-20T12:29:42+00:00"
+date = "2018-03-20T12:29:42-03:00"
 disqus = true
 hugo_image = "images/uploads/2018/03/01/viagem_chicago_nomade_digital.jpeg"
 tags = ["Mini-vida", "nômade digital", "Nômades digitais", "Chicago", "Trabalho remoto"]

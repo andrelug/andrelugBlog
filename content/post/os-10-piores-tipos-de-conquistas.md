@@ -1,7 +1,7 @@
 +++
 author = "André Lucas"
 categories = ["Lifestyle", "Games"]
-date = "2018-02-22T12:34:09+00:00"
+date = "2018-02-22T12:34:09-03:00"
 draft = true
 hugo_image = "images/uploads/2017/09/22/andrelugtop-10-achievents-ruins.jpg"
 tags = ["Top 10", "achievements", "conquistas"]

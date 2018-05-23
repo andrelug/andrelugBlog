@@ -1,7 +1,7 @@
 ---
 title: 8 Dicas para ser mais produtivo
 author: André Lucas
-date: 2018-03-23 12:27:34 +0000
+date: 2018-03-23 12:27:34 -03:00
 url: "/8-dicas-para-ser-mais-produtivo/"
 featured_image: uploads/2016/11/people-coffee-tea-meeting
 featured_image_extension: jpg

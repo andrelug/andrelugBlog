@@ -1,7 +1,7 @@
 ---
 title: 12 dicas de como usar o Gmail e ser mais produtivo
 author: André Lucas
-date: 2018-03-26 12:26:27 +0000
+date: 2018-03-26 12:26:27 -03:00
 url: "/12-dicas-de-como-usar-o-gmail-e-ser-mais-produtivo/"
 featured_image: uploads/2017/02/iglu_gmail_produtivo-1
 featured_image_extension: jpg

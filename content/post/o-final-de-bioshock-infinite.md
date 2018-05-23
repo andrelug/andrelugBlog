@@ -1,7 +1,7 @@
 +++
 author = "André Lucas"
 categories = ["Lifestyle", "Games"]
-date = "2018-02-12T11:33:07+00:00"
+date = "2018-02-12T11:33:07-03:00"
 disqus = false
 draft = true
 hugo_image = "images/uploads/2017/09/19/andrelugBioShock-Infinite-End.jpg"

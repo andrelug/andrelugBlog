@@ -1,7 +1,7 @@
 +++
 author = "André Lucas"
 categories = ["Lifestyle", "Reflexões", "Games"]
-date = "2018-02-26T12:31:44Z"
+date = "2018-02-26T12:31:44-03:00"
 disqus = false
 hugo_image = "images/uploads/2017/09/16/Gueime-1.jpg"
 tags = ["Gueime", "games", "video games", "startup", "jogos digitais"]

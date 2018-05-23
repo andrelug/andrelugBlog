@@ -1,7 +1,7 @@
 +++
 author = "André Lucas"
 categories = ["Lifestyle", "Nômade Digital"]
-date = "2018-03-07T12:35:15+00:00"
+date = "2018-03-07T12:35:15-03:00"
 disqus = false
 hugo_image = "images/uploads/2017/09/17/nomades_digitais_mini-vidas.jpg"
 tags = ["Mini vidass", "Nômades digitais", "Nômade digital", "Trabalho remoto", "Freelancer"]

@@ -1,7 +1,7 @@
 ---
 title: Como lidar com o arrependimento
 author: André Lucas
-date: 2018-03-19 12:29:56 +0000
+date: 2018-03-19 12:29:56 -03:00
 url: "/como-lidar-com-o-arrependimento/"
 featured_image: uploads/2017/04/vlog40
 featured_image_extension: jpg

@@ -1,7 +1,7 @@
 ---
 title: Como estruturar seu negócio como freelancer?
 author: André Lucas
-date: 2018-03-20 12:29:23 +0000
+date: 2018-03-20 12:29:23 -03:00
 url: "/como-estruturar-seu-negocio-como-freelancer/"
 featured_image: uploads/2016/12/coffee-cup-mug-apple
 featured_image_extension: jpg

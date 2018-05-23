@@ -1,7 +1,7 @@
 ---
 title: Como sobreviver ao stress da correria moderna
 author: André Lucas
-date: 2018-03-17 12:30:27 +0000
+date: 2018-03-17 12:30:27 -03:00
 url: "/como-sobreviver-ao-stress-da-correria-moderna/"
 featured_image: uploads/2016/12/pexels-photo-60778
 featured_image_extension: jpg

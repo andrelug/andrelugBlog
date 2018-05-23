@@ -1,7 +1,7 @@
 +++
 author = "André Lucas"
 categories = ["Freelancer", "Marketing"]
-date = "2018-03-22T12:28:15Z"
+date = "2018-03-22T12:28:15-03:00"
 disqus = false
 hugo_image = "images/uploads/2017/09/15/gamification.jpg"
 tags = ["gamificação", "o que é gamification", "gamification", "o que é gamificação", "games"]

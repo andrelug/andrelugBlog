@@ -1,7 +1,7 @@
 ---
 title: Você não é a sua produtividade. Diminua a velocidade
 author: André Lucas
-date: 2018-03-05 12:35:43 +0000
+date: 2018-03-05 12:35:43 -03:00
 url: "/voce-nao-e-sua-produtividade-diminua-velocidade/"
 featured_image: uploads/2017/03/pexels-photo-127627
 featured_image_extension: jpeg

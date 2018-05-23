@@ -2,7 +2,7 @@
 title: A LEGO lançou uma rede social para crianças que ainda não podem ter Facebook.
   A LEGO Life
 author: André Lucas
-date: 2017-02-08 02:31:31 +0000
+date: 2017-02-08 02:31:31 -03:00
 url: "/lego-lancou-uma-rede-social-para-criancas-que-ainda-nao-podem-ter-facebook-lego-life/"
 featured_image: uploads/2017/02/lego_life
 featured_image_extension: jpg

@@ -2,7 +2,7 @@
 title: Infoprodutos e Cursos Online – Tudo que você precisa saber para comprar ou
   vender
 author: André Lucas
-date: 2018-03-25 12:32:01 +0000
+date: 2018-03-25 12:32:01 -03:00
 url: "/infoprodutos-e-cursos-online/"
 featured_image: uploads/2017/04/produtos_digitais
 featured_image_extension: jpg
