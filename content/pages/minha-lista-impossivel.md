@@ -12,21 +12,9 @@ title: Minha Lista Impossível
 type: page
 
 ---
-Muito mais do que uma simples lista de coisas que eu gostaria de fazer nessa vida, a “Lista Impossível” (Impossible List)
+Muito mais do que uma simples lista de coisas que eu gostaria de fazer nessa vida, a “Lista Impossível” (Impossible List) é um tipo de lista criado pelo Joel Runyon (apesar de que a conhecemos por meio desse outro cara: Thomas Frank). A lista impossível é um desafio contendo todas aquelas coisas que eu já pensei que poderiam ser impossíveis pra mim em algum momento.
 
-é um tipo de lista criado pelo Joel Runyon (apesar de que a conhecemos por meio desse outro cara: Thomas Frank). A lista
-
-impossível é um desafio contendo todas aquelas coisas que eu já pensei que poderiam ser impossíveis pra mim em algum momento.
-
-Como o Joel mesmo fala elas são “aqueles tipo de coisas que você acha que só as pessoas legais na TV tem a chance de fazer”.
-
-Esse tipo de lista aqui tem como objetivo trazer resultados e orientar nossas ações e hábitos. É muito mais do que aquela
-
-lista que você até já esqueceu que existe em um arquivo de texto naquele backup de 2006. Como toda lista de objetivos que
-
-se preze, essa aqui também irá evoluir a partir do momento que eu descobrir que posso fazer ainda mais. Essa então é minha
-
-lista impossível!
+Como o Joel mesmo fala elas são “aqueles tipo de coisas que você acha que só as pessoas legais na TV tem a chance de fazer”. Esse tipo de lista aqui tem como objetivo trazer resultados e orientar nossas ações e hábitos. É muito mais do que aquela lista que você até já esqueceu que existe em um arquivo de texto naquele backup de 2006. Como toda lista de objetivos que se preze, essa aqui também irá evoluir a partir do momento que eu descobrir que posso fazer ainda mais. Essa então é minha lista impossível!
 
   
 <br><b>Última atualização: 12 de Maio de 2018</b><br>  
