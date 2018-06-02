@@ -5,8 +5,8 @@ date = "2018-03-26T12:29:01-03:00"
 disqus = true
 hugo_image = "images/uploads/2018/02/12/conquistas_para_freelancers_achievements.jpg"
 tags = ["Freelancer", "Conquistas", "Achievements", "Gamificação"]
-title = "As consquistas para uma vida de freelancer gamificada"
-url = "/as-consquistas-para-uma-vida-de-freelancer-gamificada/"
+title = "As conquistas para uma vida de freelancer gamificada"
+url = "/as-conquistas-para-uma-vida-de-freelancer-gamificada/"
 youtube = ""
 
 +++
