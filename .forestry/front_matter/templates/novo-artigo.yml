@@ -51,3 +51,5 @@ fields:
   type: file
   label: Hugo Image
   description: Imagem destacada
+pages:
+- post/como-identificar-os-clientes-perfeitos.md
