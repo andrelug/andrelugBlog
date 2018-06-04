@@ -51,3 +51,5 @@ fields:
   type: file
   label: Hugo Image
   description: Imagem destacada
+pages:
+- post/como-identificar-os-clientes-perfeitos-e-terminar-a-relacao-com-aqueles-que-te-fazem-mal.md
