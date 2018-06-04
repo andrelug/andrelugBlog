@@ -141,7 +141,7 @@ Já fui durante muito tempo da opinião de não entrar muito em conflitos e segu
 
 Se por um lado queremos apenas "nos ver livre" de algo, por outro acredito que é nossa responsabilidade ajudar as outras pessoas. A sinceridade ajuda o cliente a repensar, os profissionais que terão contato com esse cliente posteriormente a terem uma versão esperançosamente melhor desse cliente para trabalhar e, por fim, nos coloca em um estado de integridade muito grande.
 
-Dizer a verdade não significa chegar para um cliente e falar:
+Dizer a verdade não significa [chegar para um cliente e falar](https://www.entrepreneur.com/article/229982):
 
 "Ou, não dá para ficar correndo atrás de pagamento seu todo mês e ter que te aguentar aí me tratando mal. Não quero mais trabalhar com você não."
 
