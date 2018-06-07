@@ -149,7 +149,7 @@ mas sim algo mais no estilo:
 
 "Olha, nossa parceria já nos trouxe muitos resultados bacanas mas os estamos com atrasos constantes de pagamento enquanto entregamos no prazo. Não consigo operar nesse modelo financeiro. Além do mais e o jeito que me trata não é como gosto de ter relacionamento profissionais. Por isso gostaria de finalizar nossa parceria."
 
-Uma coisa que eu acho super importante em qualquer relação profissional é a inexistência de uma hierarquia. Frequentemente clientes tendem a achar que de alguma forma estão acima, mas a realidade é que **é uma parceria entre dois profissionais, duas empresas**.
+Uma coisa que eu acho super importante em qualquer relação profissional é a inexistência de uma hierarquia. Frequentemente clientes tendem a achar que de alguma forma estão acima, mas a realidade é que **é uma** [**parceria entre dois profissionais**](http://www.vivendodefreela.com.br/clientenaotetratecomoempregado/)**, duas empresas**.
 
 Quer ajuda com um caso específico? Manda um oi em [nosso grupo no Discord](https://discord.gg/ynBgU2q). Todos os dias tem alguém do time Iglu ou outros profissionais que pode te ajudar :)
 
