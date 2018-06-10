@@ -5,8 +5,8 @@ date = "2018-06-10T00:25:42-03:00"
 disqus = true
 hugo_image = "images/uploads/2018/06/10/3-tipos-de-descontos-freelancers-profissionais-autonomos.jpg"
 tags = ["Desconto", "Vendas", "Marketing"]
-title = "3 Tipos de descontos que vão que todo profissional autônomo deveria usar"
-url = "/voce-somente-deveria-ofertar-esses-3-tipos-de-desconto/"
+title = "3 Tipos de descontos que todo profissional autônomo deveria testar"
+url = "/3-tipos-de-descontos-que-todo-profissional-autonomo-deveria-testar/"
 youtube = ""
 
 +++
