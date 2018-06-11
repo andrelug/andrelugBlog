@@ -52,6 +52,7 @@ fields:
   label: Hugo Image
   description: Imagem destacada
 pages:
+- post/como-comecar-sua-carreira-de-sucesso-como-freelancer.md
 - post/voce-so-deveria-ofertar-esses-3-tipos-de-desconto.md
 - post/5-dicas-faceis-para-tirar-dias-de-folga-como-freelancer.md
 - post/como-identificar-os-clientes-perfeitos-e-terminar-a-relacao-com-aqueles-que-te-fazem-mal.md
