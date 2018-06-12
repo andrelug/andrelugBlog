@@ -5,7 +5,7 @@ tags:
 - Freelancers
 - Profissionais autônomos
 - Empreendedores individuais
-title: Profissionais sensacionais que confiamos
+title: Profissionais sensacionais que confio
 type: page
 hugo_image: images/uploads/2017/09/17/pexels-photo-251225.jpeg
 pageStyle: full
