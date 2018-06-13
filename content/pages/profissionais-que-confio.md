@@ -219,10 +219,6 @@ Além de serem excelentes, cada um em sua especialidade, eles são pessoas muito
           </a>
           <h4>COPY, CRIAÇÃO DE CONTEÚDO</h4>
           <p>Bacharel em Direito pelo Centro Universitário Una. Experiência no Tribunal de Justiça de Minas Gerais (Feitos Tributários) e no Ministério Público de Minas Gerais (Promotoria Criminal). Redatora há 5 anos com certificação da Hubspot e Rock Content. Amante do simples e prático, pronta para servir e fazer o melhor! Cria conteúdos sobre Direito Tributário, Direito Criminal, Direito Trabalhista, Direito de Família, Estética e Beleza, Comportamento, Culinária e Bebidas.</p>
-          <p>Links que gostaria de compartilhar:</p>
-          <ul>
-            <li><a href="https://vimeo.com/user4565215">Vimeo</a></li>
-          </ul>
           <a href="https://medium.com/@rosycouto" class="btn btn-primary btn-effect" ga-on="click" ga-event-category="Parceiros" ga-event-action="Click" ga-event-label="Rosi Couto" rel="noopener">Conheça meu trabalho</a>
         </div>
     </div>
