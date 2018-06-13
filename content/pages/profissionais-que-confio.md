@@ -150,7 +150,7 @@ Além de serem excelentes, cada um em sua especialidade, eles são pessoas muito
     </div>
   </div>
 
-  <div class="grid-item ator">
+  <div class="grid-item cro">
     <div class="tool">
         <a href="https://www.linkedin.com/in/ralph-lemos-a070b6107/" class="toolImg" target="_blank" rel="noopener" ga-on="click" ga-event-category="Parceiros" ga-event-action="Click" ga-event-label="Ralph Lemos">
           <img class="size-full wp-image-756 aligncenter" src="images/parceiros/ralph.jpg" alt="Ralph Lemos">
@@ -167,7 +167,7 @@ Além de serem excelentes, cada um em sua especialidade, eles são pessoas muito
     </div>
   </div>
 
-  <div class="grid-item ator">
+  <div class="grid-item videomaker">
     <div class="tool">
         <a href="http://theusgarbin.com" class="toolImg" target="_blank" rel="noopener" ga-on="click" ga-event-category="Parceiros" ga-event-action="Click" ga-event-label="Theus Garbin">
           <img class="size-full wp-image-756 aligncenter" src="images/parceiros/theus.jpg" alt="Theus Garbin">
@@ -188,7 +188,7 @@ Além de serem excelentes, cada um em sua especialidade, eles são pessoas muito
     </div>
   </div>
 
-  <div class="grid-item ator">
+  <div class="grid-item videomaker">
     <div class="tool">
         <a href="http://www.videomaking.com.br" class="toolImg" target="_blank" rel="noopener" ga-on="click" ga-event-category="Parceiros" ga-event-action="Click" ga-event-label="Carolina Monteiro">
           <img class="size-full wp-image-756 aligncenter" src="images/parceiros/carol.jpg" alt="Carolina Monteiro">
@@ -204,6 +204,26 @@ Além de serem excelentes, cada um em sua especialidade, eles são pessoas muito
             <li><a href="https://vimeo.com/user4565215">Vimeo</a></li>
           </ul>
           <a href="http://www.videomaking.com.br" class="btn btn-primary btn-effect" ga-on="click" ga-event-category="Parceiros" ga-event-action="Click" ga-event-label="Carolina Monteiro" rel="noopener">Conheça meu trabalho</a>
+        </div>
+    </div>
+  </div>
+
+  <div class="grid-item copy">
+    <div class="tool">
+        <a href="https://medium.com/@rosycouto" class="toolImg" target="_blank" rel="noopener" ga-on="click" ga-event-category="Parceiros" ga-event-action="Click" ga-event-label="Rosi Couto">
+          <img class="size-full wp-image-756 aligncenter" src="images/parceiros/rosi.jpg" alt="Rosi Couto">
+        </a>
+        <div class="box">
+          <a href="https://medium.com/@rosycouto" target="_blank" rel="noopener" ga-on="click" ga-event-category="Parceiros" ga-event-action="Click" ga-event-label="Rosi Couto">
+            <h3>Rosi Couto</h3>
+          </a>
+          <h4>COPY, CRIAÇÃO DE CONTEÚDO</h4>
+          <p>Bacharel em Direito pelo Centro Universitário Una. Experiência no Tribunal de Justiça de Minas Gerais (Feitos Tributários) e no Ministério Público de Minas Gerais (Promotoria Criminal). Redatora há 5 anos com certificação da Hubspot e Rock Content. Amante do simples e prático, pronta para servir e fazer o melhor! Cria conteúdos sobre Direito Tributário, Direito Criminal, Direito Trabalhista, Direito de Família, Estética e Beleza, Comportamento, Culinária e Bebidas.</p>
+          <p>Links que gostaria de compartilhar:</p>
+          <ul>
+            <li><a href="https://vimeo.com/user4565215">Vimeo</a></li>
+          </ul>
+          <a href="https://medium.com/@rosycouto" class="btn btn-primary btn-effect" ga-on="click" ga-event-category="Parceiros" ga-event-action="Click" ga-event-label="Rosi Couto" rel="noopener">Conheça meu trabalho</a>
         </div>
     </div>
   </div>
