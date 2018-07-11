@@ -1,4 +1,5 @@
 ---
+label: novo-artigo
 hide_body: false
 is_partial: false
 fields:
@@ -52,7 +53,7 @@ fields:
   label: Hugo Image
   description: Imagem destacada
 pages:
-- post/como-comecar-sua-carreira-de-sucesso-como-freelancer.md
-- post/voce-so-deveria-ofertar-esses-3-tipos-de-desconto.md
-- post/5-dicas-faceis-para-tirar-dias-de-folga-como-freelancer.md
-- post/como-identificar-os-clientes-perfeitos-e-terminar-a-relacao-com-aqueles-que-te-fazem-mal.md
+- content/post/5-dicas-faceis-para-tirar-dias-de-folga-como-freelancer.md
+- content/post/voce-so-deveria-ofertar-esses-3-tipos-de-desconto.md
+- content/post/como-comecar-sua-carreira-de-sucesso-como-freelancer.md
+- content/post/como-identificar-os-clientes-perfeitos-e-terminar-a-relacao-com-aqueles-que-te-fazem-mal.md
