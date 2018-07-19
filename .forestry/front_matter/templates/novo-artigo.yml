@@ -53,6 +53,7 @@ fields:
   label: Hugo Image
   description: Imagem destacada
 pages:
+- content/post/network-e-sobre-o-outro-e-nao-sobre-voce.md
 - content/post/5-dicas-faceis-para-tirar-dias-de-folga-como-freelancer.md
 - content/post/voce-so-deveria-ofertar-esses-3-tipos-de-desconto.md
 - content/post/como-comecar-sua-carreira-de-sucesso-como-freelancer.md
