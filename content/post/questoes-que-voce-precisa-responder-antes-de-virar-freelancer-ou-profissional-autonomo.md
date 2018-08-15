@@ -6,7 +6,7 @@ disqus = true
 hugo_image = "images/uploads/2018/08/15/reflexoes-para-quem-quer-virar-freelancer-profissional-autonomo.jpg"
 tags = ["Profissional autônomo"]
 title = "Algumas reflexões que você precisa fazer antes de virar Freelancer ou Profissional Autônomo"
-url = "/questoes-que-voce-precisa-responder-antes-de-virar-freelancer-ou-profissional-autonomo/"
+url = "/algumas-reflexoes-que-voce-precisa-fazer-antes-de-virar-freelancer-ou-profissional-autonomo/"
 youtube = ""
 
 +++
