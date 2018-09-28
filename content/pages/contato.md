@@ -19,24 +19,45 @@ type: page
 <h3>Manda um oi</h3>
 </div><div class=" col-md-8">
 <div role="form" lang="pt-BR" dir="ltr">
+<div id="mauticform_wrapper_contatoandrelugblog" class="mauticform_wrapper mauticform-page-1" data-mautic-form-page="1">
 <div class="screen-reader-response"></div>
-<form method="POST" name="Contato André Lug" id="contactForm">
-  <input type="hidden" name="_next" value="https://www.igluonline.com/obrigado-pelo-contato" />
-  <input type="hidden" name="_subject" value="Contato Andrelug Blog" />
-  <input type="hidden" name="_language" value="pt-BR" />
-  <input type="text" name="_gotcha" style="display:none" />
+<form method="POST" name="Contato André Lug" id="contactForm" action="https://mkt.igluonline.com/form/submit?formId=7" data-mautic-form="contatoandrelugblog">
+  <div class="mauticform-error" id="mauticform_contatoandrelugblog_error"></div>
+  <div class="mauticform-message" id="mauticform_contatoandrelugblog_message"></div>
 <div class="row">
 <div class="col-md-6">
-<div class="form-group"><label class="">Nome <span class="required">*</span><input class=" form-control" name="nome" type="text" value="" aria-invalid="false" aria-required="true" required=""></label></div>
+<div class="form-group"><div id="mauticform_contatoandrelugblog_nome" data-validate="nome" data-validation-type="text" class="mauticform-row mauticform-text mauticform-field-1 mauticform-required">
+                    <label id="mauticform_label_contatoandrelugblog_nome" for="mauticform_input_contatoandrelugblog_nome" class="mauticform-label">Nome</label>
+                    <input id="mauticform_input_contatoandrelugblog_nome" name="mauticform[nome]" value="" class="mauticform-input form-control"
+                        type="text" />
+                    <span class="mauticform-errormsg" style="display: none;">Isso é obrigatório.</span>
+                </div></div>
 </div><div class="col-md-6">
-<div class="form-group"><label class="">E-mail <span class="required">*</span><input class=" form-control" name="email" type="email" value="" aria-invalid="false" aria-required="true" required=""></label></div>
+<div class="form-group"><div id="mauticform_contatoandrelugblog_seu_melhor_email" data-validate="seu_melhor_email"
+                    data-validation-type="email" class="mauticform-row mauticform-email mauticform-field-2 mauticform-required">
+                    <label id="mauticform_label_contatoandrelugblog_seu_melhor_email" for="mauticform_input_contatoandrelugblog_seu_melhor_email"
+                        class="mauticform-label">Seu melhor e-mail</label>
+                    <input id="mauticform_input_contatoandrelugblog_seu_melhor_email" name="mauticform[seu_melhor_email]"
+                        value="" class="mauticform-input form-control" type="email" />
+                    <span class="mauticform-errormsg" style="display: none;">Isso é obrigatório.</span>
+                </div></div>
 </div>
 </div>
-<div class="form-group"><label class="">Mensagem <span class="required">*</span></label><textarea class=" form-control" name="mensagem" rows="5" aria-invalid="false" aria-required="true" required=""></textarea></div>
-<div class="form-group"><div><input class=" btn btn-primary" type="submit" value="Enviar"></div></div><div class=" alert"></div></form>
-<script>
-    var contactform =  document.getElementById('contactForm');
-    contactform.setAttribute('action', '//formspree.io/' + 'andre' + '@' + 'igluonline' + '.' + 'com');
-</script>
-              </div>
+<div class="form-group"><div id="mauticform_contatoandrelugblog_mensagem" data-validate="mensagem" data-validation-type="textarea"
+                    class="mauticform-row mauticform-text mauticform-field-3 mauticform-required">
+                    <label id="mauticform_label_contatoandrelugblog_mensagem" for="mauticform_input_contatoandrelugblog_mensagem"
+                        class="mauticform-label">Mensagem</label>
+                    <textarea id="mauticform_input_contatoandrelugblog_mensagem" name="mauticform[mensagem]" class="mauticform-textarea form-control" rows="5"></textarea>
+                    <span class="mauticform-errormsg" style="display: none;">Isso é obrigatório.</span>
+                </div></div>
+<div class="form-group"><div id="mauticform_contatoandrelugblog_submit" class="mauticform-row mauticform-button-wrapper mauticform-field-4">
+                    <button type="submit" name="mauticform[submit]" id="mauticform_input_contatoandrelugblog_submit" name="mauticform[submit]"
+                        value="" class="mauticform-button btn btn-default btn btn-primary" value="1" style="cursor:pointer">Enviar</button>
+                </div></div><div class=" alert"></div>
+<input type="hidden" name="mauticform[formId]" id="mauticform_contatoandrelugblog_id" value="7" />
+        <input type="hidden" name="mauticform[return]" id="mauticform_contatoandrelugblog_return" value="" />
+        <input type="hidden" name="mauticform[formName]" id="mauticform_contatoandrelugblog_name" value="contatoandrelugblog" />
+</form>
+</div>
+</div>
 </div></div>
