@@ -43,6 +43,13 @@ type: page
                 </div></div>
 </div>
 </div>
+<div id="mauticform_contatoandrelugblog_email2" style="display:none;" class="mauticform-row mauticform-email mauticform-field-4">
+                    <label id="mauticform_label_contatoandrelugblog_email2" for="mauticform_input_contatoandrelugblog_email2"
+                        class="mauticform-label">email2</label>
+                    <input id="mauticform_input_contatoandrelugblog_email2" name="mauticform[email2]" value="" class="mauticform-input"
+                        type="email" />
+                    <span class="mauticform-errormsg" style="display: none;"></span>
+                </div>
 <div class="form-group"><div id="mauticform_contatoandrelugblog_mensagem" data-validate="mensagem" data-validation-type="textarea"
                     class="mauticform-row mauticform-text mauticform-field-3 mauticform-required">
                     <label id="mauticform_label_contatoandrelugblog_mensagem" for="mauticform_input_contatoandrelugblog_mensagem"
