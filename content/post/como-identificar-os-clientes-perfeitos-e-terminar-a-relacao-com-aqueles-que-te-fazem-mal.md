@@ -2,7 +2,7 @@
 author = "André Lucas"
 categories = ["Freelancer"]
 date = "2018-06-03T10:37:38-03:00"
-disqus = true
+disqus = false
 hugo_image = "images/uploads/2018/06/04/clientes-perfeitos.jpg"
 tags = ["Clientes perfeitos", "Clientes"]
 title = "Como identificar os clientes perfeitos e terminar a relação com aqueles que te fazem mal"

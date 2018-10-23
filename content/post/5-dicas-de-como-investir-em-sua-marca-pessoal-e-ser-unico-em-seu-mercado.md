@@ -2,7 +2,7 @@
 author = "Juliana Saldanha"
 categories = ["Freelancer", "Marketing"]
 date = "2018-03-25T12:27:00-03:00"
-disqus = true
+disqus = false
 hugo_image = "images/uploads/2018/02/08/giphy.gif"
 tags = ["Freelancer", "Personal Branding", "Marca pessoal"]
 title = "5 dicas de como investir em sua marca pessoal e ser único em seu mercado"

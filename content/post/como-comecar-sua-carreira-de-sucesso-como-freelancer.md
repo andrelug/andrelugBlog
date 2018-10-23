@@ -2,7 +2,7 @@
 author = "André Lucas"
 categories = ["Freelancer"]
 date = "2018-06-11T14:22:11-03:00"
-disqus = true
+disqus = false
 hugo_image = "images/uploads/2018/06/11/como-comecar-sua-carreira-de-sucesso-como-freelancer.jpg"
 tags = ["Dicas", "Clientes", "Vendas"]
 title = "Como começar sua carreira de sucesso como freelancer"

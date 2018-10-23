@@ -2,7 +2,7 @@
 author = "André Lucas"
 categories = ["Freelancer"]
 date = "2018-06-07T15:35:30-03:00"
-disqus = true
+disqus = false
 hugo_image = "images/uploads/2018/06/07/como-tirar-dias-sem-trabalhar-como-freelancer.jpg"
 tags = ["Dia de folga", "Férias", "Day off"]
 title = "5 Dicas simples para \"faltar ao trabalho\" como freelancer"

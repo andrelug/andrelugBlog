@@ -2,7 +2,7 @@
 author = "André Lucas"
 categories = ["Freelancer", "Marketing"]
 date = "2018-07-19T18:25:30-03:00"
-disqus = true
+disqus = false
 hugo_image = "images/uploads/2018/07/19/como-fazer-networking.jpg"
 tags = ["Networking"]
 title = "2 dicas sensacionais para potencializar a sua rede de contatos / networking"

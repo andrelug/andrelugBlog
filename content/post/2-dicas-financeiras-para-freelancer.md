@@ -2,7 +2,7 @@
 author = "Pri Nunes"
 categories = ["Freelancer", "Financeiro"]
 date = "2018-03-26T12:26:44-03:00"
-disqus = true
+disqus = false
 hugo_image = "images/uploads/2017/12/05/dicas_financeiras_freelancer.jpg"
 tags = ["Financeiro", "Dicas"]
 title = "2 Dicas Financeiras para Freelancers"

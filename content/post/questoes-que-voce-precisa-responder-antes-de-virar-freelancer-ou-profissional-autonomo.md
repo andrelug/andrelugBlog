@@ -2,7 +2,7 @@
 author = "André Lucas"
 categories = ["Freelancer"]
 date = "2018-08-14T13:19:48-03:00"
-disqus = true
+disqus = false
 hugo_image = "images/uploads/2018/08/15/reflexoes-para-quem-quer-virar-freelancer-profissional-autonomo.jpg"
 tags = ["Profissional autônomo"]
 title = "Algumas reflexões que você precisa fazer antes de virar Freelancer ou Profissional Autônomo"

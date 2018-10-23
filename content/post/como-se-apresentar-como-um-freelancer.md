@@ -2,7 +2,7 @@
 author = "André Lucas"
 categories = ["Freelancer", "Marketing"]
 date = "2018-03-18T12:30:12-03:00"
-disqus = true
+disqus = false
 hugo_image = "images/uploads/2018/02/03/pexels-photo-401684.jpeg"
 tags = ["Freelancer", "Autônomo"]
 title = "Como se apresentar como um freelancer"

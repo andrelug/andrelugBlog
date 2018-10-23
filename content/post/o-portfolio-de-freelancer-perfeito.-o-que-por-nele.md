@@ -2,7 +2,7 @@
 author = "André Lucas"
 categories = ["Freelancer", "Marketing"]
 date = "2018-03-12T12:33:31-03:00"
-disqus = true
+disqus = false
 hugo_image = "images/uploads/2018/02/25/pexels-photo-436784.jpeg"
 tags = ["Portfólio", "Estudo de caso", "Blog"]
 title = "O portfólio de freelancer perfeito. O que por nele?"

@@ -2,7 +2,7 @@
 author = "André Lucas"
 categories = ["Freelancer", "Marketing"]
 date = "2018-03-26T12:29:01-03:00"
-disqus = true
+disqus = false
 hugo_image = "images/uploads/2018/02/12/conquistas_para_freelancers_achievements.jpg"
 tags = ["Freelancer", "Conquistas", "Achievements", "Gamificação"]
 title = "As conquistas para uma vida de freelancer gamificada"

@@ -2,7 +2,7 @@
 author = "André Lucas"
 categories = ["Freelancer", "Financeiro"]
 date = "2018-06-10T00:25:42-03:00"
-disqus = true
+disqus = false
 hugo_image = "images/uploads/2018/06/10/3-tipos-de-descontos-freelancers-profissionais-autonomos.jpg"
 tags = ["Desconto", "Vendas", "Marketing"]
 title = "3 Tipos de descontos que todo profissional autônomo deveria testar"
