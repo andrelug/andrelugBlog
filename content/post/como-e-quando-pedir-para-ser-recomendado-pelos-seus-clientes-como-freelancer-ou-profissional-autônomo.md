@@ -3,7 +3,6 @@ author = "André Lucas"
 categories = ["Freelancer"]
 date = "2018-10-24T22:11:36-03:00"
 disqus = false
-draft = true
 hugo_image = "images/uploads/2018/10/25/como-ser-recomendado-pelos-seus-clientes.jpeg"
 tags = ["recomendações", "clientes", "aquisição de clientes"]
 title = "Como ser recomendado pelos seus clientes - Guia para autônomos e freelancers"
