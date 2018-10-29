@@ -1,11 +1,10 @@
 +++
 author = "André Lucas"
-categories = []
+categories = ["Freelancer", "Financeiro"]
 date = "2018-10-29T11:23:42-03:00"
 disqus = false
-draft = true
-hugo_image = ""
-tags = []
+hugo_image = "images/uploads/2018/10/29/seguranca-trabalho-autonomo-freelancer.jpeg"
+tags = ["Segurança", "Trabalho autônomo", "Financeiro"]
 title = "Segurança - Série Desafios da Autonomia"
 url = "/seguranca-serie-desafios-da-autonomia/"
 youtube = ""
@@ -45,7 +44,7 @@ Na minha opinião, **segurança significa ter um pouco mais de controle sobre os
 
 Se eu quiser um aumento, não quero ter que impressionar um chefe ou, dependendo, esperar alguém de uma posição superior à minha sair da empresa para aparecer uma vaga melhor. O que eu quero é trabalhar mais, **me esforçar mais e conquistar meu aumento**.
 
-E se eu quiser mudar o horário que trabalho? Se precisar tirar alguns dias de folga para ajudar um ente querido? Se quiser trabalhar na minha casa?
+E se eu quiser mudar o horário que trabalho? Se precisar tirar alguns dias de folga para ajudar um ente querido? Se quiser trabalhar da minha casa?
 
 Esses são questionamentos que não estão somente relacionados com a flexibilidade ou liberdade - que também tanto falamos aqui no blog - mas sim está relacionada com a segurança de viver uma vida sabendo que tenho a capacidade, se quiser, de mudar meus caminhos.
 
@@ -63,15 +62,15 @@ A realidade em si - se a pessoa será assaltada ou não - é secundária, pois s
 
 Como a consideração de estarmos seguros ou não está muito relacionada com o medo, devemos tentar trazer o medo para a razão. Compreender porque sentimos o medo de estamos inseguros. Compreender porque desejamos o sentimento de segurança. E principalmente compreender quais as situações, contextos ou ações que, exatamente, nos dão a ilusão da segurança.
 
-Em segundo lugar, depois de desconstruir o que é nos sentirmos seguros, vejo a oportunidade de substituir o sentimento de medo pelo da confiança. Mais especificamente da autoconfiança.
+Em segundo lugar, depois de desconstruir o que é nos sentirmos seguros, vejo a oportunidade de substituir o sentimento de medo pelo da confiança. Mais especificamente o da autoconfiança.
 
 Confiar em nós mesmos não significa andar no meio do tiroteio confiando que não seremos atingidos - apesar de que pode até chegar nesse nível...quem sabe -, mas sim confiarmos na nossa capacidade de tomar as melhores decisões baseadas na nossa razão e intuição agindo coordenadamente.
 
-Hoje eu sei que eu tenho segurança financeira porque eu confio que sempre vou ter clientes e tomos as melhores decisões que consigo com o meu nível de conhecimento para manter essa realidade. **O resultado é que, não surpreendentemente, tenho sempre clientes.**
+Hoje eu sei que eu tenho segurança financeira porque eu confio que sempre vou ter clientes e tomos as melhores decisões que consigo com o meu nível de conhecimento atual para manter essa realidade. **O resultado é que, não surpreendentemente, tenho sempre clientes.**
 
 ## Segurança financeira como autônomo ou freelancer
 
-Falamos um pouco sobre o que significa segurança e talvez até me deixei levar um pouco pelo assunto. Agora, quero focar um pouco mais naquilo que é considerado mais importante em relação à segurança como profissionais e até indivíduos hoje: a segurança financeira.
+Falamos um pouco sobre o que significa segurança e talvez até me deixei levar um pouco pelo assunto. Agora, quero focar naquilo que é considerado mais importante em relação à segurança como profissionais e até indivíduos hoje: a segurança financeira.
 
 Porém, antes de avançar, quero já deixar algo bem claro.
 
@@ -89,6 +88,26 @@ A primeira coisa que podemos observar é que normalmente o início da carreira m
 
 Outro padrão interessante é que há sim instabilidade no quanto se recebe como freelancer. Pode ser que um ano ou ou mês seja pior que o anterior e depois melhora, mas não segue a mesma regularidade de trabalhos fixos e dentro de empresas ou instituições.
 
-Naturalmente, esse exemplo acima não representa uma realidade absoluta e, muito menos, uma verdade baseada em fatos. É um exemplo baseado no que venho observado e estou mais do que ciente que é impossível generalizar.
+Naturalmente, esse exemplo acima não representa uma realidade absoluta e, muito menos, uma verdade baseada em fatos. É um exemplo baseado no que venho observando e estou mais do que ciente que é impossível generalizar.
 
 No entanto, percebo ao meu redor indivíduos que relatam os problemas demonstrados através dos padrões mencionados. O crescimento financeiro tradicional é demorado, pouco expressivo, algumas vezes injusto e, em geral, depende de chefes ou superiores para ocorrer.
+
+## Segurança para cada perfil
+
+Talvez já esteja claro o que eu considero como segurança pelo que disse no artigo, mas acho interessante reforçar. Eu acredito que a melhor forma de trabalho seja de maneira autônoma, assumindo a responsabilidade pelo meu desenvolvimento profissional.
+
+Como [já disse anteriormente](https://instagram.com/andre_lug), ser autônomo(a) não significa ser sozinho, mas sim assumir a responsabilidade. Ou seja, **ir atrás de parcerias, clientes, amizades e dos nossos sonhos**.
+
+Ao mesmo tempo, entendo que nem todo mundo tem essa mentalidade ou forma de pensar.
+
+E está tudo bem!
+
+A forma como eu penso não é para ser generalizada como a melhor. O objetivo é gerar o questionamento. Se você se questiona sobre o que é melhor para você; entendendo que nossas vontades, ações, conceitos e preconceitos são baseados em nossa cultura - e que até a própria cultura pode ser questionada - então sua decisão é a melhor para você.
+
+Afinal, o que é segurança para você pode ser diferente do que é segurança para mim. Mas se por algum motivo essa forma de pensar que expliquei faz sentido para você, então _simbora_ que há muito ainda o que falar sobre esse assunto.
+
+Te convido para se inscrever na minha lista de e-mails pois toda semana envio conteúdos relevantes sobre trabalho autônomo, freelancer, produtividade, marketing, vendas e reflexões como essa.
+
+De qualquer maneira, lembre que você tem o poder de escolher seu caminho. Provavelmente poucos serão os caminhos fáceis, simples, rápidos ou só de coisa boa, mas as recompensas de assumirmos a responsabilidade pelo nosso sucesso são imensas e, em geral, valem a pena.
+
+Divirta-se!
