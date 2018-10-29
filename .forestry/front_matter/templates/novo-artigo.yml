@@ -53,6 +53,7 @@ fields:
   label: Hugo Image
   description: Imagem destacada
 pages:
+- content/post/segurança-x-flexibilidade-série-desafios-da-autonomia.md
 - content/post/como-e-quando-pedir-para-ser-recomendado-pelos-seus-clientes-como-freelancer-ou-profissional-autônomo.md
 - content/post/questoes-que-voce-precisa-responder-antes-de-virar-freelancer-ou-profissional-autonomo.md
 - content/post/como-comecar-sua-carreira-de-sucesso-como-freelancer.md
