@@ -23,7 +23,7 @@ Falamos de vendas com frequência, mas o que é essa área comercial? Diferente 
 
 Ao mesmo tempo, temos outras dezenas de profissões que, no fundo, também são vendedores. Corretores, consultores e atendentes de telemarketing são o que? Vendedores!
 
-Se pararmos para pensar, o que profissionais de marketing fazem é também parte do processo comercial e de vendas - ainda mais no [marketing digital e de infoprodutos](https://andrelug.com/infoprodutos-e-cursos-online/). Mesmo marketing não sendo vendas, as distâncias estão cada vez menores.
+Se pararmos para pensar, o que profissionais de marketing fazem é também parte do processo comercial e de vendas - ainda mais no [marketing digital e de infoprodutos](https://andrelug.com/infoprodutos-e-cursos-online/). [Mesmo marketing não sendo vendas](https://supervendedores.com.br/vendas/a-venda/o-que-e-vendas/), as distâncias estão cada vez menores.
 
 Venda, no fundo, é o [processo de troca ou transferência de propriedade de algum produto, serviço ou informação por um bem de valor](https://conceito.de/venda) - normalmente dinheiro. Porém eu acho que o processo de vendas está muito relacionado com:
 
