@@ -7,6 +7,7 @@ draft = true
 hugo_image = ""
 tags = []
 title = "Como vender nosso serviço ou produto como profissional autônomo ou freelancer"
+type = ""
 url = "/como-vender-nosso-servico-ou-produto-como-profissional-autonomo-ou-freelancer/"
 youtube = ""
 
@@ -55,3 +56,14 @@ Naturalmente, se você já acompanha esse blog há um tempo provavelmente não a
 Dito isso, realmente algumas pessoas tiveram uma experiência e oportunidades na vida que as possibilitaram serem melhores em vendas.
 
 ### Estratégias e técnicas
+
+A primeira grande parcela de responsabilidade pelo que podemos considerar "ser um(a) bom/boa comercial" é ter uma estratégia para o decorrer das negociações e técnicas para conseguir ter um bom posicionamento entre as partes envolvidas.
+
+Se você quiser aprofundar um pouco mais nesse tópico, sugiro acessar meu [treinamento gratuito sobre como sempre ter clientes](https://treinamento.andrelug.com). Aqui vou explicar apenas a relevância do tópico.
+
+Todo esse processo começa com dois questionamentos:
+
+1. O que eu conheço sobre o outro lado da negociação e da venda (quem está comprando).
+2. Como vou agir em cada possível situação de tensão, dificuldade, vitória, etc.
+
+Isto é, **um questionamento interno e outro empático**. Sempre que precisamos de 
