@@ -59,11 +59,21 @@ Dito isso, realmente algumas pessoas tiveram uma experiência e oportunidades na
 
 A primeira grande parcela de responsabilidade pelo que podemos considerar "ser um(a) bom/boa comercial" é ter uma estratégia para o decorrer das negociações e técnicas para conseguir ter um bom posicionamento entre as partes envolvidas.
 
-Se você quiser aprofundar um pouco mais nesse tópico, sugiro acessar meu [treinamento gratuito sobre como sempre ter clientes](https://treinamento.andrelug.com). Aqui vou explicar apenas a relevância do tópico.
+Se você quiser aprofundar um pouco mais nesse tópico, sugiro acessar meu [treinamento gratuito sobre como sempre ter clientes](https://treinamento.andrelug.com). Já nesse artigo, vou explicar apenas a relevância do tópico.
 
 Todo esse processo começa com dois questionamentos:
 
-1. O que eu conheço sobre o outro lado da negociação e da venda (quem está comprando).
-2. Como vou agir em cada possível situação de tensão, dificuldade, vitória, etc.
+1. O que eu conheço sobre o outro lado da negociação e da venda (quem está comprando)?
+2. Como vou agir em cada possível situação de tensão, dificuldade, vitória, etc?
 
-Isto é, **um questionamento interno e outro empático**. Sempre que precisamos de 
+Isto é, **um questionamento interno e outro empático**. A estratégia de uma negociação passa por um olhar do mundo através dos olhos da outra pessoa. Compreender suas motivações, suas crenças, objetivos, medos e por aí vai.
+
+Contudo, para compreendermos o outro lado precisamos antes entender como nós mesmos funcionamos. Como reagimos em uma situação de medo, orgulho, felicidade, tensão e outras inúmeras possíveis situações e sentimentos que podemos sentir ao longo do processo de venda.
+
+Entender como funcionamos vai ajudar muito para, então, determinar quais comportamentos queremos mantes, quais queremos eliminar e quais queremos apenas adaptar. Não significa deixarmos de ser genuínos, mas sim entender que existem técnicas que podemos  aplicar para melhorar nosso desempenho e sermos mais bem vistos a partir do ponto de vista da outra pessoa para quem estamos querendo vender algo.
+
+Imagine que você, quando em uma situação de pressão, acaba não pensando muito bem e agindo de maneira não muito racional. Sabendo disso, quando em uma negociação você tiver que tomar uma decisão com a pressão do outro lado, utilize a técnica de falar que não toma decisão de supetão assim e que precisa analisar todos os fatores.
+
+Não só isso nos dá confiança mas também ajuda a combatermos nossos pontos mais 'fracos' com técnicas e estratégias que nos darão mais tranquilidade.
+
+### Preparação Emocional
