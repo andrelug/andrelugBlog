@@ -76,4 +76,6 @@ Um erro muito comum é achar que tudo é importante. **Aí vem alguém com a fra
 
 Essa frase pronta é chata porque ela é verdade e bate lá no ego quando a gente ouve. Tendemos a achar que tudo que fazemos é importante e que os outros é que não entendem como é o nosso desespero.
 
-Aproveitando o exemplo anterior, 
+Aproveitando o exemplo anterior, tem hora que o desespero de um amigo, a ansiedade de um cliente e nossas necessidades biológicas estarão em uma batalha interna para saber quem é mais importante ou urgente.
+
+E é aí que entra uma outra reflexão importante.
