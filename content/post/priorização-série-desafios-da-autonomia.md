@@ -22,7 +22,7 @@ Quando terminamos uma tarefa, duas mais aparecem e essa é a vida que levamos po
 
 Não sei bem como é a sua lista ou se até mesmo você tem ou não uma lista de tarefas. Porém, esse artigo não é sobre organizar melhor sua lista ou mesmo falar para você ter uma lista. Parto do pressuposto que já tem uma.
 
-**Nota**: Se você não tem uma lista, vai fazer uma. Sério. Entra no [Todoist](https://todoist.com) e começa a organizar suas tarefas pois vai ajudar demais na sua produtividade. Aí volta aqui nesse artigo :)
+**Nota**: Se você não tem uma lista, vai fazer uma. Sério. Entra no [Todoist](https://todoist.com/r/andre_lucas_scdudl) e começa a organizar suas tarefas pois vai ajudar demais na sua produtividade. Aí volta aqui nesse artigo :)
 
 O que quero fazer aqui é uma reflexão sobre o que fazemos com essa lista e, mais profundamente, **como priorizamos o que colocamos nela e o que fazemos cada dia**.
 
