@@ -53,6 +53,7 @@ fields:
   label: Hugo Image
   description: Imagem destacada
 pages:
+- content/post/todoist-série-ferramentas-da-autonomia.md
 - content/post/priorização-série-desafios-da-autonomia.md
 - content/post/como-aumentar-o-seu-preço-como-freelancer.md
 - content/post/como-vender-nosso-serviço-ou-produto-como-freelancer.md
