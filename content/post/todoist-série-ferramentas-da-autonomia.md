@@ -155,7 +155,7 @@ Eu utilizo a versão premium pois é o meu principal sistema de organização de
 
 ## Conclusão
 
-Como já comentei, o Todoist pra mim é o melhor sistema de gestão de tarefas e exatamente por isso resolvi compartilhá-lo com você.
+Como já comentei, o Todoist pra mim é o melhor sistema de gestão de tarefas e exatamente por isso resolvi compartilhá-lo com você. Também quero deixar um agradecimento ao blog [Keep Productive](https://www.keepproductive.com/todoist/) pela inspiração na criação do artigo.
 
 Como é um aplicativo que pode ser utilizado de maneira gratuita, não há porque não testar. Aproveita e deixa nos comentários o que hoje você utiliza para fazer a gestão dos seus projetos e tarefas.
 
