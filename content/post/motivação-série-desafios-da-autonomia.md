@@ -3,8 +3,7 @@ author = "André Lucas"
 categories = ["Freelancer"]
 date = "2018-12-10T01:12:57-02:00"
 disqus = false
-draft = true
-hugo_image = ""
+hugo_image = "images/uploads/2018/12/11/motivacao-desafios-da-autonomia.jpeg"
 tags = ["Desafios da Autonomia"]
 title = "Automotivação - Série Desafios da Autonomia"
 url = "/automotivacao-serie-desafios-da-autonomia/"
@@ -130,9 +129,45 @@ Para finalizar, não acredito que a motivação seja algo que encontramos extern
 
 ## De onde vem a motivação e como podemos nos automotivar
 
+Como comentei, a motivação vem de um equilíbrio interno o qual, por sua vez, é derivado do alinhamento entre nossas ações e o que nosso coração acredita que é o correto.
+
+Para destrinchar mais isso, precisamos então entender o que significa essa vontade do coração. Eu acredito que todos nós temos algo interno que nos guia. Seja esse guia algo que decidimos antes de vir para a terra, seja ele adquirido ao longo da nossa vida ou mesmo influenciado por outras pessoas e culturas não importa. Temos algo que sentimos e conseguimos identificar se o que estamos fazendo está alinhado ou não com essa "vontade do coração".
+
+Inclusive, mais do que saber se estamos fazendo algo que está alinhado com esse propósito, é ainda mais fácil identificar quando não estamos alinhados.
+
+Repare que utilizei agora o termo "propósito". Em várias linhas de coaching, religião ou filosofia vemos esse tipo de palavra que identifica um intuito, divino ou não, que serve como guia.
+
+Na minha opinião, a real motivação vem quando seguimos um caminho alinhado a esse propósito. Contudo, nem sempre podemos agir alinhados a esse propósito ou sequer sabemos qual ele é. Isso quer dizer que não poderemos ficar motivados? Não é bem assim também.
+
+### Movitação sem propósito
+
+Existe sim formas de nos motivar mesmo que não seguindo conscientemente nosso propósito ou alinhamento com a 'vontade de nossos corações'. A partir do momento que executamos qualquer ação podemos lembrar das razões pelas quais estamos executando esse trabalho e isso pelo menos vai nos mover.
+
+A razão pode ser simples como ganhar dinheiro ou mais complexa. Porém, só até esse ponto não é suficiente. **Temos que lembrar para quem estamos fazendo o que fazemos**.
+
+'Para quem' e 'por que' são as duas perguntas mais fortes que você pode fazer para buscar ânimo e executar o que precisa com mais vontade e determinação.
+
+Além disso, é interessante um terceiro elemento para completar: O sonho.
+
+Quando falamos que algo é um sonho nosso parece que é algo inalcançável ou complexo, mas é importante darmos atenção aos desejos que aparecem na nossa cabeça e considerá-los como possibilidades.
+
+Há alguns anos eu sonhei em não precisar trabalhar para outras pessoas ou empresas. Apesar de na época eu nem saber se isso seria possível eu corri atrás para construir e buscar soluções para fazer esse sonho uma realidade.
+
+Ao mesmo tempo, lembro de pensar em outros sonhos que não achei que seriam possíveis e que hoje acredito que poderia ter conquistado se tivesse acreditado neles. Eu queria ser piloto de avião uma época da minha vida, mas não passou de treinar um bocado no jogo de simulação do computador.
+
+Dar atenção aos desejos e sonhos que aparecem, muitas vezes sem sabermos de onde, pode ser um caminho para descobrir seu propósito.
+
+### Motivação com propósito
+
+Se você já entender um pouco mais sobre para qual caminho seu propósito ou vontade interna quer te levar, então é muito mais simples a situação. Naturalmente o que mencionei acima serve imensamente para contribuir para a motivação, porém pode ser que seja ainda mais poderoso ter em mente sempre esse propósito.
+
+Provavelmente o próprio fato de agir alinhado(a) com a vontade do coração já vai transformar os ânimos e estará mais frequentemente motivado(a).
+
+Porém, o desafio ainda continua de controlar e organizar a vida para evitar que os elementos que mencionei acima não avacalhem seus dias e façam com que mesmo que um propósito bem definido seja suficiente para levantar da cama com emoção e vontade de viver.
+
 ### Motivação como o mar
 
-Uma analogia interessante é o mar. Pense que você está numa praia. Sua resiliência e capacidade de ação são a água e as ondas a motivação.
+Uma analogia interessante é o mar. Pense que você está numa praia. Sua resiliência é a água e as ondas a motivação.
 
 Um dia a maré estará baixa e você vai trabalhar ou fazer suas coisas normalmente, mas com um pouco de lentidão ou dificuldade.
 
@@ -144,4 +179,10 @@ Muitos de nós vivem assim, aceitando que um dia a maré está alta, outro dia e
 
 E a automotivação? Você pode pensar que - seguindo a analogia e lembrando que está relacionada com assumirmos a responsabilidade por ela - seria tentar controlar quando o vento vem ou mesmo criar uma piscina de ondas artificial. Porém, na minha opinião a chave para a automotivação é entrarmos mais fundo na água, onde estamos sempre banhados com a capacidade de ação e as ondas simplesmente fazem ainda parte do mar.
 
-Lembrar do por que, de quem
+## Conclusão
+
+Espero que tenha gostado desse artigo. O intuito dessa série não é trazer a solução para os problemas e desafios dos profissionais autônomos, mas sim de mostrar um pouco dos dilemas e reflexões que estão frequentemente presentes na nossa vida de autonomia.
+
+Se você curtiu, comenta abaixo como você lida com a motivação e vamos continuar a conversa por lá.
+
+Divirta-se!
