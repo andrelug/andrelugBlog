@@ -295,11 +295,11 @@
 		}
 
  $(document).ready(function () {
-	 $('a').each(function(){ if( $(this).attr('href') && ($(this).attr('href').indexOf('andrelug.com')
-== -1 && $(this).attr('href').indexOf('http') !== -1 && $(this).attr('href').indexOf('?') == -1) ) { $(this).attr('href',
-$(this).attr('href') + '?ref=andrelug'); } else if ( $(this).attr('href') && ($(this).attr('href').indexOf('andrelug.com')
-== -1 && $(this).attr('href').indexOf('http') !== -1 && $(this).attr('href').indexOf('?') !== -1) ) { $(this).attr('href',
-$(this).attr('href') + '&ref=andrelug'); } });
+// 	 $('a').each(function(){ if( $(this).attr('href') && ($(this).attr('href').indexOf('andrelug.com')
+// == -1 && $(this).attr('href').indexOf('http') !== -1 && $(this).attr('href').indexOf('?') == -1) ) { $(this).attr('href',
+// $(this).attr('href') + '?ref=andrelug'); } else if ( $(this).attr('href') && ($(this).attr('href').indexOf('andrelug.com')
+// == -1 && $(this).attr('href').indexOf('http') !== -1 && $(this).attr('href').indexOf('?') !== -1) ) { $(this).attr('href',
+// $(this).attr('href') + '&ref=andrelug'); } });
 
 {{ if .Param "pageStyle"}}
 
