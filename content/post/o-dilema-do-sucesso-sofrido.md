@@ -1,7 +1,7 @@
 +++
 author = "André Lucas"
 categories = ["Reflexões", "Lifestyle", "Nômade Digital"]
-date = ""
+date = "2019-02-17T19:00:00-03:00"
 disqus = false
 hugo_image = "images/uploads/2019/02/18/pexels-photo-277052.jpeg"
 tags = ["Sucesso"]
