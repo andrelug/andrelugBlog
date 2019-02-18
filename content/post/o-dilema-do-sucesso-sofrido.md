@@ -101,4 +101,38 @@ Parece que, "para valer", aquela rotina de tranquilidade na praia só poderia se
 
 Mas no fundo poderia ser mais simples.
 
-## Autocomplacência
+## Autocomplacência, confiança e o heroísmo
+
+Há alguns anos trabalho com marketing digital e vendas. Seguindo os moldes de lançamentos de produtos online me deparei com o termo "A Jornada do Herói".
+
+Com o objetivo de gerar um sentimento de 'sou especial', a ideia é:
+
+A melhor forma de se apresentar para algum potencial cliente é falar da sua jornada do herói relutante. Ela vai assim:
+
+1. Eu sou como você
+2. Eu queria ser diferente
+3. Porém, eu tinha essa dificuldade
+4. Fiz enormes investimentos de tempo, dinheiro e foi muito difícil
+5. Agora sou uma pessoa diferente e vou compartilhar essa informação por que quero te ajudar.
+
+Ou quem sabe assim:
+
+1. Eu sempre tive esse determinado problema
+2. Mas a vida não deveria ser assim
+3. Relutei por muito tempo resolver isso por algum motivo qualquer
+4. Aí algo aconteceu na minha vida e eu resolvi enfrentar esse problema
+5. Hoje posso te ensinar sobre isso e te contar o caminho
+
+...a jornada de alguém que enfrentou diversos problemas para chegar até onde está é uma história que apela para esse sentimento que temos ao valorizar a conquista se ela vem através de dificuldades.
+
+Porém, quando eu fui escrever a minha história do 'herói relutante' eu me senti como se tivesse alguma coisa errada. Sim, eu passei por dificuldades e momentos difíceis na vida. Mas olhando para trás eu posso ver o tanto que fui privilegiado pela linda família que tive, por poder ter tempo e dinheiro para investir nos meus sonhos e por conhecer pessoas no meu caminho que me impulsionaram em vez de me tolher.
+
+Em momento algum eu superei a fome/pobreza, resolvi um problema que vai fazer a vida de milhares de pessoas melhor ou desafiei as leis da física e biologia. Eu não sou um  herói.
+
+Podemos ver, no entanto, que buscamos valorizar nossas ações o tempo inteiro contando histórias heroicas. Seja para não 'atrair olho gordo' ou simplesmente para enaltecer nosso desejo por atenção, acabamos nos colocando como seres que desbravaram o mundo para conseguir atingir um objetivo. Vencemos batalhas. Superamos nossas expectativas. O sucesso não pode ser algo fácil, senão não conta.
+
+Em 2010 eu comecei a criação da minha monografia de graduação na faculdade. Ao meu redor, todos dizendo "Nossa! Não durmo mais, é muito difícil isso!", "Não tenho mais vida, é só monografia!", "Não sei se vou conseguir, não sei se dou conta.".
+
+Eu comecei achando que era algo bem tranquilo e agradável de fazer. Poucos momentos depois estava eu também reclamando da vida, completamente contagiado pelo sentimento de que eu não podia dizer que estava fácil ou agradável senão estaria sendo uma pessoa arrogante.
+
+A norma era ser autocomplacente. A confiança, sucesso sem esforço e diversão é para quem não é sério. Quem não dá valor.
