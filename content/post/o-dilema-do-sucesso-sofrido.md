@@ -19,13 +19,13 @@ Já tem algum tempo que, junto com minha esposa (a Amanda), tanto identificamos 
 
 O dilema do Sucesso Sofrido é o seguinte:
 
-Alguma conquista na vida só terá valor se o processo de a conquistar for complicado, sofrido, difícil ou demorado. Logo, devo aceitar não ter uma história de superação ou aceitar o sofrimento e dificuldades.
+Alguma conquista na vida só terá valor se o processo de a conquistar for complicado, sofrido, difícil ou demorado. Logo, devo escolher entre não ter uma história de superação ou aceitar o sofrimento e dificuldades.
 
 Talvez você nunca tenha ouvido alguém falar para você que você tem que sofrer para ser bem sucedido. Contudo, provavelmente você já se viu em uma situação que ou você ou alguém conhecido resolveu um problema ou conquistou algo de forma simples e isso serviu de justificativa para dizer "isso não é nada!", "foi fácil", "não conta".
 
 Quem sabe até mesmo percebeu que problemas que poderiam ser resolvidos de forma simples ou direta acabaram sendo complicados de forma irracional. Quase como se fossem para poder depois contar uma história de superação em vez de uma simples conquista.
 
-Naturalmente, existem vários aspectos que estão envolvidos nesse processo. A maior parte sutil e complicada de explicar, então vou fazer o meu melhor.
+Naturalmente, existem vários aspectos que estão envolvidos nesse processo. A maior parte é sutil e complicada de explicar, então vou fazer o meu melhor.
 
 ...na verdade não sei se é complicado de explicar, mas imaginei que você ia dar mais atenção e valor se não fosse algo mundano. E isso já explica como estamos enraizados com esse dilema.
 
@@ -119,7 +119,7 @@ Ou quem sabe assim:
 
 1. Eu sempre tive esse determinado problema
 2. Mas a vida não deveria ser assim
-3. Relutei por muito tempo resolver isso por algum motivo qualquer
+3. Relutei por muito tempo para resolver isso por algum motivo qualquer
 4. Aí algo aconteceu na minha vida e eu resolvi enfrentar esse problema
 5. Hoje posso te ensinar sobre isso e te contar o caminho
 
@@ -133,6 +133,8 @@ Podemos ver, no entanto, que buscamos valorizar nossas ações o tempo inteiro c
 
 Em 2010 eu comecei a criação da minha monografia de graduação na faculdade. Ao meu redor, todos dizendo "Nossa! Não durmo mais, é muito difícil isso!", "Não tenho mais vida, é só monografia!", "Não sei se vou conseguir, não sei se dou conta.".
 
-Eu comecei achando que era algo bem tranquilo e agradável de fazer. Poucos momentos depois estava eu também reclamando da vida, completamente contagiado pelo sentimento de que eu não podia dizer que estava fácil ou agradável senão estaria sendo uma pessoa arrogante.
+Eu comecei achando que era algo bem tranquilo e agradável de fazer essa tal de monografia. Poucos momentos depois estava eu também reclamando da vida, completamente contagiado pelo sentimento de que eu não podia dizer que estava fácil ou agradável senão estaria sendo uma pessoa arrogante.
 
 A norma era ser autocomplacente. A confiança, sucesso sem esforço e diversão é para quem não é sério. Quem não dá valor.
+
+## Sucesso sem sofrimento
