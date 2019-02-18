@@ -1,13 +1,12 @@
 +++
 author = "André Lucas"
-categories = []
+categories = ["Reflexões", "Lifestyle", "Nômade Digital"]
 date = ""
 disqus = false
-draft = true
-hugo_image = ""
-tags = []
+hugo_image = "images/uploads/2019/02/18/pexels-photo-277052.jpeg"
+tags = ["Sucesso"]
 title = "O dilema do Sucesso Sofrido"
-url = ""
+url = "/o-dilema-do-sucesso-sofrido/"
 youtube = ""
 
 +++
@@ -138,3 +137,27 @@ Eu comecei achando que era algo bem tranquilo e agradável de fazer essa tal de 
 A norma era ser autocomplacente. A confiança, sucesso sem esforço e diversão é para quem não é sério. Quem não dá valor.
 
 ## Sucesso sem sofrimento
+
+Como identificar o que pode ser simplificado e o que realmente é cabuloso?
+
+Eu não faço ideia do que é a resposta universal, mas tenho bastante confiança de que a autoconfiança é um dos fatores mais importantes.
+
+O entendimento daquilo que consideramos como "Sucesso" para cada um de nós é o primeiro passo. Em seguida, acredito que envolva uma mistura de humildade com confiança.
+
+Ser humilde para aceitar quem somos sem transparecer arrogância e confiança para quebrar padrões.
+
+Eu penso que quando enfrentamos algo complicado acabamos passando a maior parte do tempo reclamando e encontrando justificativas para transformar a experiência ainda mais complicada.
+
+Como seria se a primeira reação ao deparar com um desafio fosse a confiança? Fosse um sentimento de empoderamento. Uma noção de que está tudo bem ser simples e fácil; a conquista não é menor só porque tenho a capacidade de a atingir sem precisar de muito esforço.
+
+Trouxe essa reflexão pois é algo que estou me policiando e questionando. Vivo uma vida como nômade digital e estou sempre em dúvida do que compartilhar com o mundo.
+
+Falo dos desafios e complicações para mostrar que a vida de nômade também não é fácil?
+
+Continuo contribuindo para o ideal imaginário do 'laptop na praia' e que a vida é uma maravilha como o Instagram nos mostra?
+
+Ou será que vou pelo caminho do meio. O caminho da incerteza. O caminho da vulnerabilidade.
+
+Acho que estou preferindo esse último. Me parece mais real.
+
+Divirta-se!
