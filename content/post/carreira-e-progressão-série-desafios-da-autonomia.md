@@ -40,11 +40,11 @@ Quem está mais em cima na pirâmide tem mais poder de ação, influência, resp
 
 Carreiras - isto é, a jornada de títulos e ações profissionais - podem ser determinadas previamente pela empresa ou instituição em que o indivíduo trabalha. Mas também podem ser construídas juntamente com os empregados.
 
-Como estamos cada vez mais em um 'mundo de possibilidades', a mudança de carreira e a flexibilidade de atuação é algo cada vez mais compreendido pela maleabilidade que uma carreira pode ter; tanto na decisão individual de cada um quanto nas propostas que empresas oferecem de debate com seus funcionários.
+Como estamos cada vez mais em um 'mundo de possibilidades', a mudança de carreira e a flexibilidade de atuação é algo que é compreendido pela maleabilidade que uma carreira pode ter; tanto na decisão individual de cada um quanto nas propostas que empresas oferecem de debate com seus funcionários.
 
 Assunto muito bacana, mas como isso se relaciona com o desafio que enfrentamos sendo profissionais independentes?
 
-Pensando nessa ideia, vou explorar cinco tópicos pensando em como a definição de carreira pode ser entendida na vida como profissional freelancer ou autônomo.
+Pensando nessa ideia, vou explorar cinco tópicos relacionados com a definição de como a carreira pode ser entendida na vida do profissional freelancer ou autônomo.
 
 1. Dinheiro
 2. Status
@@ -56,9 +56,9 @@ Pensando nessa ideia, vou explorar cinco tópicos pensando em como a definição
 
 Vamos começar pelo ponto mais mencionado na ideia de carreira e progressão e, possivelmente, o mais fácil dos cinco.
 
-Existem várias formas de [cobrar mais pelo serviço que oferecemos](https://andrelug.com/como-aumentar-o-seu-preco-como-freelancer/). No entanto, um dos principais pontos é o tipo de serviço ou produto oferecido e também para quem oferece esse serviço ou produto.
+Existem várias formas de [cobrar mais pelo serviço que oferecemos](https://andrelug.com/como-aumentar-o-seu-preco-como-freelancer/). No entanto, um dos principais pontos é o **tipo** de serviço ou produto oferecido e também **para quem** oferece esse serviço ou produto.
 
-Pensa só, um coach pode começar cobrando R$ 50 a hora para profissionais que recebem um salário mínimo por mês. O trabalho pode se bem padrão e sem muita margem para trabalhos mais personalizados. Ótimo para quem está começando.
+Pensa só, um coach pode começar cobrando R$ 50 a hora para pessoas que recebem um salário mínimo por mês. O trabalho pode ser bem padrão e sem muita margem para personalização. Ótimo para quem está começando.
 
 Com o tempo, a experiência e conexões vão, esperançosamente, levar esse profissional a poder oferecer um serviço similar por R$ 200 a hora para um público mais selecionado.
 
@@ -68,11 +68,11 @@ Algo bacana do trabalho como freelancer e autônomo é que **nós mesmos podemos
 
 "Mas por que todo mundo então não oferece para pessoas mais ricas e cobram valores mais caros?"
 
-Naturalmente o seu posicionamento tem que ser sustentado pela sua história. Essa ideia de sustentar é fundamental. Significa você se sustentar como expert ou experiente em determinado assunto. Significa que sua capacidade de gerar resultado real é baseada pelo seu conhecimento e jornada.
+Naturalmente, o seu posicionamento tem que ser sustentado pela sua história. Essa ideia de sustentar é fundamental. Significa você se sustentar como expert ou experiente em determinado assunto. **Significa que sua capacidade de gerar resultado real é baseada pelo seu conhecimento e jornada**.
 
 Contudo, às vezes a sustentação ocorre apenas pela história que você deseja contar para outras pessoas. Isso significa que, com a confiança na sua 'sustentação', é possível se posicionar como um profissional muito mais experiente e 'caro'.
 
-Por que você acha que de vez em quando ficamos sabendo de uma determinada pessoa que, mesmo sem experiência, conseguiu fechar um negócio surpreendente ou uma posição numa empresa que só seniors ocupam? A história contada por meio do posicionamento é a resposta.
+Por que você acha que de vez em quando ficamos sabendo de uma determinada pessoa que, mesmo sem experiência, conseguiu fechar um negócio surpreendente ou uma posição numa empresa que só sêniors ocupam? A história contada por meio do posicionamento é a resposta.
 
 ## Status
 
