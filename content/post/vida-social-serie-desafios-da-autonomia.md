@@ -1,7 +1,7 @@
 +++
 author = "André Lucas"
 categories = ["Freelancer"]
-date = "2019-03-25T19:00:00-03:00"
+date = "2019-03-24T19:00:00-03:00"
 disqus = false
 hugo_image = "images/uploads/2019/03/25/carrying-casual-cheerful-1162964.jpeg"
 tags = ["Desafios da autonomia", "Vida Social"]
