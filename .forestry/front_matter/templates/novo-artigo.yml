@@ -1,7 +1,6 @@
 ---
 label: novo-artigo
 hide_body: false
-is_partial: false
 fields:
 - name: title
   label: Title
@@ -53,6 +52,7 @@ fields:
   label: Hugo Image
   description: Imagem destacada
 pages:
+- content/post/vida-social-série-desafios-da-autonomia.md
 - content/post/carreira-e-progressão-série-desafios-da-autonomia.md
 - content/post/o-dilema-do-sucesso-sofrido.md
 - content/post/motivação-série-desafios-da-autonomia.md
